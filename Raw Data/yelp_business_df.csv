@@ -1,0 +1,3658 @@
+,business_id,review_count,rating,transactions
+0,jIeZ7gR0zZVUKUik0cmi3g,14,2.0,"['delivery', 'pickup']"
+1,ej5wRN1VcKbiZxg9sG3Kmg,74,3.5,[]
+2,l1xgrid4DrewlurXLKiGyQ,88,3.0,[]
+3,WjJxfju2UuQNJte0Vdzpyw,18,3.0,[]
+4,59CuyNn13F7Sg8klYfz9zA,167,3.5,"['delivery', 'pickup']"
+5,nyH45z28bR9nmhqlM2Y7fw,9,2.5,['delivery']
+6,Fo9vRaUX2OTrlUmcWvqdSA,2,3.0,[]
+7,Yo9NDdsL_X9LquUHtBHBpQ,35,1.5,"['pickup', 'delivery']"
+8,-qCrGWYePySXmcngRhal4Q,90,4.0,['delivery']
+9,RjELMSrh2DuTBJQ4YpzXUA,63,3.5,"['delivery', 'pickup']"
+10,OXdKUXoDnjLGpNW9Go1e8A,7,3.0,[]
+11,21FAnridQkQCJMM_PfyfcA,46,3.5,"['delivery', 'pickup']"
+12,GKBnR6Si2s87FvH016q-tw,82,4.0,"['delivery', 'pickup']"
+13,ebZiNQBDyYyU1cPxGV98IA,34,2.0,[]
+14,rl7ePwiaEkP_NvvUtPvJWw,221,4.5,['delivery']
+15,Mv3B5QYkiizu8bxLDYlWXA,49,3.5,[]
+16,_pJ4hkjBXWmkbuXApO449Q,21,2.5,[]
+17,8B2wBX9qUsG_MlFE5D-cRA,1,1.0,[]
+18,wmqOVHiPQdudLrVfCoo7DA,52,3.0,[]
+19,xrhet2jpWESz_f2dTbEJpA,135,3.5,['delivery']
+20,SjpKnniYeACoNeHSaKeJ1Q,5,4.0,['delivery']
+21,CxA7husNEjhF0YGovG-uIw,18,3.5,[]
+22,bMv3-DWg_8Y0aXOnheekQw,149,3.5,"['pickup', 'delivery']"
+23,zHsdkSpYuiRRcq7LnZ5vmg,119,4.0,"['pickup', 'delivery']"
+24,m8zIvVtYGlkJWNz6JJoN7A,55,2.5,['delivery']
+25,c9IrcAq0Dg4HIZ3nusTt5w,40,4.5,[]
+26,pocvXbwcdfPFF3RB5949uQ,126,3.5,"['pickup', 'delivery']"
+27,cALEi15f7yEoM4yeNgx2Sg,78,3.5,['delivery']
+28,cDzDmJqIg72_rv1s4rCe8A,92,4.5,[]
+29,bPn0HoMB_v1oaJalaAVIGw,63,4.5,[]
+30,87EfTBDNptxEkxUN0q0g3g,6,2.5,"['delivery', 'pickup']"
+31,vvuvA7jNX-XwxDZTpVMgTg,69,3.0,"['pickup', 'delivery']"
+32,xNe_zxW9hAagLyYWboXaPQ,651,3.5,"['pickup', 'delivery']"
+33,mykuQmE9FFRFrXxK4cJzmA,10,2.0,['pickup']
+34,3_rtnuDvcobJRkiCdGBm3Q,7,3.5,[]
+35,vkLwsTeB2Ptbp5jnaRfYgg,38,3.0,[]
+36,taJIv-3okWm4HTsQWt22Ig,28,4.0,[]
+37,zRNNizEDGTgSbOGzi-kg5A,374,3.5,"['delivery', 'pickup']"
+38,Xm_-56cOcl5bDqzQipQR-w,329,3.5,"['delivery', 'pickup']"
+39,C9Swy4r-SjlRwWFIuv0vxA,12,2.5,[]
+40,zUdYemRlTndI2v8oebMMZw,154,3.0,[]
+41,M2tsnxFL_3qVWaslfe9SaA,63,3.5,"['pickup', 'delivery']"
+42,OGRbg94Zu0FNkAHoUOfJ9w,1,2.0,[]
+43,Vm3eljEdMR496sEJxPMZ0A,32,3.0,[]
+44,6c906sDbaOVpDgxOBZ-9yw,43,4.0,['delivery']
+45,-nwutjiZsQvv4cZkt1Jg9w,62,4.0,"['delivery', 'pickup']"
+46,tKGEJyftZXdhWQMpUjUBrQ,27,2.5,[]
+47,wT4uo_LGVdplmGO5sw7bAA,43,2.5,"['pickup', 'delivery']"
+48,8q6Zw1w5pAcW37hLzBUR7A,2,1.0,[]
+49,wOMYi5o__2kTCRLlGeDWYQ,3,2.5,[]
+50,g24Z82C66TpFdREDsr_2tw,202,3.5,['delivery']
+51,khcvXcrDB5F2dVmlc9pC6Q,15,2.0,['delivery']
+52,ubVzwn-N9Mr63orzi0zLKA,4,3.0,"['delivery', 'pickup']"
+53,aLQtg_L1ea52bHo6WE62Xg,202,3.5,['pickup']
+54,z7YgpYhaSLuoc3MH2yeecg,2,2.0,"['pickup', 'delivery']"
+55,rdXRgTIKiHgTrMxO8TGY1w,93,4.5,['delivery']
+56,3l-gn2KV1VZIXKQjHutPWw,18,4.0,[]
+57,OrVzt-tR-kOBowaDbq0AkA,151,4.0,['delivery']
+58,IYWtt-jYUSXV3GcNlijHPQ,108,4.0,"['pickup', 'delivery']"
+59,x4WlDV_eFETrDD6lMojTDg,13,3.5,['delivery']
+60,GFc4sD9wMPyln2wg77172Q,26,2.0,['delivery']
+61,tUAC5OGmN6brmc1UikKCJQ,77,3.0,[]
+62,0dGWKKknDHUMqtB7xI9GWQ,113,4.0,['delivery']
+63,NlZcrwJ2AzKofQlnvg0EsA,35,3.5,[]
+64,dtErLUgVzBGEiYgR4ISn-Q,7,2.0,[]
+65,9Y30QMmNeRFY3PPRb-d-Ag,101,3.5,"['pickup', 'delivery']"
+66,sYsPi3bXAOoXpN3VHrN1KQ,24,3.0,[]
+67,jElsPRVIb6DAx8O59id4RQ,207,2.5,"['pickup', 'delivery']"
+68,5eCtiCMPj-JTZ2_yt6KPkg,25,2.5,"['pickup', 'delivery']"
+69,qT2y1Y9ij-YBVJ_dWFlpRQ,10,4.5,[]
+70,umlaKA5Sza0-SBpp1Zn-Cw,49,3.5,[]
+71,RbNJalvQHkToblGzJE9ocg,63,2.5,[]
+72,WsJRhkwLxoS2xg4s5gDbWw,58,4.0,['delivery']
+73,GdWMtucd6h6iN5HM3LfeOQ,34,2.5,['delivery']
+74,23gdZE-xrOaCsBwm-klFtw,20,3.0,['delivery']
+75,yhJ9z_7XrnTi9ZNaDn6QKw,156,4.0,"['pickup', 'delivery']"
+76,R_TrWHifTVBFuOPSNvdK5Q,156,3.0,"['pickup', 'delivery']"
+77,Jhi-NUpZL8v9qL5e5Pznig,58,2.5,"['delivery', 'pickup']"
+78,HbKSh1ck9Egbj3jjOYpVhw,198,4.0,['delivery']
+79,wYY4Y-smqdTgNtJlIKH32g,9,4.0,[]
+80,0-JZkhrB42QBo3hTk-Fb5Q,1,1.0,[]
+81,1AJABj9zgRSX4rztsWZaCw,12,2.5,[]
+82,nABOj_XbvmDH3b69DaFLnw,42,3.5,[]
+83,gRUksgODUM-Z9aF8cntQlQ,11,5.0,[]
+84,AqK0Q0zpE5mwRrGE87jukA,145,4.0,[]
+85,udTElvk-nhIz7RB0iL_J9Q,61,3.5,"['delivery', 'pickup']"
+86,wP3J9n3aPb26HG7GUfVbdQ,78,4.0,['delivery']
+87,c_4jcVtXphf84EwkmjTZUA,71,2.5,[]
+88,8gYIukYNei5Dz2m_s5bNUQ,3,1.0,[]
+89,rEtN1jn6KD29ou2bwMprcQ,29,4.0,['delivery']
+90,E--vwmk9Oq0CMTvmBAbtiQ,22,2.0,['delivery']
+91,zaQIBLzooK8MzfM8IhnLRg,71,3.0,"['delivery', 'pickup']"
+92,hWnf0d_lx44CsOHqBYJkDQ,22,2.5,[]
+93,tAbCC_nDpXI896NdrVSrFg,48,3.5,[]
+94,t7nW_DS9mE3vaCeVHoa71w,24,2.0,[]
+95,xQf7APl1TqRoGK7Lz4tqFQ,140,3.5,"['pickup', 'delivery']"
+96,vmyT6FrHQqyX1ACYOWzSzA,86,3.0,['delivery']
+97,J08bemCATxF59MofRhJlhg,50,3.5,[]
+98,OcPv3HVjcMBAG3xRe0k5YA,44,3.5,[]
+99,1_lNofxuRR84NrIq3FVx1A,40,1.5,['delivery']
+100,6hXY9ONm8V9pECGbuCUZkA,23,1.5,"['delivery', 'pickup']"
+101,tQXBhngAUY271Crl3yFiBg,236,4.5,['delivery']
+102,Jc5_ps4Tdp-MZbi6XMFUIg,104,3.5,"['pickup', 'delivery']"
+103,IM-2yDg8izhqVC4jfLg4Hw,45,4.0,['delivery']
+104,EzCsr6zphrrVS1RSf2Opxg,53,3.5,['delivery']
+105,vrr6UEoYtpOviYoVdsbcww,30,3.5,[]
+106,AvD7mqHN8oZwPEq-kDScuQ,5,3.0,"['delivery', 'pickup']"
+107,d09ftc8gHujpQrtqhZUQtw,1,1.0,[]
+108,iTIqguqOVdBSK0yMXGRNcA,108,4.0,[]
+109,ilMb9IFmCc5nE78FMGiMug,176,3.5,['delivery']
+110,_LSakHWf01atOwpOGDltTg,18,4.0,['delivery']
+111,QmzGDyB-S1zV7TXsd65CKA,29,3.5,[]
+112,x1qUWRSXe3orsbSk2GK7sA,143,4.0,"['delivery', 'pickup']"
+113,8F-W9N4PJLfSTK_8g8YZbg,133,3.0,"['pickup', 'delivery']"
+114,GRwl0p4gDLbwQ8r8qSxdbA,34,3.5,['delivery']
+115,ujjqQs-W14IAWbw4-Pasqg,14,3.5,[]
+116,Mu1luVn5x2xRz6JMeXWlnw,13,3.5,[]
+117,CF_uTbpLs6kBEOzvQquwCQ,24,3.5,"['delivery', 'pickup']"
+118,59CuyNn13F7Sg8klYfz9zA,167,3.5,"['pickup', 'delivery']"
+119,V04R4y9m5tbdeMF8VyXg4A,17,3.0,"['pickup', 'delivery']"
+120,OMgVEl3v_nctLhcqLQ0-cg,150,4.0,['delivery']
+121,5hXUzBxhqzLRlqyPj4rydg,16,2.0,['delivery']
+122,VWXzYxw47Ar25XcQxVY8Zw,41,3.5,"['pickup', 'delivery']"
+123,_bYrR_sGfy32O1B7FWRqtA,19,2.0,['delivery']
+124,-V6OEtCRXyyW37CQJsHIxA,50,4.0,['delivery']
+125,nhTyY6GzwW_taNAagJF2sw,17,3.0,['delivery']
+126,JMK6lxESw_OMNIOBFNDDhQ,390,4.5,"['pickup', 'delivery']"
+127,hTw6m26-NtAbgqDyyToKqg,14,4.0,['delivery']
+128,DdGG2J1tqamBzGnS5ZRauw,230,4.5,"['pickup', 'delivery']"
+129,Mm5fCxzfGCuGMSWrdWo3yA,15,2.5,"['pickup', 'delivery']"
+130,ej5wRN1VcKbiZxg9sG3Kmg,74,3.5,[]
+131,binZAD0jYmEOIRwNre7UHw,28,1.5,['delivery']
+132,WhgPF2MosZr0QZtnei_96g,2,4.0,[]
+133,phcPmsVzNjTRhjV4n1i-2Q,5,3.5,[]
+134,9BMpswBAdbZ8-SCC2-4Ivw,122,3.5,['delivery']
+135,8fVKTvWCc8YElYQRUjnI8g,116,2.0,[]
+136,NFs1Q3eWevofByCBfSRizw,189,4.5,[]
+137,1OOAmtVx-wygPtP2ar11-A,51,3.0,[]
+138,9dNMDv_YQgEs46JoeYdCPg,73,3.5,"['pickup', 'delivery']"
+139,Qp4KzhuNN3F0FiyTVB7Msg,47,3.5,"['pickup', 'delivery']"
+140,7lnp2ywnT9Bo2Q620L2viA,7,3.0,['delivery']
+141,H7ypxWYecQbJ8Lnu6kBYHA,34,3.5,"['pickup', 'delivery']"
+142,mNoDz4UC8v8_WEYo0SgkoA,27,2.5,[]
+143,YPvL1ic0aaad981Umc8X6w,197,4.0,['delivery']
+144,j_4yZLGtSJP76HVW8nlNFw,5,3.0,[]
+145,s1fbDD1a2we5WB6nety_mQ,66,3.5,[]
+146,2gJNDXfchto9n90xmWi-lA,168,4.0,[]
+147,XLr90cFlRy6QxUmQje0Avg,1,4.0,[]
+148,5zT-MK5LQQSngRz5oxBQgA,244,3.5,"['delivery', 'pickup']"
+149,37hCxhMiqG8VR8C1x0jd1Q,351,4.5,['delivery']
+150,iUOhEwzqg3yQ7-1SRZnXlA,63,3.0,['delivery']
+151,_k1qpoo6W31nVaxNZ8N_rw,8,2.5,[]
+152,QZ-FqlXLf55kDvjmoG2Lkw,33,2.5,['delivery']
+153,sThQHsCcZGdCFpbctXJ6dg,75,2.5,"['delivery', 'pickup']"
+154,ya14xXMBQ5jXJRiUz_WGww,9,4.0,"['delivery', 'pickup']"
+155,3mKWosTZhN8xD5A3z6Fvgg,22,3.5,['delivery']
+156,k8OIklkBcvwMDHUDkKedFA,27,3.0,"['delivery', 'pickup']"
+157,EzCsr6zphrrVS1RSf2Opxg,53,3.5,['delivery']
+158,v-Gs_pEku16jo3ZgJFEEiw,2,3.0,[]
+159,4cL0treEWawSOfG_GFvPNw,40,2.5,['delivery']
+160,SrmzyAQwhhyv-7kOGydbkw,23,2.5,['delivery']
+161,Rz_KtkujG9wcNtXugpH6Ug,9,3.5,['delivery']
+162,kVgXGtjvEHCykKSN5uyWdw,121,3.5,"['delivery', 'pickup']"
+163,8HuvMIEadZFcuKuTyqnOTw,217,4.0,[]
+164,hl8xNOAHFoPH-py0BxYuWA,167,3.5,"['delivery', 'pickup']"
+165,Bw3Tkf99EfrzXhvfkiT9yA,19,4.5,[]
+166,NWf6TWJrVEuN5-SJp_ltJQ,12,4.0,['delivery']
+167,HNRlGu4WHLumiVsPQtxmSw,18,3.5,[]
+168,N-mLkHnYxQkcQ9g8YFRtCg,31,3.5,[]
+169,cT-ZtdO4TZZ9T8ZaaIXBEw,101,3.0,"['pickup', 'delivery']"
+170,ASRJMlC6Q8_WPUqJniSOUw,91,3.5,"['pickup', 'delivery']"
+171,LuiudAvRseYGnsXCba1PCA,302,4.0,['delivery']
+172,Wc6YvZHyAfnvzvVXZ0k9rw,28,2.5,['delivery']
+173,yE7qviLVdYsZgb5UNFJiGQ,122,2.0,"['delivery', 'pickup']"
+174,Y3NC0y1IgCXs_J32KHjKOg,3,2.0,"['pickup', 'delivery']"
+175,Iaoa-6nbf3qRsDVhn80jhA,31,4.5,[]
+176,tSUxjjS-a_dhlznamSG77w,25,2.0,['delivery']
+177,NP6MouR7P8ed-sWwNngr7w,15,1.5,['delivery']
+178,H1GWzf69Acfp_Og65Y6iNg,50,4.5,"['pickup', 'delivery']"
+179,WLBiYZvlauzWk5-ll8BmHg,5,2.0,[]
+180,dvjImDwsXxSOZDJqASmbiA,67,4.5,['delivery']
+181,kLqB8aYQbEZU--jTBw3BUA,37,2.5,['delivery']
+182,ye1oYSwvmNvzzNXH-z3Q9Q,1,1.0,"['pickup', 'delivery']"
+183,q1hB8N7Ae-WgJzdqLH97dA,18,3.5,[]
+184,10XlCbBpuOTdQvMYSrpRkw,123,3.0,['delivery']
+185,0KXSzPhAPMgn4zF290vSfQ,319,3.5,['delivery']
+186,uPUiYryAKvbLjpjc6UkWug,29,2.5,"['delivery', 'pickup']"
+187,ZFO6m3GeiCxF_4QUIded7g,161,4.0,['delivery']
+188,XJrWPOX-S_Cojyve6sSHxg,17,2.5,"['pickup', 'delivery']"
+189,hyYnR8AQOmlWTaVWQOyjLA,74,2.0,[]
+190,4JyEH6T4U3qVcihvUnOnew,141,4.0,"['delivery', 'pickup']"
+191,yGUplHUJZrP34LfEtDIItQ,12,2.5,['delivery']
+192,h_mUsrKCpGO3ClZu0wJEeA,12,3.0,['delivery']
+193,2ZJu0mBzdf0-noHzLyZS2w,5,2.5,[]
+194,MIIXJcG3rtScq63C_gqDKA,188,3.5,[]
+195,qT2y1Y9ij-YBVJ_dWFlpRQ,10,4.5,[]
+196,umlaKA5Sza0-SBpp1Zn-Cw,49,3.5,[]
+197,_vAeqFMzkFy7OKZv8QPHRg,50,4.0,['delivery']
+198,FAGJzYeWZdGkdHBE4v4lhA,717,4.5,['delivery']
+199,IybFziHCQxcGzKqAXQxk5g,5,2.5,[]
+200,tx_3hsmUiQK6wzJcxEgw1Q,16,3.0,[]
+201,RYJtXPn6kHa5R-SeQ8b5cg,29,4.0,[]
+202,qY1MO6rOgE0hoSBdAJ8xoA,22,3.5,"['delivery', 'pickup']"
+203,yyzM-PYBlUf1wuCwTTPpog,95,3.5,"['pickup', 'delivery']"
+204,dM5ZQsQ4cFzTMcHshdDuRw,5,3.0,[]
+205,qeabde9RHjUJD0ZUFBV2YA,411,4.0,"['pickup', 'delivery']"
+206,dSmQk-JLXIOrteJ5U9LrFQ,7,5.0,['delivery']
+207,8WO1GG2mO9yAZN1QyMR-3g,167,4.5,['delivery']
+208,O_4oEV_CwWwuAbUt3OJu2w,20,4.0,[]
+209,Mfz5RMoRvgNBQ8FUn7HO_w,1,4.0,[]
+210,au0WQJx2TnOjy7LYOxusZA,155,4.5,"['pickup', 'delivery']"
+211,3DSABPB5SsOHqeqRERBoOw,63,4.5,['delivery']
+212,1iQKNWvjwx9Z_WbuGZFdJg,25,1.5,['delivery']
+213,M4hCJIP-Y_tedJ-tuo43sQ,28,1.5,"['pickup', 'delivery']"
+214,Cm8y7oX7mg7Mawx8EpPB2A,5,2.5,['delivery']
+215,uaeLZvRq5JHY_I8g6I8_Cw,27,3.0,['delivery']
+216,SRd-jauPrb8dRBitXa8TtA,141,4.0,['delivery']
+217,BUOyBFwILQ5PLjDqYYz83g,14,2.0,[]
+218,3LTcUk3dS2x-1XUz6lYa0w,36,3.5,['delivery']
+219,aa143IL8Wc-hXdRqYzUv7A,3,3.5,[]
+220,92am34EKwFCUoZ7Jy0TQeQ,76,4.0,[]
+221,Zktwf4BNVj0gR6towUQZEQ,9,2.5,"['delivery', 'pickup']"
+222,JRz8FjABlAJ41VMFoaxTGA,17,3.0,"['pickup', 'delivery']"
+223,Paz7Ws5E1am2pJGkjPIcWw,155,3.5,"['pickup', 'delivery']"
+224,vPKJ5hibTDbNK4BofGBHtA,182,4.0,['delivery']
+225,bkVsViZHXfMuuYk_z9SG8g,89,4.5,"['pickup', 'delivery']"
+226,IUE45XyfGEmtVp8sqY8D2g,115,4.0,"['pickup', 'delivery']"
+227,VhXq6XZC9ORFqYJK17cNpQ,8,4.0,"['pickup', 'delivery']"
+228,AFZEIF2snOsS57oW-1kHBA,10,4.0,"['pickup', 'delivery']"
+229,ZPdf_MjVuSX0ot-thQkWSg,19,4.0,['delivery']
+230,dvjImDwsXxSOZDJqASmbiA,67,4.5,['delivery']
+231,kLqB8aYQbEZU--jTBw3BUA,37,2.5,['delivery']
+232,OwSGYyYmtwdiBH-AR-fnNw,40,4.5,"['pickup', 'delivery']"
+233,Qg_ySDplzP0180Md-KMwuw,62,4.5,['delivery']
+234,KBkTQXeAnrJG-EMO6rFvyA,63,3.0,[]
+235,AzIJvuSMwEXtZtuT78RoHA,103,4.5,"['pickup', 'delivery']"
+236,MwwrcMOgzqtdUA6uQgJ-jw,2,3.5,[]
+237,1ZwG3WxlNpPGbOoEVNqIYw,9,4.5,[]
+238,ywHkUkxl9w03sTJoU7_k0w,49,3.5,"['pickup', 'delivery']"
+239,WackFldBsE9GQDciJOxmbQ,152,4.0,"['pickup', 'delivery']"
+240,KBkTQXeAnrJG-EMO6rFvyA,63,3.0,[]
+241,Mh5sy_IxFgnRtKQ-nX5sbA,55,4.0,['delivery']
+242,jQc8Lo-1h7lWQRVNeRaZ-Q,50,3.5,"['pickup', 'delivery']"
+243,3X_HBKibwFbRa59izg_Qxw,134,3.5,['delivery']
+244,JupnPb-G7_F2D_9jr2P1iw,62,4.5,[]
+245,O9HQTSfFk5mB846kniCUmw,27,3.5,[]
+246,qV9CRE9kxDzxHqV2iY1tjw,5,4.0,['delivery']
+247,dJ_sGfnJ7mV9yxXEi9vxzw,75,4.0,"['pickup', 'delivery']"
+248,fWgi3HS6Ytl4HsD9yXOW_g,90,3.5,"['pickup', 'delivery']"
+249,n9GC-_T9TS05ROs1m7AYcg,210,4.5,['delivery']
+250,Onw-a5wPn-q0zUX6xUrgAw,8,5.0,[]
+251,2TSNwz0Rdr2S7grTy1JA8w,60,1.5,['delivery']
+252,7Yo048xDSk4p3VNhg8KbvA,16,3.5,['delivery']
+253,nCkleyiyw0v3Vhmef_RyOQ,16,4.5,[]
+254,7Bjaf34Hf5evS6-4rX4zBQ,367,4.0,[]
+255,CiilZMnnzx4vmxvhN3PRMQ,45,3.5,"['pickup', 'delivery']"
+256,SL0Uh6TV-WVioCGtHpurrA,268,2.5,"['pickup', 'delivery']"
+257,dvqvVVNQ2pikmBkNExVmNw,1,3.0,"['delivery', 'pickup']"
+258,e7kHjwhuapJ6kHNjWhalZw,223,4.0,"['pickup', 'delivery']"
+259,trHh5E7rSv1XfJldPv0n7Q,27,5.0,"['pickup', 'delivery']"
+260,FKw9j6xU1NlUJpz4kA2h5A,44,3.5,"['pickup', 'delivery']"
+261,1qs-c2TnvJy2KhOWtkbcXA,40,4.0,['delivery']
+262,ojM_w5kZgjXhBVqSTyBvCA,32,4.0,['delivery']
+263,a517lBuBQtPZxCUaDOI1yA,42,4.0,['delivery']
+264,TS4CyAv92k6lJD4R4FjWhQ,6,3.5,['delivery']
+265,8QafCx24GnSGSfvVbXqs0Q,290,4.0,['delivery']
+266,HMHQaqcfgFbfzTb_3eAw4g,8,3.0,[]
+267,W6caR4g2-i5mgJwJXUgeOg,85,4.5,['delivery']
+268,bDk5idgw90P-V33nvnnagQ,3,3.5,['delivery']
+269,_RSfKyxfSAAjqWZrytld9Q,4,2.0,['delivery']
+270,CIgMtwd4FMm4ob8TkL0qYA,69,4.0,['pickup']
+271,yK0GO81upr82oMHa5spiIw,63,3.5,"['pickup', 'delivery']"
+272,bltSxKMuPWt0Wm4E5HRbCQ,69,4.0,"['pickup', 'delivery']"
+273,n_cFhsc9d0abBNyA3bf9tg,120,3.5,"['delivery', 'pickup']"
+274,6Hl8FiuOFJ47Ck86Wiw3oA,53,4.0,"['pickup', 'delivery']"
+275,FhGVdA_TXuamAPVcHsl-MQ,72,4.5,"['pickup', 'delivery']"
+276,kG2Er-5X8rabfwFzMtdmBA,65,4.5,['delivery']
+277,5GjkxD8PdLyTzlFAK5L1og,35,3.5,['delivery']
+278,xfiyzseBKAPEoZ79zAZb4g,31,2.5,['delivery']
+279,6rsaauf9BRomoTBivjHZGg,12,4.5,[]
+280,mAP8o2pHPgEjCscQe3uYvw,66,4.5,['delivery']
+281,UQLtIRFhz0gLlBg_HQ_-Ng,17,2.5,"['delivery', 'pickup']"
+282,b6V1EvttjBAEFsVhAFuWlQ,49,4.5,['delivery']
+283,FzFcqrc1vNPwyXUsqUd4IQ,45,5.0,"['delivery', 'pickup']"
+284,z7yuhjEVD844hx7lcgqziw,170,4.5,"['pickup', 'delivery']"
+285,Frf1qZQ-ZOfgzzs6Jt2fgA,19,4.0,"['pickup', 'delivery']"
+286,7ydC028jxHIA9ANXWQDa_g,44,2.5,"['pickup', 'delivery']"
+287,wpisyGbscrHv7TBh0cuyMw,55,2.0,['delivery']
+288,RsJM3F0ie0B-AtLb3-stGA,9,2.0,['delivery']
+289,E--vwmk9Oq0CMTvmBAbtiQ,22,2.0,['delivery']
+290,UsiOV8Rmp47qmm5PUN1YQA,27,4.5,"['pickup', 'delivery']"
+291,3R9obMEXRBCSuGWpkHJC0Q,16,3.0,"['delivery', 'pickup']"
+292,2A6rLDsm8wvGALOT8awbGA,156,4.0,[]
+293,St5levK8eKbxemLucdF6kw,16,4.0,['delivery']
+294,9VW1E3633Vn6U5140ZVL9A,57,3.0,[]
+295,vt0RaUKwqdfTklblzqHv1w,1,5.0,[]
+296,9pI-tpx1UpMKmqbh9HrLOg,4,2.0,['delivery']
+297,4QCPa5qKa2QksgDZ66pwzQ,1,5.0,[]
+298,14lOVqwedA62hQnueVd5rQ,3,4.0,[]
+299,6HWp29hJthMPERxbkxvsJg,93,4.5,['delivery']
+300,vqeOh_i10N0QEUkGZO8_2Q,256,4.0,[]
+301,xnenfjz6XF_spKQ5Ap4xPQ,38,4.5,"['delivery', 'pickup']"
+302,HWWghZQPxZZGzT9luQe01w,63,4.5,['delivery']
+303,iBDAW9Wf705gMuX8zTw0GQ,23,3.5,"['delivery', 'pickup']"
+304,ZOX2_0-wQE3PRLfdBPAIYQ,3,3.0,"['delivery', 'pickup']"
+305,jrGPhJrzrnzjIsr7uVLECw,5,4.0,['delivery']
+306,8fl0bPMJPIMB7oldq6slyg,14,2.0,[]
+307,jMbJfJRb2dR2Q4cKyPW8Mg,40,3.5,"['pickup', 'delivery']"
+308,QN5GW3KyUBXQda18G1JsaA,124,4.5,"['pickup', 'delivery']"
+309,yu4VTPo1ysApjeqbRcqR5Q,7,3.5,"['pickup', 'delivery']"
+310,ljqxEueK7fhAUgHYCbHVOQ,109,3.5,"['delivery', 'pickup']"
+311,gpmpgcIe6fA4LnI3e-G90A,4,5.0,[]
+312,UeVZhzjlqu3OmWk4jm5gxA,74,3.0,['delivery']
+313,yqlGU8lrsabr7Vdzl3nk2w,168,4.5,"['pickup', 'delivery']"
+314,lRWsjijfNN4uB-BXgsb5Xw,60,4.5,['delivery']
+315,yD1Myhhmdjfl_ysZnH3IuQ,56,3.5,['delivery']
+316,pAVqVeJvAEJ8_noz18Whsg,3,5.0,['delivery']
+317,ITWcVBYmpgvegDdO2kPczw,74,4.5,['delivery']
+318,FTOEdyHtr7qrWlRvwQc6JA,27,4.0,[]
+319,ZRJvdlajIFXs0FKf88CdpQ,106,3.0,"['pickup', 'delivery']"
+320,3OBwmfg_JZH7EHD-SKN3tA,51,3.5,[]
+321,X7GnNcsRfV3YEHi3rh1YNQ,130,3.5,['delivery']
+322,-PzlY5_x9yKdlNhGDRrrqQ,106,3.5,[]
+323,4-TzaCN2qFYZPQjQvb0Oeg,8,3.0,[]
+324,wyPU3aFPNn7AO83de3tPMQ,30,3.0,[]
+325,M06P3WdiaHNAcIFu97Opfw,43,3.0,[]
+326,y2uwFr-X3gToNEWPjqoS8w,10,3.0,[]
+327,uMTMGEJaneYgYWbstjhhVw,143,3.0,[]
+328,0cHIHljbDFL2gm0qEibcmA,33,3.0,[]
+329,LDzBedhl1Qd5F30SrOxYOw,74,3.0,[]
+330,PFE0wJ4pzMjxknbB6KneLQ,62,3.0,[]
+331,rbJOh0GqhUXmm1p5YE9P5Q,58,2.5,[]
+332,LvwTMFmutIpBTKQT-AnlHQ,89,2.5,[]
+333,qGg1meDCesk6ZRMYJdJafw,40,2.5,[]
+334,CPeMxS5wwQRJMbnz7Vk-UQ,22,2.5,[]
+335,yOAvETykFckla5iz6R6yKw,99,2.5,[]
+336,P9rwIuayww0uFNe8m05DJg,65,2.5,[]
+337,xW89sbUF5ePpCcPIzuqZtg,25,4.0,[]
+338,V7kUvKZsItUfKxn9eIz-bw,14,5.0,['delivery']
+339,ERGnpH44KazAlECiSbWfyQ,29,2.0,"['pickup', 'delivery']"
+340,E_5KYJZT4rsnZnfv_J0i1w,27,4.0,[]
+341,alBZI2O4t95lj0bi5m3eww,66,4.0,[]
+342,nQPUC1ezCxjTfhd760Qm8A,97,4.0,"['pickup', 'delivery']"
+343,TN08XZ6mDg6tNeYRJPhfPg,12,4.5,[]
+344,DfEo4Gt_BDjQw-zJjQCX6g,32,2.0,['delivery']
+345,aHZK2mwQ-XzOGSGP3RfNzg,4,4.5,['delivery']
+346,ZeMuyp7-aNasvbFZoWbGuA,11,2.5,['delivery']
+347,5PF0zJx_uPjnEuMdCtGYjA,242,4.0,['delivery']
+348,_Q_E46UHNJoQJp6Rz2sZlA,2,1.0,[]
+349,1eHPmeyy5KREzMCVcghHaQ,2,1.0,[]
+350,XMIq2-Ox6lLuz6FMqzZo8Q,145,4.5,"['delivery', 'pickup']"
+351,8WUTv19XeJa4j6q80Dm5ig,62,1.5,['delivery']
+352,I549nwaf6_1pdKusvCvQTA,43,4.0,['delivery']
+353,9AlHC3qtEJR9oepNvv4nug,22,4.5,"['delivery', 'pickup']"
+354,k8OIklkBcvwMDHUDkKedFA,27,3.0,"['delivery', 'pickup']"
+355,8ieiNCaoL-1QusPTzGaEkQ,54,4.5,"['delivery', 'pickup']"
+356,UFN2Pqg9KKqBkUrgXYrzeg,2,5.0,[]
+357,vyhM0rtNkQrSRZdIJJjqug,1,2.0,[]
+358,l_CiEDDoHTOcEMUlT5S5GQ,24,1.5,"['delivery', 'pickup']"
+359,0RXgIjyxpBDDpdxi-e7-WA,34,2.0,"['pickup', 'delivery']"
+360,MN9V1e9PA-EPgvjD1zdoww,304,3.5,"['delivery', 'pickup']"
+361,qsobth4EVs9ODvxZ_FjeoA,72,3.0,"['pickup', 'delivery']"
+362,Op0BzC100Tlj2Am5NnrzMw,28,1.5,"['delivery', 'pickup']"
+363,RuJ2PluIbT0yDLkCdi9c7w,26,3.5,['delivery']
+364,t_zhwvu5TE8KrjS4XbsyIQ,24,3.0,['pickup']
+365,0438Efn-pptfjQzJEYDaVQ,19,4.5,['delivery']
+366,bKdFf12v_f1yts3ZbnTR6A,28,4.5,['delivery']
+367,CEq9O18EX3irDWOFVblHiQ,27,3.0,[]
+368,uHfX7ufwyTsIcnE96N_RzA,7,3.5,"['delivery', 'pickup']"
+369,muPnVMI9kbeJ1tlsL8Xomw,30,2.5,['delivery']
+370,2ospc7M5IAvrCRcfyFvYUA,39,2.5,"['pickup', 'delivery']"
+371,cTC-50xUYDhNqmthjCYfuA,50,4.0,['delivery']
+372,1tS7Kg0Wo8j-oCxQHTAAGA,50,4.0,[]
+373,qBK2u72zBW0IaNvAQaPr0g,31,2.0,['delivery']
+374,siLreS0MgdBCepGaQOVF6A,19,4.5,"['pickup', 'delivery']"
+375,1GzsJkMAzZoc_BPRJtBS2A,6,4.0,"['pickup', 'delivery']"
+376,nM-_YBkAIoS7gLTDtftctQ,16,3.0,"['pickup', 'delivery']"
+377,Yo9NDdsL_X9LquUHtBHBpQ,35,1.5,"['pickup', 'delivery']"
+378,5r7N7NxdBMejq8xnnBVzyA,120,4.0,['delivery']
+379,FYGeB7SxDaDRjz2WRkx9gw,40,3.5,"['pickup', 'delivery']"
+380,cFB1rBAij3_OYVllOw5JqA,104,4.0,['delivery']
+381,9vGngnH26Og_MjILOiGGuw,92,4.5,"['pickup', 'delivery']"
+382,MPj30H5ToXjLWo4ImaGPtA,18,3.0,[]
+383,fYJJxLEbzcoBx3Cv9a54wQ,199,4.5,"['pickup', 'delivery']"
+384,HQyLlHkIfLdirSCCiJh2rA,4,2.5,"['pickup', 'delivery']"
+385,wOMYi5o__2kTCRLlGeDWYQ,3,2.5,[]
+386,XrWXY_ajpR7nJAGzr3g5JQ,25,2.0,"['delivery', 'pickup']"
+387,r4lJEp40iyBZrTmUWqvIRg,121,4.0,"['delivery', 'pickup']"
+388,QtKvkvhNVM5oXDl_EEj1vA,65,4.5,"['delivery', 'pickup']"
+389,K_wr22ybuIVaUrwvhq-eSQ,15,4.5,[]
+390,CjNLAcx92Qpl0DLFvPuSpA,65,4.5,[]
+391,HH6DsRNDb5zYVkzz3zzXng,146,4.0,"['delivery', 'pickup']"
+392,dXJJLarecFilIlRuIUJntQ,24,4.5,[]
+393,G3Ct0wQZhfTlNEtPqNA7vA,32,1.5,"['delivery', 'pickup']"
+394,7tpFUsuy2KAHPsj3bRlnFw,15,3.5,"['pickup', 'delivery']"
+395,YNtrWIDYx2-FRw743VOyPA,6,4.0,"['pickup', 'delivery']"
+396,U-z3A-MpN_4GT4LUElYZPA,23,2.0,['delivery']
+397,N59lhLSa7pGGiC7zi3eLOg,131,3.0,"['delivery', 'pickup']"
+398,VaUBpf_ZtXHHWlJ6g1vXNA,55,3.5,['delivery']
+399,aI8rFENhnv_y4kKTnxF9aw,57,5.0,"['pickup', 'delivery']"
+400,f-Y4qOkzhncJBOE5NsuR0w,19,2.5,[]
+401,FVol9Tj2uPrHOkr8uygt9g,2,3.0,[]
+402,vEo4ZM8yMkKsIAs6ZfFDgQ,35,4.0,['delivery']
+403,g5ucYETAgfdVf7oddboZyA,29,4.5,"['delivery', 'pickup']"
+404,c4GJBBg6FwARLy_jhnb2sQ,52,3.5,"['delivery', 'pickup']"
+405,_IHF3hEu8z4aw2kwL6m_ww,148,4.0,"['pickup', 'delivery']"
+406,8OkKOlPE3nThZPsMszxIuA,322,3.5,"['pickup', 'delivery']"
+407,he4Qd_4OuFmiPqm3EVp0aw,183,4.0,['delivery']
+408,W6caR4g2-i5mgJwJXUgeOg,85,4.5,['delivery']
+409,Af_NeHKm6Mq5OipkesmSDw,1,2.0,[]
+410,H71dnv4nEHaoJpQC8dM4rA,164,3.5,"['delivery', 'pickup']"
+411,B1qpUbfwBehLW0eWk9DymA,74,3.5,['delivery']
+412,Sn2kC0jg3MvxQJAmLdTaPA,82,3.5,[]
+413,jeSu3c5RfnyAB-KWT6wSjQ,13,4.0,"['delivery', 'pickup']"
+414,zkop5HZTY0nMFlechohpVA,11,4.0,[]
+415,2EoRgfmM9XH54l0Zxi0A-g,30,1.5,['delivery']
+416,YP-wRLfd1zI37Mk_NWgygA,37,5.0,"['pickup', 'delivery']"
+417,_DC3eLj0Rt3j8nu2wDiNCg,11,4.5,"['pickup', 'delivery']"
+418,p0pj7GWOi8r9d1Rv7qu-rg,27,4.5,['delivery']
+419,X5Ajzhq6rW3BO5UgiBLQ6g,28,1.5,['delivery']
+420,GS5T3XduNXmSBQAmnjJM-w,84,1.5,['delivery']
+421,8bC0oWzAO--imweG4L18BQ,47,4.0,['delivery']
+422,c-Z7ZNEYCgZLPsE5JcKCbQ,25,2.0,"['delivery', 'pickup']"
+423,0H2MhFpqhTXNBRQNVO6H7g,13,1.5,['delivery']
+424,JUQriibXaA8Wi6UDcAnUuw,44,4.5,['delivery']
+425,HV_EcIXoZ1gkljF4XWEw_g,22,1.5,['delivery']
+426,2VaR5fNJCXTsxOJTolHsjg,38,3.5,['delivery']
+427,6W-M5guj2fUTNXlDCUwmow,6,1.5,"['delivery', 'pickup']"
+428,_fU5nmYiA663JKIWnRxPmg,53,4.0,[]
+429,xOVAnOqw7xlTOWmQsUn8Vg,65,4.0,[]
+430,j8BMXCVVvMlQv54fo17OIQ,44,4.5,"['delivery', 'pickup']"
+431,iu6H9w3G252PtYb42y6K7A,23,3.5,"['pickup', 'delivery']"
+432,kFZFNAmuKWuWK7Lq3S5uog,22,2.0,['delivery']
+433,DPEC8r3-5q7-Ld4rgl2ikw,7,2.0,['delivery']
+434,IdoGGCbg6E0QXZmDxJcuoA,1,1.0,"['pickup', 'delivery']"
+435,W2suj1pTUp79iWy3hac6ag,274,3.5,"['pickup', 'delivery']"
+436,1cyQorpwlI49n3CDUkHSmw,9,3.5,"['pickup', 'delivery']"
+437,R0qtiLYdPE9QDMz9DY_fHA,11,3.0,"['pickup', 'delivery']"
+438,2woFJt7Bo_0lJReWxXGp-A,283,4.0,['delivery']
+439,57aSIZyWaBgt2wnLcV2gEQ,17,3.0,['delivery']
+440,bsUKk2vw1al5YuL2pdK95Q,14,2.0,['delivery']
+441,6lFkk-Q0vZJrigwPzyMWbw,55,1.5,['delivery']
+442,Pw135CjPBj911J9yiAzVOw,8,4.0,[]
+443,ql22LcOSxKeSdW4DR0GXMA,32,2.0,['delivery']
+444,vyhM0rtNkQrSRZdIJJjqug,1,2.0,[]
+445,l_CiEDDoHTOcEMUlT5S5GQ,24,1.5,"['pickup', 'delivery']"
+446,85IEwUfGOgDmcNRdyJyGcw,17,3.0,['delivery']
+447,_v5i_IfmfeEHBZGfmIwmHA,78,2.0,['delivery']
+448,w5ftNa94JJe4WqLBWqiWEw,26,2.0,['delivery']
+449,You2O0dXFNHA98LK_OBL2Q,46,3.0,"['delivery', 'pickup']"
+450,Jhi-NUpZL8v9qL5e5Pznig,58,2.5,"['pickup', 'delivery']"
+451,XKmHkhjuKmcLiccUKU8ZwQ,38,4.0,[]
+452,vV3Ucy9MX_RFIgyQcDLSZQ,68,4.0,[]
+453,AOAph4aocoeE1VojL4Lgew,14,2.5,['pickup']
+454,Jw8LBJaEISWEatzI3zc5gQ,12,1.5,['delivery']
+455,vdBcUIkhWLgUdMf1Er2aHA,43,3.5,['delivery']
+456,rYvS0EvxW-g4gqK6auFyyg,17,5.0,[]
+457,rQj_qymaIaqA7PvaFcNvJA,55,4.0,"['pickup', 'delivery']"
+458,lZRADMythPcAqkaf5D3LVA,16,4.0,['delivery']
+459,Kwtpz1HXpbdq9JB1PBhVTQ,152,2.5,[]
+460,lzF3zj8c0c3D6SWWY67FTg,86,4.5,"['pickup', 'delivery']"
+461,ya9AyboYXW2XwtpCv7j61A,4,2.5,[]
+462,1qs-c2TnvJy2KhOWtkbcXA,40,4.0,['delivery']
+463,HbE9MxVk4I_IDM2wA6BKYg,39,4.0,"['delivery', 'pickup']"
+464,nALGgxxxEzg2OU8fDVX3AQ,7,1.5,['delivery']
+465,RpXw1Ak1JtbwGmlAZF0FVg,5,4.0,['delivery']
+466,cas0GXLnlp_EGZl-hBpUVQ,29,3.5,['delivery']
+467,kzKdcVTeduxuJgdwh0tIcA,113,4.0,[]
+468,NEVzffuJNnPsQhFcR2zQgQ,10,1.5,"['delivery', 'pickup']"
+469,xYLXkw5bYBAfmD4PmTd8Aw,65,4.5,"['delivery', 'pickup']"
+470,bFTZqYBddSziojhPUqppHg,33,4.0,"['pickup', 'delivery']"
+471,2p-tBAcUyO2G0DEuvMez0A,147,3.0,"['delivery', 'pickup']"
+472,CMOhbYWXPg2Z8a6JYf2N6A,30,2.5,"['delivery', 'pickup']"
+473,4HvlFYCypfEBgQcD6IjHZg,33,4.0,['delivery']
+474,qdtwo_4uEOcIMgASL2Kr0Q,132,3.5,['delivery']
+475,KWB8NcGKRWp376tRUL4RDg,192,4.0,['delivery']
+476,PoflzmVB3CAbf9a5syHtRA,8,5.0,['delivery']
+477,M9yUASu9vNDa1t9PNrHBRA,227,3.5,['delivery']
+478,-07HGco2Tof_rlEHWOtpPA,75,4.0,['delivery']
+479,2x-V060P8DuU9Sh_ed59rA,43,4.0,['pickup']
+480,VAIhqOYugBdn7vWUOIW-Uw,16,3.0,['delivery']
+481,-u8g-2DybM68ceINl6YUJQ,39,4.5,"['pickup', 'delivery']"
+482,Hd0Ns2E3XzzV2dxhpsN4eQ,162,4.5,"['delivery', 'pickup']"
+483,_QxZfDFb0s4aX5YCVBcDpg,33,2.5,"['delivery', 'pickup']"
+484,6ONmqWHbZmWhYtcBPnoBdw,32,4.0,['delivery']
+485,6Le-MPaNzCwaKAsHNXVS0Q,2,1.0,[]
+486,es3DitEs2vtxpQNJ9vGwwQ,96,3.5,['delivery']
+487,2A6rLDsm8wvGALOT8awbGA,156,4.0,[]
+488,zu9uFl1tOOER1z1D_VxplQ,27,1.5,['delivery']
+489,dpZw3Rqo5ED3e81QnyGELg,2,2.5,[]
+490,dpVnDkbdZZusn6ZwmNQl7w,74,4.0,[]
+491,pnDKbJWLx6JjAB55SOomuA,12,4.0,[]
+492,-8X3PpqXkNjpebBbRNEhCw,26,3.5,"['pickup', 'delivery']"
+493,m70fwMJ-mV3Tr6sjxitcwg,3,5.0,['delivery']
+494,M7GA92FGfbJay5qgaP3BRg,62,3.0,"['pickup', 'delivery']"
+495,KZ_xAb-eOX1FySK_mxRl3w,25,2.5,['delivery']
+496,YAfSUU3Yq8uDhG9WqEMVIQ,441,4.5,"['delivery', 'pickup']"
+497,Bbo3tb-MIqY2vrEp78ifUA,18,4.0,[]
+498,ns3T6ZxFu2ehbyiADOBotQ,1,1.0,"['delivery', 'pickup']"
+499,yrfk9eKjtvlkzKyO1HPtCQ,22,4.0,"['delivery', 'pickup']"
+500,kNjYfQP6ICIw1XIl76Fl1Q,2,3.0,[]
+501,J0VEhntaymuakd7D-zFcTQ,36,2.5,"['delivery', 'pickup']"
+502,e4MAownQKx76DpX5ltxRUw,87,4.0,['pickup']
+503,EBujDNOX1IO2M8XDLlKSXQ,114,4.0,[]
+504,YP8lA_oM8iI54xJqmoVAnQ,5,2.0,[]
+505,Wc6YvZHyAfnvzvVXZ0k9rw,28,2.5,['delivery']
+506,tkZEJFqj7NcxA6PUKLml-Q,75,4.0,[]
+507,LFcwgKUsZE7FRps7Gfg3Ww,363,3.0,"['pickup', 'delivery']"
+508,k-O8WB_CMKZ6DBP_aqjpCw,3,4.5,['delivery']
+509,Ptqrhjbi5xEtrb0ERZ5a6w,27,4.0,"['delivery', 'pickup']"
+510,nwq6PHnphSmZkhrCsq5mHw,2,2.0,"['delivery', 'pickup']"
+511,-nwutjiZsQvv4cZkt1Jg9w,62,4.0,"['pickup', 'delivery']"
+512,cbfVcq6TtuvCzZNElfOKoA,41,4.0,"['pickup', 'delivery']"
+513,j0i8aCjfU-apAm-ccCDkTw,1,4.0,[]
+514,nUzD76z3KbvRCfiW33Mkbg,36,3.5,"['pickup', 'delivery']"
+515,FazBwXgsE3DPpijHZTM-NQ,3,3.5,"['pickup', 'delivery']"
+516,X-n8EVtd0-JwPkRLpbfzig,13,4.0,[]
+517,lM5PJt7TD9zd9ZnAtoBpNQ,12,1.5,"['delivery', 'pickup']"
+518,Q0utQtJ-mvbKT7t2i4iCgA,18,4.0,"['pickup', 'delivery']"
+519,MlYhsFOAN31ud_ut4nBh9Q,82,4.0,"['pickup', 'delivery']"
+520,6Hp4i9hnqHcD5vjFCuT-Tw,9,4.5,[]
+521,6mgqYpIYl53H_a8zCAWZpw,17,3.0,['delivery']
+522,t7KicxX6PjauCfbsqX99oQ,22,3.5,[]
+523,SFAM0lm2ZLSyqA4N4lxoNw,40,4.0,"['pickup', 'delivery']"
+524,bDk5idgw90P-V33nvnnagQ,3,3.5,['delivery']
+525,_RSfKyxfSAAjqWZrytld9Q,4,2.0,['delivery']
+526,IiOwP3QAzeTjIWj3xGD93A,40,4.5,"['pickup', 'delivery']"
+527,XCwFet6AZ8QGZb0ea_pTnA,2,4.5,[]
+528,2KOzXMfVdGMfuNGoeIkK4A,84,2.0,"['pickup', 'delivery']"
+529,dzDNZEOWGIjklDnVPatgLg,60,3.5,[]
+530,3v0zhsnqYPbhcnkVHk72xA,57,2.0,['delivery']
+531,NEo6FXt6pKisfYJ4oSGliQ,73,2.0,[]
+532,H7f-Qheqjn1ksTR-NqZIFw,64,4.0,"['pickup', 'delivery']"
+533,VqamD02LV4kOKhIXYrAYfw,56,3.5,['delivery']
+534,tXuMZPVIYDAOLbiNU5qEdw,343,3.5,"['delivery', 'pickup']"
+535,d2n-C_dwPxckiAirfd902Q,54,4.0,"['pickup', 'delivery']"
+536,J84ztWFVfh5mqUrzb1vkzQ,46,4.0,"['pickup', 'delivery']"
+537,NKO7KBYri0V4S6whHIQn9g,6,5.0,"['delivery', 'pickup']"
+538,oeRx-YYjYxB-xb-Ron4Iyg,1,5.0,"['delivery', 'pickup']"
+539,04UQKWJBK4x3QNkJr9hquQ,188,3.5,['delivery']
+540,36W419RofAXKnYJzdM4jnQ,5,3.5,"['pickup', 'delivery']"
+541,7hsfxIW7FDp1yIjJnYUDmQ,60,4.0,"['delivery', 'pickup']"
+542,JG30eHEEBhri9TJHcr79tw,53,4.5,['delivery']
+543,6Kk047pTbk5s8cbEfT_WZQ,13,4.0,[]
+544,F0rQyd9RvNzX52OLFivK0g,76,3.5,"['pickup', 'delivery']"
+545,ooKY09vv213Hrk30Izegow,120,3.5,"['pickup', 'delivery']"
+546,qyg_iiz7Brq9vioVpmRjcQ,125,4.5,"['pickup', 'delivery']"
+547,cgdnXOLxF9Za9oD1-Tydkg,63,3.0,['pickup']
+548,emIw8zjs7FUKz3Vxd8RkZw,212,4.5,"['restaurant_reservation', 'delivery']"
+549,XeQgaLMmO5pcUdaplvberA,20,2.0,['delivery']
+550,7CaS6n1TBQwhHVC4vvZDWw,19,4.0,[]
+551,mjnSujrd9eXdBLWzoF46AQ,35,4.0,"['delivery', 'pickup']"
+552,QB-YqW6vDaiVi-z1QlCwRg,1,5.0,"['delivery', 'pickup']"
+553,DNzM5RjyGRDx4RfJiUJnMA,24,3.5,"['pickup', 'delivery']"
+554,6Ompv6pJtbqSPpXKqkNshA,14,2.5,"['pickup', 'delivery']"
+555,rQkJGeF9nHICOEV8ZBZuhQ,34,4.5,"['delivery', 'pickup']"
+556,K7jiPLbPdbDeQFNbnFoS3Q,26,1.5,['delivery']
+557,-fW-zdGWH4UbJsbs8LP7Hw,33,4.5,"['pickup', 'delivery']"
+558,eqrQWIOkQnR6rhQmu7a8Ug,110,4.0,[]
+559,VmALI1Dt8d0sndTy6teXzw,6,4.0,[]
+560,KxarFMwOI9BeUThtfl0Lww,22,4.5,[]
+561,Q8AgeAPx1b_pqzuEUQ2GDg,26,3.0,['delivery']
+562,trHh5E7rSv1XfJldPv0n7Q,27,5.0,"['pickup', 'delivery']"
+563,FKw9j6xU1NlUJpz4kA2h5A,44,3.5,"['pickup', 'delivery']"
+564,GFc4sD9wMPyln2wg77172Q,26,2.0,['delivery']
+565,9HX73ccFDoLEp-R6j49IIw,27,4.0,['delivery']
+566,puUlH7-TD19piOMDfDP_cQ,29,2.0,['delivery']
+567,4U9fWxjVntRC-IihW5MoIQ,53,4.0,"['delivery', 'pickup']"
+568,9hfkRf5QnchRLMiM19ISTA,11,2.0,['delivery']
+569,KAjsIumQ6_-AbHzJq0MiJw,13,2.0,['delivery']
+570,nrSAJUg55CWJsRDXzTpIAA,30,4.0,['delivery']
+571,uXkugnlLoKZXLnMHOFUYUg,12,2.5,"['delivery', 'pickup']"
+572,REHZ39ARTo8sofLurGQeSg,36,4.0,['delivery']
+573,YNtrWIDYx2-FRw743VOyPA,6,4.0,"['pickup', 'delivery']"
+574,h3sixA6vCmGvtdPsqAapbQ,336,4.0,"['delivery', 'pickup']"
+575,T8-KAEuNUUpplW14FMkWxA,63,3.5,['delivery']
+576,ya14xXMBQ5jXJRiUz_WGww,9,4.0,"['pickup', 'delivery']"
+577,UpWrLuZIpLkI4xi6F8sDng,51,3.5,['delivery']
+578,p1u9klPbjRKsYLl2kC_aUA,76,4.0,"['delivery', 'pickup']"
+579,pobysFqGp380KuQhvZX7Rg,304,3.5,"['pickup', 'delivery']"
+580,i8ErbzVW0YY3bzhg74ysjA,255,3.5,"['pickup', 'delivery']"
+581,xVmebDzu3wQrckyEZtTU4w,70,4.0,"['pickup', 'delivery']"
+582,_2HWCsQKWuzzIJOsYFmUtQ,13,1.5,"['pickup', 'delivery']"
+583,LCeoc4akUrKV9YHjfBb7Sw,11,3.5,"['delivery', 'pickup']"
+584,rYfrBWeRSEhfQevUUaLg3Q,28,3.5,[]
+585,L_kccaHSRAayKgvzoFe68w,20,2.5,['delivery']
+586,h5_-b5oAN-8YEK1Sc6m2UQ,3,1.5,[]
+587,2KOzXMfVdGMfuNGoeIkK4A,84,2.0,"['pickup', 'delivery']"
+588,oZ9ZdGCaxpsF3YVh6j4mNA,4,5.0,"['delivery', 'pickup']"
+589,Pimdklq7b9h5dlIUIr-YJw,12,2.5,['delivery']
+590,esqOkEThdmX8FYuyx2hk0w,70,4.0,['delivery']
+591,3xqPnRt-Qw8rBRH9TK4s3g,42,3.5,['delivery']
+592,R14DJoFRsEq4haIsLPvFYw,66,4.0,"['delivery', 'pickup']"
+593,-xr697MSGcZ5ELveVKoFMw,19,3.5,"['pickup', 'delivery']"
+594,bRibIF0j7gdngaX-gb-4kg,2,1.0,[]
+595,mBXMz_EPWDeyhifnxu8OAg,86,1.5,['delivery']
+596,YDB9kmWphya2p0AytidGNg,17,4.0,"['pickup', 'delivery']"
+597,tkHXwJx7ea7VaCmNTjEiAw,13,2.5,['delivery']
+598,L-kiJCVCXnZL22-j75Bx5w,38,4.0,"['pickup', 'delivery']"
+599,kIDsjDe2z_GkGGnQSJdrOg,20,3.0,"['pickup', 'delivery']"
+600,3i_XUDrhiCiUI9EIkjQNvQ,68,3.5,"['pickup', 'delivery']"
+601,7j_2PQqgX-7Dcf7rrHRzJA,21,2.0,['delivery']
+602,pMhqt0_4xPs-6dNw2jOGrQ,39,4.5,"['pickup', 'delivery']"
+603,yBdO1Z5la3cPgJIFq6v5CQ,41,2.5,['delivery']
+604,BtRsRkUw_zFEhyNx_jdBlQ,21,3.5,['delivery']
+605,t-qPPk9WzpXoP3uxpIzXCw,22,3.5,[]
+606,aAiS8pc8KRkWnNfPiBbEUQ,45,1.5,['delivery']
+607,hNnGL7kIQ6BEstc3NHvnLw,14,3.0,"['pickup', 'delivery']"
+608,aJw-SXr9CwIKbTCq1FxIMg,12,4.5,[]
+609,qb-UwCDgBq8o20Pahf4Iww,20,3.5,[]
+610,1Y09UUeVbGsVH3QsIzSKRw,6,4.5,[]
+611,nhTLnfO9lRmQ5cmQ5km16A,4,4.5,['delivery']
+612,wDZG-Ry6IcC_QITBLBPHxQ,24,4.5,[]
+613,C9Swy4r-SjlRwWFIuv0vxA,12,2.5,[]
+614,PLSK-f86z_LXypNMw1QexA,18,5.0,[]
+615,XeQgaLMmO5pcUdaplvberA,20,2.0,['delivery']
+616,Lf_sdyQfrlVjqU2onxUZUA,73,3.0,['delivery']
+617,VkiNp4JolVjYzzn5218x2Q,24,2.0,"['delivery', 'pickup']"
+618,7flq6_6ns9bmAJbGwy2dkw,1,1.0,[]
+619,GhE5JEuscWaRBKkinhS22w,15,1.5,['delivery']
+620,uversHZgD2_YsL6p6ZYSCA,14,2.0,['delivery']
+621,R3LbMeUHCbEXI8DpZSL18w,14,2.5,"['pickup', 'delivery']"
+622,-jQHkCa6WWuW82g6aSBofw,13,1.5,"['delivery', 'pickup']"
+623,P7KKrgAF-Ij0rItekTtmpQ,11,2.5,[]
+624,AAb7pnce8dumu1uJyF9phQ,14,2.0,['delivery']
+625,QAZuRwNhOaBtknzs_HHeaA,12,2.0,"['pickup', 'delivery']"
+626,axsVPeoGThLKLzu6GTRCpQ,551,4.0,"['pickup', 'delivery']"
+627,85avHCVQEY8FuGE1y2E7-g,45,4.0,['delivery']
+628,JogyNpuTTqowgKQKao14ZA,110,3.0,[]
+629,NEVzffuJNnPsQhFcR2zQgQ,10,1.5,"['pickup', 'delivery']"
+630,Xxr2cDuq3N7c4PoFoBB5Vw,247,4.5,['delivery']
+631,Avu3kXM052dITqM45oC27A,14,2.0,"['delivery', 'pickup']"
+632,xJHTNLA7W8kK8Rgr2bQmSQ,38,4.0,"['pickup', 'delivery']"
+633,r8HHDypjFQuqb27ISQZ4Ew,68,3.5,[]
+634,ICrxXKBzxRzpXtdn6K_evg,83,3.5,"['delivery', 'pickup']"
+635,GDz478TrnxbjH45ydB6wVg,28,4.0,['delivery']
+636,EmxvkCXyOZFzFEnIQO-znQ,4,2.0,[]
+637,hFrJbcP0OegEkm-K2BvoYw,11,3.0,[]
+638,MC3D_EvBrJaVVEePOFcPfw,6,3.5,[]
+639,o38rkKmc6C48yzrGPLdxPQ,340,3.0,"['delivery', 'pickup']"
+640,bYflziYJO0_z_W-1KUb8Mw,38,3.0,[]
+641,O7RxeO8h7iNNJ88ekos8eg,26,2.5,['delivery']
+642,UClJURhUgfUGMjeLwGFc7Q,18,3.5,[]
+643,7xBxZ2aa10-Od3rrRb7J-g,85,3.5,[]
+644,PMHAWDToyRNLvnK0Dh_r0w,31,3.5,['delivery']
+645,KZ_xAb-eOX1FySK_mxRl3w,25,2.5,['delivery']
+646,9BMpswBAdbZ8-SCC2-4Ivw,122,3.5,['delivery']
+647,Yaw6vk3anUbAPjtvM-GmgA,66,3.0,['delivery']
+648,pQaku4SfM01lGySBNPZhmg,28,4.0,[]
+649,OJFlbUyhAyxK6XOCZgfIrg,58,2.5,['delivery']
+650,YAfSUU3Yq8uDhG9WqEMVIQ,441,4.5,"['pickup', 'delivery']"
+651,Bbo3tb-MIqY2vrEp78ifUA,18,4.0,[]
+652,GgWc0dc6NA8m85UhqENolw,7,3.5,['delivery']
+653,54Oh1tjBKLATthwuIMqTmw,48,3.0,[]
+654,xJHTNLA7W8kK8Rgr2bQmSQ,38,4.0,"['pickup', 'delivery']"
+655,HQop0kuE6CaWWvdxBPqxEA,38,3.5,"['pickup', 'delivery']"
+656,Oqc6aD-Ep86KO0NiN4hyfA,29,2.5,[]
+657,yGUplHUJZrP34LfEtDIItQ,12,2.5,['delivery']
+658,v1wLUHYsdS7X4wPvXmdTXg,62,3.5,['delivery']
+659,lWADCIDXsPu8SdGnqI6fkg,147,2.5,"['delivery', 'pickup']"
+660,MIe8gJ9svOnwhpNddNPKgQ,1,2.0,[]
+661,j1WX2nHA3T0R9LyBWOPzTQ,142,2.5,[]
+662,IJVJyAzVhqP_ENx1xTZROA,1,1.0,[]
+663,bWvrF2xbEYw5ifv9LHPu-g,25,3.0,[]
+664,OuOO1_NnyZ6Ypix2_utrhw,4,3.5,"['pickup', 'delivery']"
+665,gj0IZUpDoj_8T49DepwMEQ,63,3.5,"['pickup', 'delivery']"
+666,c6nPhoi6iaQN9mDPhIiGUQ,317,4.5,"['delivery', 'pickup']"
+667,eF404AxfIa3JBWqL3bdYOA,24,3.5,[]
+668,QDhqVXbEkmSbpdwMKusphg,65,4.0,"['pickup', 'delivery']"
+669,HDwUHLg0kGuYLS-n_RYZFQ,33,3.0,[]
+670,6lq6C2_SX-xFG3gQidVlkA,25,4.5,['delivery']
+671,7V3TM9PQINW1hD-g901wlQ,4,3.5,[]
+672,ZPdf_MjVuSX0ot-thQkWSg,19,4.0,['delivery']
+673,nggQ3p2lFU_HGUr7Hb7Otw,26,2.0,[]
+674,12g-EA3OKtofoanBgJzr3g,33,3.5,['delivery']
+675,S7bbqgCtCiC7Zto1vZl5xw,42,3.0,"['pickup', 'delivery']"
+676,wERkX_YVRw8vSJYdSmaGQw,48,3.0,"['delivery', 'pickup']"
+677,EF8WBt6qu45vKWQSPdwlOQ,366,4.0,"['pickup', 'delivery']"
+678,jPRTlR0G_wXdF8wWagOEnQ,108,2.5,"['delivery', 'pickup']"
+679,-_EzxfqemMuEwG9prTn0jQ,36,3.5,[]
+680,STjt9EEZuolbmvQNpdx93g,15,3.5,[]
+681,tsmHdwG3EmvWLsNQKJu3KQ,158,4.0,['delivery']
+682,Gsb3tVfkRnIUFZNGPZXcUw,2,3.5,[]
+683,BAlcRNAcSHB6Bpr5wC4HIw,35,1.5,['delivery']
+684,cAGAOL3B97XFQzOXgKNUNQ,143,4.0,"['pickup', 'delivery']"
+685,ijCkta1TDXa2z1RVf7fZMA,31,3.0,['pickup']
+686,xvY9cWDNb3JFk0CpfIiGTA,220,4.0,"['pickup', 'delivery']"
+687,3JzIpuBGev0mkJNs1gQyvw,111,4.5,"['pickup', 'delivery']"
+688,rHrBny3uHILc7VI7wkMSyQ,153,3.0,[]
+689,jm_Yjld54jGUrhD1oovkNA,47,3.0,[]
+690,R5TXjFuov2ang1N8bGeONQ,79,3.0,[]
+691,b0bZCxdO9QtItzwh6_u7Sg,267,3.5,['delivery']
+692,2gPeaYo_CMRqXPsbwxGQDQ,23,4.0,[]
+693,Mxo_dSXtPJDqbJ6XztseTw,147,2.5,"['delivery', 'pickup']"
+694,rs7SCivhbM97JaZizFg_aA,331,3.5,['delivery']
+695,sXO4qjcODVl7g89gLbuvzQ,52,2.0,['delivery']
+696,xvm3usMc06Fo2HfXqdraNw,8,2.5,['delivery']
+697,zlagxmC0CcHe9RBL8Gvn6A,71,2.0,[]
+698,zPw6t6zWnD6-_4bgWo7jkA,82,3.5,[]
+699,J0jPuRsCCJkoabDl0PAdOw,1,4.0,[]
+700,46Bcp22wHpEtE8R6XJSojg,2,3.5,[]
+701,GDz478TrnxbjH45ydB6wVg,28,4.0,['delivery']
+702,nUzD76z3KbvRCfiW33Mkbg,36,3.5,"['delivery', 'pickup']"
+703,FazBwXgsE3DPpijHZTM-NQ,3,3.5,"['delivery', 'pickup']"
+704,MC3D_EvBrJaVVEePOFcPfw,6,3.5,[]
+705,o38rkKmc6C48yzrGPLdxPQ,340,3.0,"['pickup', 'delivery']"
+706,6ONmqWHbZmWhYtcBPnoBdw,32,4.0,['delivery']
+707,8CJ7lA3qTTd5irXNegXNvQ,86,4.0,['delivery']
+708,KU3YkbPmC4A3t9MrQtRIIA,64,4.0,[]
+709,kwJcxWNaOLnTXMZrsYDasA,6,3.5,[]
+710,g0JnPRse1M5SannNtCtt2Q,14,3.0,[]
+711,e59xANCItpLiXggwZm3nIw,20,3.0,['pickup']
+712,XHhy6uz4wEGEeG_gLklCIg,21,3.5,"['delivery', 'pickup']"
+713,839PjcTpQPr-ZsOnhYShcA,236,3.5,"['pickup', 'delivery']"
+714,7IuoWrqd8LRUTKLY51F4zA,24,2.5,[]
+715,fUlvhxLBOsyMe9kDeCBKxg,467,4.0,"['pickup', 'delivery']"
+716,kNauAom52zaXZ2eyFuG1UA,30,4.5,[]
+717,9mJiCfquaoJfr1ZbzXI-gA,89,4.0,[]
+718,Yg36sXRv18XQAHahhsARGA,689,4.0,"['restaurant_reservation', 'pickup', 'delivery']"
+719,KuzhL5_EYFQbgQ2ZICYBaw,174,4.5,['pickup']
+720,0ER88SYlliG5evJgXaU-wg,9,2.5,"['delivery', 'pickup']"
+721,e5I7KGUX8yUL95AQCX8I0Q,168,4.0,['pickup']
+722,L7M4q3fjdKmMpM9Pzj4WKQ,1,3.0,['pickup']
+723,Rate1w4AJk9d2vXOQucncg,70,3.5,"['pickup', 'delivery']"
+724,YAfSUU3Yq8uDhG9WqEMVIQ,441,4.5,"['delivery', 'pickup']"
+725,Bbo3tb-MIqY2vrEp78ifUA,18,4.0,[]
+726,R0qtiLYdPE9QDMz9DY_fHA,11,3.0,"['pickup', 'delivery']"
+727,_fSvPLA7iutGZy7nFhVsUw,11,2.5,[]
+728,QOJOUH5mF0NYjVNeeBmIVg,617,4.0,['delivery']
+729,K7jiPLbPdbDeQFNbnFoS3Q,26,1.5,['delivery']
+730,5UVNfG1G3k59FHVtRGsW7w,12,3.5,['delivery']
+731,K66GKNSTFXR-sTj9H8BhCA,26,3.0,[]
+732,Qa5Zg_4MFkhOmCYjOHNe2g,3,2.5,[]
+733,F4TQ9igFdcmM7LcGkfHFNg,152,3.5,['delivery']
+734,Vf2r_yHrCo0qlNfwWY7izA,2,3.0,[]
+735,GlOm9BKqyHxXX-TAhjnK1A,130,3.5,['delivery']
+736,CkRYoSgbQMsSinKEUxUctQ,2,1.0,[]
+737,tsRaMA_MfVdQRTcgxH771Q,37,3.5,"['pickup', 'delivery']"
+738,74fGxHeC3ewyx7xb0IwdYQ,13,2.0,[]
+739,rFohGgQBCq_4UnNu7FPWYw,462,4.5,['delivery']
+740,kwhuZglIr6ILPQrbZeD6AQ,65,3.5,[]
+741,cIaWmTfGD3mKi4w_evOAzA,106,3.0,"['delivery', 'pickup']"
+742,NMwDGx4SoQWbs63t5I0MHA,33,3.5,"['pickup', 'delivery']"
+743,8FA64RmA-aNJsnepBsTU-A,293,4.5,['delivery']
+744,y1I5iebYuWq4lTyJdo073A,22,3.0,['delivery']
+745,5Ciac12_ZsVGm-RP0CsFrQ,73,3.0,[]
+746,XP8S4SBXV2jQ3VqI3xP5tQ,22,2.5,[]
+747,44m0xoFDjj3hqTEjKI6LIw,32,2.5,[]
+748,-TnY-IwIpwy8gl389fJphg,16,2.5,[]
+749,amuE7Y0HaHItMFOxsDtAKg,18,2.0,"['pickup', 'delivery']"
+750,_iyJWHwSQtesawL49fvLig,31,2.5,[]
+751,N4pnBpZfDd3Q0og5ZwzlXg,87,3.5,['delivery']
+752,E0G1luZa9aZzjJP-kc33OQ,350,4.5,['delivery']
+753,QKqc6d6t0V5hb6A7xH_IJQ,22,2.5,['delivery']
+754,QvbZeRwaGR-qPQjiqun4uQ,101,4.0,['delivery']
+755,TxtaENpvSgV_tUN1o4Gl2w,175,2.5,"['delivery', 'pickup']"
+756,rdXRgTIKiHgTrMxO8TGY1w,93,4.5,['delivery']
+757,3l-gn2KV1VZIXKQjHutPWw,18,4.0,[]
+758,qDUUbnEE188-SeCuOI5hKQ,45,4.5,['delivery']
+759,KU3UDEcj6SRE65cXR-dFcg,21,2.0,['delivery']
+760,4U9fWxjVntRC-IihW5MoIQ,53,4.0,"['delivery', 'pickup']"
+761,aP1kQPiAlVO1PgLAiyAGyQ,99,4.0,['delivery']
+762,DJwmUolzfECyycP1u7Iaog,39,2.0,"['delivery', 'pickup']"
+763,rH5oW0AMmCPLthr0Rl9CGA,113,3.5,"['pickup', 'delivery']"
+764,GnORbiUTGmJ04NAF_r89Sw,12,3.0,[]
+765,xdcLLtid5Sk4ss_pVYc-sA,9,4.0,[]
+766,fxGaYwr5ZnYQCYzh55BWDw,4,3.0,[]
+767,3eLXrrneJIm-U4sCBsy8tw,2,4.5,[]
+768,9oylkV12-1YfbeoIZ1g-xw,1669,4.5,['delivery']
+769,kQTJFgWJZ2vx_8orr2GNOw,55,2.5,['delivery']
+770,zfo1zUhxmDss104Xk-e6kw,107,3.5,['delivery']
+771,xfiyzseBKAPEoZ79zAZb4g,31,2.5,['delivery']
+772,oEwgHXjFoZ92hQwi8oWKXQ,36,2.5,"['pickup', 'delivery']"
+773,wFvChsKkYbJ4089FitLvNg,31,3.0,[]
+774,nQPUC1ezCxjTfhd760Qm8A,97,4.0,"['pickup', 'delivery']"
+775,TN08XZ6mDg6tNeYRJPhfPg,12,4.5,[]
+776,LRjrBIlPAkg3MUfXLtCOGA,3,3.5,[]
+777,7u48zAaiOHAxB1aZLHNokA,18,4.0,[]
+778,XYoQu4XHi5AXduc4OwkFGA,399,4.0,"['delivery', 'pickup']"
+779,3q-5r3Hb43kPfniUWrUrqQ,5,2.0,[]
+780,2jQ2ztARP9C3T_wmZNgMqA,7,2.5,[]
+781,QIaX2lYxV3PJlLRcz_5YSQ,32,3.0,['delivery']
+782,DSVYOT53edr84glgxVlagw,54,4.5,[]
+783,LoOa283g6VDfFkAaC0R2sA,37,3.5,[]
+784,6KYL71QXCsi8k12bCBWcBg,224,4.0,['delivery']
+785,xGvmvXCD7BY_nvW_BhzU0w,71,4.0,[]
+786,wTpyfk3dv2yjzguAl9wOOA,6,3.0,[]
+787,2GXRmVbZn_xqVLEH4RgTVw,32,2.5,[]
+788,EMr89Tu3NNWrP4C7T6xQpQ,71,4.0,['delivery']
+789,PAMZUtchQ4hYRCHHxmbiNg,9,4.0,['delivery']
+790,m7icy0KTK4VvMhItAMU6jA,52,4.0,['delivery']
+791,tFafKdwWlhTRAEcaeUybAw,148,4.0,[]
+792,9OEpreX6YW7Hyv_QkUYDOA,46,4.0,[]
+793,SU2JfOH-96Nm9AHaugYY6Q,3,2.5,[]
+794,n3P-v6NPEGY8M31JLSZ_bg,79,3.5,['delivery']
+795,jrcSTdZZ91a6N5QqHfyZ-A,37,3.0,[]
+796,MIe8gJ9svOnwhpNddNPKgQ,1,2.0,[]
+797,j1WX2nHA3T0R9LyBWOPzTQ,142,2.5,[]
+798,IJVJyAzVhqP_ENx1xTZROA,1,1.0,[]
+799,2V4OAv5l7Y8IBxqIAhswKg,12,4.0,[]
+800,k-BOU9z7luNVh7Wktdp3Sw,4,3.5,[]
+801,hTw6m26-NtAbgqDyyToKqg,14,4.0,['delivery']
+802,-enLRgCfD_ACzEj1cFQfTA,10,4.0,"['delivery', 'pickup']"
+803,kXCDENj-htCAJZfhn3mRXA,56,4.0,['pickup']
+804,JVeQN6zNF_DfhOx1rTGbfg,89,3.5,"['pickup', 'delivery']"
+805,6fuAOfYUjhbhX8y-zi-KxA,25,3.5,"['pickup', 'delivery']"
+806,8_Wh6C2pP8uLs8TBMb7iHQ,22,3.0,[]
+807,xA9FyUXm9Vaf_0zsa8p5mg,192,4.0,['delivery']
+808,f2Xgs4lHF-16wME-ooXgyQ,45,4.0,['pickup']
+809,9bOL2d6kcsMPJsw9x95gwg,2,1.0,"['pickup', 'delivery']"
+810,JNgSyz5Yp9GJb23mXaub_g,25,4.0,[]
+811,Z8scYMs-rNJYkaOujyOliQ,78,3.0,[]
+812,xgwgo1cAKkNKfQjk0hFXHA,8,1.5,[]
+813,-1cEY55B25uKhSrOF8mp_w,174,3.0,"['delivery', 'pickup']"
+814,BBS3MuUF5GMg0Ux3JY5rfQ,12,4.5,"['delivery', 'pickup']"
+815,B--fSz4A7l69QpBkbC3NUg,165,4.5,"['pickup', 'delivery']"
+816,ZPS7Xcy3sJTKE_-ybY9BKw,1,1.0,['pickup']
+817,jAANU4wAFB5UKEGyHgNUWQ,45,3.5,[]
+818,M1wWSG5Cs8hDnLnVHUATig,73,4.0,[]
+819,9MBZSFi-a_PxORDeSlL_QQ,29,2.5,"['pickup', 'delivery']"
+820,JIcUG3Pg07G2CUA5kVv30Q,48,4.0,"['delivery', 'pickup']"
+821,VUdQv3iGNGtJBEY49pI1_Q,46,2.0,['delivery']
+822,neH64nX9-Sq_OWW1IBEppQ,59,4.0,['delivery']
+823,yTY5NYpZ0vLIO6t4OZHNug,21,3.5,['delivery']
+824,WEuWkpF3Pkdfl24yYd2PUg,114,4.0,['delivery']
+825,8eJ2-AQvQzJopjyx-hZNlw,31,3.0,"['pickup', 'delivery']"
+826,byRgWBSOPO3mMHcLXH7wMQ,12,2.5,[]
+827,X5Ajzhq6rW3BO5UgiBLQ6g,28,1.5,['delivery']
+828,FkzJ6qJPCWZhPITi-6STRg,124,3.5,"['delivery', 'pickup']"
+829,Yr2VHk6OQMA56sdVkdMW6w,769,3.5,['delivery']
+830,n5cNnMJwhpUWCwARgoR5OQ,174,3.5,"['delivery', 'pickup']"
+831,0UYCRf27EjTdWSq9j_YuWw,320,4.0,['delivery']
+832,f1nA4n-0P2Glb446aXqJtQ,21,3.0,['delivery']
+833,rzImMW7Fw49Efdnh77mE1Q,39,1.5,['delivery']
+834,9oSyhsSfwlWO3kIP-LEGLA,89,4.0,[]
+835,YFICnSSuygfe-is9JSNgEQ,3,2.5,[]
+836,n_fmzsNOx_yHpqcJrrcU9g,82,2.5,"['delivery', 'pickup']"
+837,auJiDt-UxmfcgI1QyX9I6Q,4,3.5,[]
+838,iuA_b9GNvKxjwjfzKP1kHg,2,3.5,[]
+839,dlERCAsDVsoUI66ywR4swg,19,2.5,[]
+840,ribieHdqJZgUoLw76HNa9Q,1,1.0,[]
+841,53M7R3KytaQoYS8W5Pfluw,6,4.5,[]
+842,5hxadsriemfLgSz3BZeBdQ,104,4.0,['delivery']
+843,zatwvS6TE7sTgCSdqOyw4Q,41,4.0,"['pickup', 'delivery']"
+844,UKzD7DpUuNdVxN_3X9kecA,79,2.5,[]
+845,OGk-gNP-EGcYeByeV1u2Lg,142,3.0,['delivery']
+846,_v5i_IfmfeEHBZGfmIwmHA,78,2.0,['delivery']
+847,yc9DSQ8FyBK1kEkfa1qa6Q,240,3.5,"['pickup', 'delivery']"
+848,GWHogMdwJZPOk1M3dlkCSQ,16,3.5,['delivery']
+849,S4ywJF6SeINb2-prMH0lJw,27,2.0,['delivery']
+850,3uXtHuLipEZ2g402bR51kw,42,3.5,[]
+851,XJrWPOX-S_Cojyve6sSHxg,17,2.5,"['pickup', 'delivery']"
+852,wEm8RXRcGSTaPZvnEvXUmQ,9,3.5,['delivery']
+853,LdbTQHlGpKEpNZDdZniJyw,25,4.0,"['delivery', 'pickup']"
+854,LFL-ADyFdifT0uckWoiZZw,5,1.0,[]
+855,q101I5Z60JSb6hTN2NYyHg,85,4.5,['delivery']
+856,34I-jRnkvIfwjbsL4vyUyA,18,3.5,"['pickup', 'delivery']"
+857,-Dfzl9WdA2ccJ1YaNa7eVw,32,4.5,['delivery']
+858,fmMW7944SdJSftZK-r50mA,6,3.5,[]
+859,yT8K91Hd8g1Umw5tZFMN-A,91,3.5,['pickup']
+860,qWLpt3G8NqPlV3LR_A6EOw,104,2.5,"['delivery', 'pickup']"
+861,Bw4wsjfrtQJUoVZHfUCokA,22,3.0,[]
+862,v2TGFvnAr4XiTOsI3p-Grg,24,3.0,[]
+863,F4UK6bwHZCHHI37OhnHuvg,38,4.5,[]
+864,S47xv39HAUwpT4Wic91b7A,523,4.0,['delivery']
+865,QvXa39Ch8W7H0f4Cu26Wfw,216,3.5,"['pickup', 'delivery']"
+866,bXOfukLe-BbUZmveRq-MYA,2,2.5,[]
+867,Q9QreDyPRIQBUnRO9zbnNA,33,4.0,['delivery']
+868,K3LnxChPA5lmtxwIoKMLAw,46,4.0,[]
+869,STjt9EEZuolbmvQNpdx93g,15,3.5,[]
+870,Nqea7nYDz5fu3QNGvMVM-g,29,4.0,['delivery']
+871,bs6cAAlzJME5KX7teymY0Q,79,4.0,['delivery']
+872,PI3WkMV5hFUweESyaWdcBA,578,4.0,['delivery']
+873,VUYPfkm04vhJQ6WJxA2WpA,25,2.5,"['pickup', 'delivery']"
+874,Z1hatAZcC01vOVYgjy6-Nw,43,3.5,[]
+875,DfEo4Gt_BDjQw-zJjQCX6g,32,2.0,['delivery']
+876,o4_zEfpuHt0VADVNErpNHQ,39,2.5,['delivery']
+877,ShmEeBJ7y6pA3nOQPyEF7g,34,2.5,[]
+878,ZYcuhBwSDDNIzxKh2XFdgA,3,2.0,[]
+879,H2wiafhltL57J1AFjP_LqQ,4,2.0,[]
+880,ZhXn7tYIFe8Pp6F5AR1HKA,12,2.0,[]
+881,ko62wHtnseEhF9cTX6rgVw,16,2.5,[]
+882,N5QWdPq5G3_zfTQ8eGaV4g,30,2.0,[]
+883,9oSyhsSfwlWO3kIP-LEGLA,89,4.0,[]
+884,F4UK6bwHZCHHI37OhnHuvg,38,4.5,[]
+885,tgzSehIwbF_X-WEEBlRyyA,18,4.0,[]
+886,PIw5hDb_yvK4Qg9qUa7Jwg,17,3.5,[]
+887,DF_xEF5MlCs4jg1qyRl3OQ,22,3.5,[]
+888,tDXLZMWBddI0coP_JcSbuQ,27,4.5,[]
+889,zKA3YJovxnZGOA9VF3WaUA,24,2.5,[]
+890,yLTfBllFE6GnW3BqURx3Bg,11,2.5,[]
+891,ZaCcSgSGQ3bNd5er76rS4Q,11,2.0,['delivery']
+892,-i5umilP8eiRquJsUMvUoQ,9,4.0,[]
+893,ats9X0cM2Nc4V91CiW8_ug,20,2.5,['delivery']
+894,1NRamdRE99LZc6gO_J98xg,1,1.0,"['pickup', 'delivery']"
+895,p9ynqlBe6HtB1ldPQpqfTw,89,4.0,"['pickup', 'delivery']"
+896,ANudOqpTgEvt2w-9J67DBg,98,4.0,"['pickup', 'delivery']"
+897,-Qi2yO0KAxyfMFSxkaKaKw,118,3.5,"['pickup', 'delivery']"
+898,_0q192P1FJTGLPvm3bv0nA,707,4.5,"['delivery', 'pickup']"
+899,UukDh9H2YvpgaFyEIVsMRA,4,4.0,[]
+900,aqOcO5ANzyYUqbLFO86cBA,15,4.0,[]
+901,IDP6HOKH9dk6GcgwJHWl9g,97,3.5,['delivery']
+902,XkSgYdRXcDXLpVKqz2ha9g,13,2.5,[]
+903,mHmNiCc9knBQwv4AhPqWzA,29,4.0,['delivery']
+904,k8k4bvJTN4uTY1R6CZqCMQ,40,2.5,['delivery']
+905,3wLr3c6KxRTb1P11_Bvj3A,169,4.0,"['pickup', 'delivery']"
+906,lb9DmByk7JD4QG2lCIXdkQ,6,4.0,['delivery']
+907,ANEUgFyVQS1ze5yYb4Z46A,280,4.0,['delivery']
+908,PCBH6Lg-xJ1675z3lli5dA,113,4.0,"['delivery', 'pickup']"
+909,qeeeYc6CSmvZkdWerAd_6w,336,4.5,"['delivery', 'pickup']"
+910,-_EzxfqemMuEwG9prTn0jQ,36,3.5,[]
+911,Z7Kufmg_NFTNFEiBcK5dDw,45,2.5,"['pickup', 'delivery']"
+912,SCoTeQqWr8Sq8BiOgig3Fw,58,3.5,['delivery']
+913,B86xAqJvuhnQ8q7zMdhlkw,34,3.0,[]
+914,HQop0kuE6CaWWvdxBPqxEA,38,3.5,"['delivery', 'pickup']"
+915,Oqc6aD-Ep86KO0NiN4hyfA,29,2.5,[]
+916,5hevF02T5S13UQN2KZZ2Mw,102,3.0,[]
+917,GissR_YpmBlvClpP-5D5oA,63,3.0,['delivery']
+918,iXIJRXZ9M6cliEzzwm0NVA,39,5.0,[]
+919,QLwisuN7VcCujNv_KXHUsA,93,4.5,[]
+920,6W-M5guj2fUTNXlDCUwmow,6,1.5,"['delivery', 'pickup']"
+921,qmafds6zX0oaDDB7sV2g_A,35,2.5,['delivery']
+922,5Joe9jB1rnv_m2Y9D1OvmQ,30,3.5,['delivery']
+923,NmVQRyiqt3PZVRQJ3d9qiA,15,3.5,[]
+924,0M465levSWQ6aPCixG_aoA,35,4.0,[]
+925,yMKDGETPlcEOrgq8fbuH1A,2,4.0,[]
+926,7nRA5GIDeuAMiFjoD3HAtw,22,4.5,[]
+927,-67TF_N6jep3SUGOULCjBw,25,3.5,['delivery']
+928,PCNmtbazpd1XW0TV8ZHZLA,236,4.5,"['delivery', 'pickup']"
+929,K9piupl6Uq_8UfdGr5P0cg,11,4.0,[]
+930,l8CGqBOyvFh8EbxFN_naEA,48,3.5,[]
+931,S_iZrmUxlTOE4RyC3IK7jQ,541,4.5,"['delivery', 'pickup']"
+932,qfcaZwPDzHKHz6XUAwBbrA,88,3.0,[]
+933,cH0rBXLxTpXXZA8wyWN6vQ,24,4.5,[]
+934,7NTYJYWp3siiM8Ai3xR9Ig,132,3.5,[]
+935,Ic7p5nqe3W_JOWcG836gdw,31,3.5,[]
+936,Cxys2qo-Q8wAleoAIcHYBw,2,2.5,[]
+937,d0ABOuoUp2vq-L6SUra_6A,35,3.5,['delivery']
+938,2yo3EOfoJ1a9qE8gdIi1fQ,8,5.0,[]
+939,eAD07bcdTHNDZpIIlyjoZQ,82,3.0,"['pickup', 'delivery']"
+940,K6obQLN93V9U8pRfHZfibQ,101,3.5,[]
+941,dBVrF3tpON-4jfc2XHAhSQ,55,3.0,[]
+942,bZm7vMFyk7PL6upnKZ1JjQ,21,1.5,['delivery']
+943,W1OtvFEJXHePtZUcJUCaQw,19,4.5,[]
+944,_AFOcWFChrWo08rVOkKzTA,10,4.5,[]
+945,-mbqNau0QvqKS9TfkUFUCg,5,4.0,"['delivery', 'pickup']"
+946,LT9t1XfwCUlaE-CCKJUpQQ,1,5.0,[]
+947,nbuu1SnJ-I20XWxN3zTgfQ,144,3.5,"['pickup', 'delivery']"
+948,-wqeeXs79gyCXS0RW6AC8w,5,3.5,[]
+949,IBV11v0qjQxbAd2f1PDjYg,2,4.0,[]
+950,_Amc-Y0OxhYQnvMbpKMbjA,52,3.5,"['pickup', 'delivery']"
+951,eiMg4hlS6pDS08jwHO63zQ,54,2.5,"['pickup', 'delivery']"
+952,IJdXZWPQCKgWplQO8SDCnQ,36,3.5,[]
+953,LlcvGndRMhVh6iojz3N4eA,102,3.0,['delivery']
+954,9rmZgOxXjTSXL9fvOuYnyw,49,3.0,"['pickup', 'delivery']"
+955,6uZiO3E8PeZ297eA3-6bQg,138,4.0,['delivery']
+956,oWj02pYZGYtDK-YCkjn6Wg,24,3.5,['delivery']
+957,J2tGvGGPFh12EcVBpnHOUw,317,4.0,['delivery']
+958,gFMiNwPSwwK0go-IKaT56Q,117,4.0,[]
+959,_UJR8wkRgFWT6gXIwuyABQ,70,4.5,[]
+960,4y7VJw395shaVvITHDCPhw,58,2.0,[]
+961,z5cXdJ36pT9f797jtlsY2A,13,2.5,[]
+962,cTC-50xUYDhNqmthjCYfuA,50,4.0,['delivery']
+963,1tS7Kg0Wo8j-oCxQHTAAGA,50,4.0,[]
+964,pMP50jnvRlS5G3176mwh5g,41,2.0,[]
+965,qGhaacdEdQFVzpSgUyzlMg,17,4.5,[]
+966,rgIF9porP1hJkhUNztOMHw,25,3.5,[]
+967,z8SmicU5-pah6s40f9jfHw,198,4.0,[]
+968,NmX248l48SKYtNOey94o3A,14,4.0,['delivery']
+969,a517lBuBQtPZxCUaDOI1yA,42,4.0,['delivery']
+970,qZZ8WpuE9OvyXfmUzhu2jA,134,3.0,"['delivery', 'pickup']"
+971,V5fbRFGpIItulyV7L4F3pw,58,3.5,[]
+972,i6yhw8DhKj1EmWFAeCU9WA,148,3.5,"['pickup', 'delivery']"
+973,ujjqQs-W14IAWbw4-Pasqg,14,3.5,[]
+974,Mu1luVn5x2xRz6JMeXWlnw,13,3.5,[]
+975,GstXKuT7468KxrtwvsjaNQ,23,4.5,[]
+976,eEx_68bRgC2XcDxcT0KLcw,280,4.5,['delivery']
+977,EoTfpPe1nJ9-5cV-TnguJg,48,2.5,"['delivery', 'pickup']"
+978,vi96OpD1FCVzl7ZjPxDs7Q,58,2.5,['delivery']
+979,94yG7wd68GgkatP1Bqd68Q,26,2.0,"['pickup', 'delivery']"
+980,AOAph4aocoeE1VojL4Lgew,14,2.5,['pickup']
+981,Jw8LBJaEISWEatzI3zc5gQ,12,1.5,['delivery']
+982,R0qtiLYdPE9QDMz9DY_fHA,11,3.0,"['pickup', 'delivery']"
+983,dkSJU5Yuz3eraBCamPw1dQ,5,3.5,[]
+984,VqamD02LV4kOKhIXYrAYfw,56,3.5,['delivery']
+985,mbX_Pj_3frVPlr_jeTui2A,23,3.0,"['pickup', 'delivery']"
+986,IM-2yDg8izhqVC4jfLg4Hw,45,4.0,['delivery']
+987,dbTM3RARGgLIgLs6Jmeb_A,25,4.0,"['delivery', 'pickup']"
+988,fn_1HjJckkIT9UxNGJVrtQ,173,4.5,"['pickup', 'delivery']"
+989,P7oC63e9ygNQNWaJanV0NQ,5,3.0,[]
+990,sr2FxGjVyf48iR2qhKxfdQ,2,2.5,[]
+991,nyH45z28bR9nmhqlM2Y7fw,9,2.5,['delivery']
+992,oEwgHXjFoZ92hQwi8oWKXQ,36,2.5,"['delivery', 'pickup']"
+993,9pI-tpx1UpMKmqbh9HrLOg,4,2.0,['delivery']
+994,rsKNvensl8X-Zh0oFV1-aw,21,3.5,"['pickup', 'delivery']"
+995,K3sWdyReLc_HgtXDYIGpCA,77,3.5,"['pickup', 'delivery']"
+996,LdbTQHlGpKEpNZDdZniJyw,25,4.0,"['pickup', 'delivery']"
+997,LFL-ADyFdifT0uckWoiZZw,5,1.0,[]
+998,5K8rbWcEfCxbTY6DU_-7YA,8,4.5,[]
+999,GZjoUTMPjNR-uKDQ2Ez4Jw,133,4.0,"['delivery', 'pickup']"
+1000,Ud9q0uuYRPl0XtVyAiSmDQ,69,3.5,['delivery']
+1001,dcHKM6m0i69E5KL6JUV4yQ,51,4.0,['delivery']
+1002,p-4MRFqO7tdibhAOJZedwQ,27,3.5,[]
+1003,zgvUMcT5hfzuVTS0PERIYQ,157,3.5,"['pickup', 'delivery']"
+1004,r4zOCeHmTX8TLbT_TVtc1A,109,2.5,['delivery']
+1005,KtxI889Im87li3qdFrDCgw,156,3.5,['delivery']
+1006,G8boOuj-VenMkkFjgUX4Dg,38,3.5,[]
+1007,qMgGaHEzpPPdDkPD4ZKZsA,20,4.5,[]
+1008,gq8COFLmiFPP869o-AbedA,5,4.0,['delivery']
+1009,5kvW0hGkqhDNOjntgO1nkw,24,3.0,[]
+1010,TdmKVw_ViOK6xdBOkJTntg,21,1.5,['delivery']
+1011,1jTvVJQlJxfjWBCkNLTLxQ,3,4.5,['delivery']
+1012,5iJt-c0p98PVWGaVYEfinQ,18,3.0,[]
+1013,L5p6ptIWkJAsJN9xvyGrbg,117,3.5,[]
+1014,i7jBz9nrerasooNEt-QkCw,45,4.0,['delivery']
+1015,kH-uVEBbwiEqZ6zdDuB0fQ,500,4.0,['delivery']
+1016,1ZKCRDK5hRzO2B8GPgyJMw,132,3.5,[]
+1017,B6CSAyz436dP-kjjOn_J0A,1,2.0,['delivery']
+1018,AJGAixd7YLArQXmSly0qDw,18,2.5,['delivery']
+1019,w2fBQarL08QWQtc4xNHGZA,56,1.5,"['pickup', 'delivery']"
+1020,_6LQaqhtGeAH8eOAHVvqeA,5,2.5,[]
+1021,-VXieqfuFuGnthGNcufSaw,17,3.0,"['delivery', 'pickup']"
+1022,vLA1wWpYlOrsFmZZv48zQQ,174,3.5,['delivery']
+1023,zZMOThPOGLcnjhh6w6V52g,2,5.0,[]
+1024,YGuyFiivkUQX3xJ185wgTg,80,3.5,[]
+1025,5rwCl76lL0AZWMhvM-4B3w,92,3.0,"['delivery', 'pickup']"
+1026,Xg-o5BSJVXMuvcc9tyX9VQ,167,2.5,"['delivery', 'pickup']"
+1027,iu6H9w3G252PtYb42y6K7A,23,3.5,"['pickup', 'delivery']"
+1028,V7sFiSqCA4WOFs40U2GybA,16,3.0,['delivery']
+1029,EezFWHYcvGr6zRMoSEaATQ,5,5.0,[]
+1030,Af8pP4rt60webTeK2YlsVw,2,4.0,[]
+1031,W9AUqvPrq6IV2sNbfhxLpg,9,3.0,['delivery']
+1032,zHBwZZ95WlAxSmsO2tNefg,66,4.0,['delivery']
+1033,P4CaBd-jpFIyCajH5yOelA,2,1.5,[]
+1034,OuOO1_NnyZ6Ypix2_utrhw,4,3.5,"['delivery', 'pickup']"
+1035,S-oVCwWgHBdGSA3PrE2yAQ,19,2.0,[]
+1036,cKIvAKsGVOr9W-L-4bc3NA,32,3.0,"['delivery', 'pickup']"
+1037,V0O5GW2ofQ1RAcJ-xvUAkA,12,3.5,"['pickup', 'delivery']"
+1038,bDk5idgw90P-V33nvnnagQ,3,3.5,['delivery']
+1039,_RSfKyxfSAAjqWZrytld9Q,4,2.0,['delivery']
+1040,kGAzf-J94eF_HuQ6xLqsEA,65,3.0,[]
+1041,ocJhgP9EuqhCSFErMSCpRQ,1,1.0,[]
+1042,c-Z7ZNEYCgZLPsE5JcKCbQ,25,2.0,"['delivery', 'pickup']"
+1043,3uwe3xkRVY2chAmPn6klFQ,49,2.5,[]
+1044,gLG2_8QTXflr1yHLgCOStg,13,1.5,['delivery']
+1045,u8UoeB4yiN8It8k_xryXqA,170,3.5,[]
+1046,NBhFHDs1D8nPajTzM_2Zcg,4,1.5,[]
+1047,sblpZpiJf-WWeSvOgSztSg,34,3.0,['delivery']
+1048,5j71CBED4_hDRVGmdo3paQ,3,2.0,"['pickup', 'delivery']"
+1049,biRdpM31eAEKuGqqhEcs_Q,58,3.5,['delivery']
+1050,w6l57qr9Gs_IkMKiv8j3Mg,1,3.0,[]
+1051,8JkyD3dPce80DFc0_W5XAw,55,4.0,"['pickup', 'delivery']"
+1052,9W67PcCJRUNtFBmG6WCheA,7,4.0,[]
+1053,Z5AQOfmxiR86YqKU2m9dSw,101,4.0,['delivery']
+1054,JXaaz1edKkmm3po-zS-rcA,317,3.0,"['pickup', 'delivery']"
+1055,b0iCdAzck3bXOheKNnDkoA,143,3.0,[]
+1056,NqmIJgzqhSVnNVBvHA6nGA,1,4.0,[]
+1057,A63LeXN0mrSaXTd4viEASQ,88,3.0,[]
+1058,Kwtpz1HXpbdq9JB1PBhVTQ,152,2.5,[]
+1059,AuZTIQzC9h6FEDGvRc_KQw,136,4.0,['delivery']
+1060,Srh1dnz7tAfLOqyl5Qkx9A,60,2.5,[]
+1061,RuJ2PluIbT0yDLkCdi9c7w,26,3.5,['delivery']
+1062,Vci-QH8mun724IogkfTcbA,8,3.0,['delivery']
+1063,HLsR8uB5UpkLUNWHzynHzw,28,2.5,['delivery']
+1064,HZ_xOzn5yqmwPXbYmkF2XA,62,3.5,['delivery']
+1065,icThT3wDChrotRM3-lW9lA,4,3.5,['delivery']
+1066,QaBtGkhVueef7tcw1apfWw,4,3.0,['delivery']
+1067,0DBsLWhwkvtXDLfP5hrcmA,32,3.5,[]
+1068,TOm0r0O-Jj5Ci_P6HWvNBQ,82,3.0,['delivery']
+1069,BNFVSiAejxq6mBspIINJtg,41,3.5,['delivery']
+1070,a6jzsmB6c-XPIxgKh8hfrg,181,4.0,['delivery']
+1071,XGj4M4d6FyPL2-e0lK3R3g,74,4.0,['delivery']
+1072,7bLQI-5ucGVU_I-dgiFsjA,24,3.0,['delivery']
+1073,_juwh59-DgsFAwXV0ZYFyg,34,4.0,[]
+1074,y_BFHLlSvB044OUrJOPvYg,48,4.0,[]
+1075,1WIjiDEtxPmWybhN5RUrTQ,2,4.5,[]
+1076,n7xrNLD827hbGQdBlfwdkQ,11,4.0,[]
+1077,WzMvHjetHryMemqnHCgS2Q,10,2.0,[]
+1078,z_WILGTCtZF47nFvhTxE8Q,149,3.0,"['delivery', 'pickup']"
+1079,-DJ87h3-M2HUHg_ayz3qwQ,12,4.0,['delivery']
+1080,fhfNALm76weBgwOaNim6HA,74,3.5,[]
+1081,bOQLn6UXeqLPhj5VYR2KQw,180,4.0,['delivery']
+1082,KB28MrTz6Aa5DA5jSVWXzg,257,3.0,"['delivery', 'pickup']"
+1083,itFuBSOzfUhcS8NbwzIr_g,33,2.5,[]
+1084,Ifk-Y81ktEXorAlyPFDxQw,114,4.0,['pickup']
+1085,RIIPdLdVmGy-BpiCY9KrOw,2,4.5,[]
+1086,qe1b_F0Qg_6o_8fxLFIYwg,69,3.0,[]
+1087,NTKDMcOFPQMaJQ7CQZ1LEA,46,3.5,['delivery']
+1088,NihlZiI4jg59upT0qEOxoQ,1,5.0,[]
+1089,9pkc6lUfxeFjh5wu0iIQMg,21,3.0,[]
+1090,W4nVdonOMJPCZswyEIRLHw,24,4.0,[]
+1091,TBjSAu7MJ5tw1wcgfdG4JA,19,3.0,[]
+1092,pdGViFR_Ls8GVSg413XaeQ,53,3.5,[]
+1093,NZGuWuZPYZPb-PCY3834FA,65,3.5,[]
+1094,p4JFHjYiBgi9Ys6HuvdEbA,15,4.0,[]
+1095,aZTDynXAFQUKiZhZ8PVCaQ,447,3.5,"['pickup', 'delivery']"
+1096,Y5MDF3H5nInTEig-yUvtWg,31,2.5,"['delivery', 'pickup']"
+1097,ICrxXKBzxRzpXtdn6K_evg,83,3.5,"['delivery', 'pickup']"
+1098,aAPlOI4aJC1m-c_7rMYaIg,43,3.5,"['pickup', 'delivery']"
+1099,aBqpBqAGmw0ss9EB0xyD3w,10,3.0,['delivery']
+1100,i50Ggfk1eJHkF5sicWlZ0A,4,4.0,[]
+1101,guMPLt9MSchA38_zax_NVQ,300,3.5,"['pickup', 'delivery']"
+1102,brkg_UnBUOChEYNjtHs-DQ,199,4.5,"['pickup', 'delivery']"
+1103,ik0XfwuGIi19MM13grI2tg,226,4.0,['delivery']
+1104,986dQrHubkTN7-6lVP5myw,17,3.5,[]
+1105,Wnl6oiz7ZrrMvqaomCtYqQ,18,3.0,"['delivery', 'pickup']"
+1106,FVhqpdqqCWYckOhJ-7ouyA,29,3.5,"['delivery', 'pickup']"
+1107,wz6lugKpx0VjisfGZOqF9Q,15,3.5,['delivery']
+1108,AlTMvRyOd1n5yBvX7PqiuA,34,1.5,['delivery']
+1109,eTbqmOM6Ic_QWvCbSkcEkg,467,3.5,"['pickup', 'delivery']"
+1110,zu9uFl1tOOER1z1D_VxplQ,27,1.5,['delivery']
+1111,JyKM9M_NnKspfvFzSSjzHw,74,3.5,['delivery']
+1112,xt-9cLYBILDORZS_p3a1GQ,59,3.5,"['pickup', 'delivery']"
+1113,V7tA5rZprNhdT4G8seQ4vg,17,3.0,['delivery']
+1114,elKTR-zvpTBvb29MkKWT5g,26,3.5,"['pickup', 'delivery']"
+1115,mg-QYz4QYAxaCfpD5CoXow,575,4.0,['delivery']
+1116,xDrx8_4GUnLQJuzh4qJ1yA,6,1.5,[]
+1117,Xlb2QVYdblyLJdBHT3mw8A,23,2.5,"['delivery', 'pickup']"
+1118,p8IZ10bRXKAI1_1LG7L1MA,167,4.0,['delivery']
+1119,CkBZ76RSGlrPHezHwMSFIw,2,1.0,[]
+1120,sdRw9WY6ZxLaT_m_2Nva0w,41,2.5,"['pickup', 'delivery']"
+1121,3qT48T6cz8FEeNX18_dJ0w,16,3.5,[]
+1122,yBdO1Z5la3cPgJIFq6v5CQ,41,2.5,['delivery']
+1123,cYdJcoxNTeoIyYRZc6pC0w,4,2.5,[]
+1124,5wxq3NFRlpbJi3-NMo4fzg,30,2.5,"['delivery', 'pickup']"
+1125,CGbbu2AbMOGQoiOfwKjSYQ,24,2.0,['delivery']
+1126,97NTcU9eq61pELuCAuVs9A,34,2.5,['delivery']
+1127,CpOSh0J9MFJMdWkb7GN2ow,537,4.5,['delivery']
+1128,VqamD02LV4kOKhIXYrAYfw,56,3.5,['delivery']
+1129,LjvHGYAC113ZGUs0mue43w,445,4.0,[]
+1130,g179k3UJjUpokVFp6wuRXA,144,4.0,['delivery']
+1131,K0qXQIkpSR5A-oJb_HHNvw,8,3.5,[]
+1132,sUXGdUeobPeForzPI01oXQ,71,3.5,[]
+1133,s2OEu1n9uGGKCzSLS_D51Q,4,2.0,['delivery']
+1134,R5QNuw5lq1xJ-BNsb4rIoA,11,3.0,[]
+1135,6S3_kI1djIqXKjmXJ8c6sw,301,4.5,['delivery']
+1136,o3zdRzgzq99UJ_ox1hMiEA,14,3.5,[]
+1137,O0SgSyqGkyheuBc_0MqOqQ,41,2.0,['delivery']
+1138,-ch1xM5MtC_InV0EBWMKcw,205,4.0,['delivery']
+1139,LNLqZGRD5xdbVvfl7QNWKQ,90,3.0,['delivery']
+1140,Tqs7FO5qJKqNXqJ6xTm5_w,190,4.0,['delivery']
+1141,-oQEZGyG80eBqQ1m_ZAtPw,27,3.5,"['pickup', 'delivery']"
+1142,A9B-UWhDDSSkHYx_0-z-Qw,3,2.0,"['pickup', 'delivery']"
+1143,1yZB1tUqOxF4Gx6189KXTw,6,4.0,[]
+1144,43PMg5XD8jDwio5nwh10Sg,9,3.5,[]
+1145,tufeNGY46IJkoUctGHdnvA,17,4.5,[]
+1146,iTIqguqOVdBSK0yMXGRNcA,108,4.0,[]
+1147,ilMb9IFmCc5nE78FMGiMug,176,3.5,['delivery']
+1148,-BoxrdXr4ICwPRk-H72mzg,175,4.0,['delivery']
+1149,uBkVLSHRNIN2tUFJeFdSZg,20,2.0,['delivery']
+1150,0NdARDA7nja1A3gA_ziHbw,49,3.5,"['pickup', 'delivery']"
+1151,rQPXx4udbJ-c2ZrJlr5Ugw,8,3.0,[]
+1152,nwdyDEACru3Rmq9KsgGWcg,182,4.0,['delivery']
+1153,VraScSnJJRuaXTCf_HnNvQ,23,3.0,['delivery']
+1154,2M8Z6jTehReansnmuT5JWA,32,2.0,[]
+1155,WjJxfju2UuQNJte0Vdzpyw,18,3.0,[]
+1156,BYK6tL_AuD4r6IB8keAkyw,107,3.0,['delivery']
+1157,iu3T5JUS7HIUNokv0nFf2g,1,3.0,[]
+1158,GTpXJtNTiwxssYVlmvW85Q,5,3.5,"['pickup', 'delivery']"
+1159,bae9U2QoA7526dFITbwjLg,20,1.5,['delivery']
+1160,SHZlITl54WrQ1zvCyE6LaQ,143,4.0,['delivery']
+1161,FVol9Tj2uPrHOkr8uygt9g,2,3.0,[]
+1162,aTEdWP0ysWPW3sOHABawOw,2,2.0,[]
+1163,YYQqP6cCUEmXO9HMLq5vQQ,2,1.0,[]
+1164,N7hf4vrfQdljPNWUTSuNLQ,592,4.5,['pickup']
+1165,LuA7RtcQvRQ6xXdYr4WGHw,13,3.0,['delivery']
+1166,Zk3v6loo952z90VC8FbMSQ,24,4.5,['delivery']
+1167,VYEeXwDHitdlIJtKQbsgaw,26,3.0,['delivery']
+1168,6Ompv6pJtbqSPpXKqkNshA,14,2.5,"['pickup', 'delivery']"
+1169,eDNle86fcCbm2npYHgRFeg,30,3.5,"['pickup', 'delivery']"
+1170,9pI-tpx1UpMKmqbh9HrLOg,4,2.0,['delivery']
+1171,8d84jTwYY45pcby-GWSW2A,562,4.0,"['delivery', 'pickup']"
+1172,NdGMKLY26R08Fsm0VlkzSA,127,4.5,['delivery']
+1173,P1CXhnUQhOPD9EvkJdgBrQ,22,4.0,['delivery']
+1174,oX1QhLNHdrXt9Ugy2s-Q2A,9,1.5,['delivery']
+1175,m3p-1wl_Dw5CdCjg5r-2jg,66,3.5,['delivery']
+1176,Efh7RwdB9B-gxvG-uRSG9Q,82,4.0,['delivery']
+1177,Zfe50_oLw8bUQ-EQcTYVWA,27,4.0,[]
+1178,MLEidqC-Ad6ARJFoqB0GfQ,47,4.0,[]
+1179,vyhM0rtNkQrSRZdIJJjqug,1,2.0,[]
+1180,l_CiEDDoHTOcEMUlT5S5GQ,24,1.5,"['delivery', 'pickup']"
+1181,pe2RAyW2nblR8D3UHqXo7g,63,3.5,['delivery']
+1182,dI2Z4yeIm6wz2l5-W7NQ-w,54,4.5,['delivery']
+1183,sOMD-79oTBxMt426E7r11Q,60,3.0,['pickup']
+1184,PRt__OLB6Es6y5sx5QxdPw,83,4.0,['delivery']
+1185,Vqx62J-wQIOsDsziHY2TUw,2,1.0,[]
+1186,auCjTXHXARd80HPyOYsAaQ,14,2.0,['delivery']
+1187,Pimdklq7b9h5dlIUIr-YJw,12,2.5,['delivery']
+1188,UBUCSB1bwOZoLuEcLTjuOw,23,3.5,['delivery']
+1189,mJabGxrC7OQ1psjQ_QbxiQ,28,3.0,[]
+1190,hdyidCUK34kZPjZ9EZ5KLQ,27,3.5,['delivery']
+1191,S_lkPNz3IVX46PafvqIkFQ,100,3.5,"['pickup', 'delivery']"
+1192,VYEeXwDHitdlIJtKQbsgaw,26,3.0,['delivery']
+1193,_QsN-hLozwTB-PLL7JjYCw,55,4.5,['delivery']
+1194,g8P5pQFBJZmEgJd5jMiMlQ,65,3.0,"['pickup', 'delivery']"
+1195,jJ6hYdj2Yg9qCJ7cRqUC_Q,23,3.5,[]
+1196,vhe8tjpCVXGWbIUb0e9oZw,73,4.0,['delivery']
+1197,oZJmmelSpiZZLRaEn5z2-Q,114,4.0,['delivery']
+1198,uZIjydTzuixEs6gbt09YCA,31,3.5,[]
+1199,57aSIZyWaBgt2wnLcV2gEQ,17,3.0,['delivery']
+1200,ERGnpH44KazAlECiSbWfyQ,29,2.0,"['pickup', 'delivery']"
+1201,cXCUuxgCdICWDjx-3Mdspg,57,2.5,[]
+1202,FEqKQCztg132LamN-GbPqw,48,4.5,['delivery']
+1203,K-LNraosKR1VDTaUk3p-QQ,29,3.5,['delivery']
+1204,Ad68N3Ig9HtYgzimFTGDtg,1330,4.0,['delivery']
+1205,plbQDQYFckY6AuagCgQ4QA,159,4.0,['delivery']
+1206,zg2T4IJxbZcTCnqsxgqBcw,68,3.5,['delivery']
+1207,yF0q0W9V8hWhowCsky-yjg,19,3.0,[]
+1208,HmPfglc8kxRbsGQNywxAHg,145,4.0,['delivery']
+1209,7NSk3RbcmBuLq9XUPyNCNw,162,3.0,"['delivery', 'pickup']"
+1210,9xudD_wbeWOiazf9wCFrJg,49,3.0,['delivery']
+1211,3xFL95QHswgmyQNMd4MBpQ,106,3.0,[]
+1212,ixfP6oTpqONZAfxoUpNxug,117,3.0,"['pickup', 'delivery']"
+1213,kScIkkNyXUKGEEi_lw7n5Q,42,4.5,['delivery']
+1214,JRS9jIbNKqeU8C4kfrkaPg,338,4.0,['delivery']
+1215,G0xg2gdsnrLCJOoGHXGqyw,19,3.0,[]
+1216,TeiiUX2hwWucfpgAmRkrHA,191,4.0,"['pickup', 'delivery']"
+1217,p7jMEY2ATyiZUu0O8jjHhw,117,3.5,['delivery']
+1218,OsZPyfCT4X3EHJrPgFRqzA,3,4.0,['delivery']
+1219,MFeATlA_e_J9kuLm3D_dOw,37,3.0,[]
+1220,lU9ZoRnioTLhinnO0-e2Pw,42,1.0,['delivery']
+1221,AW5M3P8E6odpm5K0xqwzEw,1,5.0,[]
+1222,T_vA0zgMIlE4CZAzczLkUQ,24,2.5,[]
+1223,CNpVd0dF9gs7X76suQ5mdA,6,3.0,"['pickup', 'delivery']"
+1224,FRd_ZmwVg0QNfFJrSULXGw,161,3.5,['delivery']
+1225,o5D-NUlrpdElrjNPK5-7lA,37,4.5,"['delivery', 'pickup']"
+1226,iPSG2d4gslDtSIOGqF0BXw,90,4.0,['delivery']
+1227,sHrsjAVeiSYcLrnot4YkQw,94,3.0,['delivery']
+1228,OItnsTCuQTojQbc4JeAsFw,103,3.0,['delivery']
+1229,pv0znZfkrmqvMTNERIC_aw,27,4.5,[]
+1230,6p2jpf5Y9Tfq5TGNYjQFIQ,43,4.0,['delivery']
+1231,Ru21l_qihKiJmxenK_zvcw,117,3.0,"['pickup', 'delivery']"
+1232,QuP1nk-RP1JZcJZV109kHA,166,2.5,[]
+1233,jAfQnngu39wSrwrK8PnH-g,57,3.0,[]
+1234,U06GGV47ZcrN61JqcRLhXw,275,4.0,['delivery']
+1235,TFYXwmS-bRSa7zkTHolopQ,97,2.5,['delivery']
+1236,T3u2jgO38fu2lL4CIZdOfA,17,3.0,['delivery']
+1237,Nh23FbF-bTAcPeA4HsDnbw,48,3.5,['delivery']
+1238,9_aTJC0b9n6pxBHXOkhsVQ,172,3.0,[]
+1239,UTf09KKfeD80NlVT9jKmNA,4,4.0,['delivery']
+1240,dJ4KZTkyuavRR4zZTzAf9Q,84,3.0,['delivery']
+1241,QWwpvUmN05SFuYWlS2On5w,35,2.5,['delivery']
+1242,m-0x7SdXQx1fycDM-yHd9g,27,2.5,['delivery']
+1243,Rfd6nEKNlLYPUZwDkUU07Q,108,3.5,"['pickup', 'delivery']"
+1244,jA_SVToY-Ky8324F70OKQg,197,3.0,[]
+1245,qBrJDv9qnYr1XcteckDodw,154,4.0,"['delivery', 'pickup']"
+1246,0IHC_48SMNzhtAF2UqGzZQ,7,4.5,"['delivery', 'pickup']"
+1247,pM0rAl3PECAnU14Q819cqw,32,1.5,['delivery']
+1248,uHlf782sPfJD_j71SXKObg,3,1.5,[]
+1249,YNIQSyX3UiUM79HADF-74g,141,3.0,[]
+1250,0vlHTZCatpZiO9CgO4bu4w,258,4.0,['delivery']
+1251,kDIpJKUeOmVEfoZAGRbK_A,68,3.5,['delivery']
+1252,RgTULxeN2KxaxZNWY7Tapg,12,4.0,[]
+1253,3pLFK8GMD_reR6d6cbnXDg,42,3.0,[]
+1254,tFZosUY7510DQt_svz2Lww,26,3.0,[]
+1255,52ceA6Ix7tgzxNdnqU3ClA,157,3.0,['delivery']
+1256,XeQgaLMmO5pcUdaplvberA,20,2.0,['delivery']
+1257,gJz-EwR9TZW7j56wwJXDLw,345,4.0,"['delivery', 'pickup']"
+1258,uxFheWzB4NGOE5cHEy0enA,55,3.5,[]
+1259,Dz6r05XCE1Jytk4_7lrm0A,12,3.5,"['delivery', 'pickup']"
+1260,3a2i0ULUwkz_UTPq8_2Ugw,28,3.5,['delivery']
+1261,hZi91eKrUIm43cl_DqG_kg,53,3.0,[]
+1262,PbxXR4bTAoXzelmtRIigAQ,77,2.5,['delivery']
+1263,xCKRyfxgWD6NuFuvaeNcRA,31,2.5,['delivery']
+1264,9NpYYmjq-rWDThyRZdT8eQ,8,3.5,[]
+1265,s2yXLeDwUiTwUdWqXOD33g,26,2.5,['delivery']
+1266,Mkiks8YhZLzjCqZ9au1Ptw,173,3.5,['delivery']
+1267,AStpSTZvoAi1dVTVcTwNEA,7,3.5,[]
+1268,gFYsU6XthIVbNv9GDeBcYw,46,3.5,['delivery']
+1269,omGWiMMI_zbwWszxac1Jqg,14,2.0,['delivery']
+1270,uEV9pPSR8CUKwnMsFRhxeA,26,3.5,[]
+1271,tX7CcH3gtyAgC8qqHkGaZQ,15,3.5,['delivery']
+1272,iC2Hq1ZX5wTaXR39k8aZ8g,16,2.5,[]
+1273,0ER88SYlliG5evJgXaU-wg,9,2.5,"['pickup', 'delivery']"
+1274,Om5vWlZuQyIKY7gEDqRzMw,24,2.0,"['pickup', 'delivery']"
+1275,8HuvMIEadZFcuKuTyqnOTw,217,4.0,[]
+1276,hl8xNOAHFoPH-py0BxYuWA,167,3.5,"['delivery', 'pickup']"
+1277,yq8-kiD4t7wqiQ2bNH0DuQ,531,4.0,"['delivery', 'pickup']"
+1278,yrlKT69TJ_F9Dki-1bP3TQ,120,4.0,"['delivery', 'pickup']"
+1279,Q_oFjM63QYi8DXDNy1D6aA,195,4.0,['delivery']
+1280,RR2aiJP8W99lAk5ejn8pvw,687,3.5,['delivery']
+1281,a4T8ZEZadbz9_bDvLglKiw,183,4.0,['delivery']
+1282,AXLwsBi1VwOLxizjZ7ePjQ,84,4.0,['delivery']
+1283,2ospc7M5IAvrCRcfyFvYUA,39,2.5,"['pickup', 'delivery']"
+1284,sc2_564gsfs5nyDXOKmI8g,37,2.5,[]
+1285,c-yHJhhGCaBsfhjAKlNXVA,9,2.5,['delivery']
+1286,jxbu0Pswfm0JEyN612-aCQ,181,3.5,['delivery']
+1287,PQE3GTIYQc8jgV7R5q6xCw,18,3.5,['delivery']
+1288,P8twSFiiGU_rvMYtBDrluw,108,4.0,"['pickup', 'delivery']"
+1289,05O6cMbF2qy0abLR1UTrhQ,2,5.0,"['pickup', 'delivery']"
+1290,7LkM2PoGcXHmK7BNMRUWSQ,23,3.0,['pickup']
+1291,ltREYlrPKSdIjGVLnwxjDg,4,1.0,['delivery']
+1292,Bz3TTYQAFP2AIp7fEDoIkg,8,2.5,[]
+1293,UXGBhV_q9q-SAUt7CZEKjw,41,3.0,[]
+1294,HV_EcIXoZ1gkljF4XWEw_g,22,1.5,['delivery']
+1295,5Y2QbypSD9ces-aX0-mrPg,78,3.5,['delivery']
+1296,UFpvEyXu1jh6mFL_ngk0Xg,262,4.0,['delivery']
+1297,LxoXgmYCowdhY2i7iF7E1Q,102,3.5,"['delivery', 'pickup']"
+1298,M9yUASu9vNDa1t9PNrHBRA,227,3.5,['delivery']
+1299,Ky8yhJVLvhhUF_KvaLPOoA,27,2.5,['delivery']
+1300,JYMJwfmu9tIz5eZ2qm-C1w,17,2.5,['delivery']
+1301,UPWu6L70nCkE34TXj2Xy0A,89,4.0,['delivery']
+1302,uw6PIX_oBBltTLo3_qEYag,30,3.0,['delivery']
+1303,Eqs6P-4U4DkaP4Yhb-5X5w,18,3.0,[]
+1304,Fz8--5bKau1mJGffcCnsYQ,105,3.5,['delivery']
+1305,copRTTkTKZl8YjXX7NolmA,15,1.5,['delivery']
+1306,kfJMs6ed41W187KWQO2jow,31,1.5,['delivery']
+1307,KAjsIumQ6_-AbHzJq0MiJw,13,2.0,['delivery']
+1308,w5ftNa94JJe4WqLBWqiWEw,26,2.0,['delivery']
+1309,DPEC8r3-5q7-Ld4rgl2ikw,7,2.0,['delivery']
+1310,IdoGGCbg6E0QXZmDxJcuoA,1,1.0,"['pickup', 'delivery']"
+1311,7j_2PQqgX-7Dcf7rrHRzJA,21,2.0,['delivery']
+1312,nofPE70z-OsBWRcq08Ks1Q,11,4.5,['delivery']
+1313,0SCH7c2HTSf4D695UrVhXQ,6,1.0,[]
+1314,hn66cj82YJEsQQ8KoSDWvw,281,4.0,['delivery']
+1315,uKOEAJrv3QP59dJ0Mj6cBg,154,4.0,['delivery']
+1316,0mS-wcffEy-s7qPxbnv0UQ,86,3.0,['delivery']
+1317,8u79_zkH7S6YylqDae6ygQ,47,4.0,['delivery']
+1318,XJeMHpKcSVoiZXyepKwgog,35,3.0,[]
+1319,Ngvh12iYbwwae97QwnzyfQ,18,3.5,[]
+1320,fFYvhpn01HYuGp6zqHpPmQ,3,2.5,[]
+1321,oM8BymXy63aNDTQJkVZ3RQ,6,5.0,[]
+1322,Aj7Patg6Rieajhglz1N90A,88,3.5,['delivery']
+1323,K-9PMUaJCk68YozGfP0i4g,99,4.0,['delivery']
+1324,XQH2soIPKGbjZxgG-zZ0wQ,19,1.5,['delivery']
+1325,T1AcR_jaNSkPlByy2K00ZQ,15,2.0,['delivery']
+1326,BspmSqE_HWJqNNXlQVzCgA,24,3.5,['delivery']
+1327,z0HEYd_IttPDoVP1XZ7ByA,9,4.0,[]
+1328,vqjHAZs8QyvB5UAYrQOsUQ,71,3.5,[]
+1329,m58DWgB45a6w7BXSAH8vcg,7,3.0,[]
+1330,DjjwFThHpgvttwYFTJLWIg,11,4.5,[]
+1331,bBS3pAJN4fAOoceOZ4vI1Q,4,5.0,[]
+1332,Xo-AY2kh5GJxHYXiEufngg,1225,4.5,['delivery']
+1333,xCupNfX1DbQvGjGKPW5wIg,5,5.0,[]
+1334,Ci7DMWTv4RGgP90ZlfQ3OA,21,3.5,[]
+1335,gsnAq4HObZCRGz2C9Tpx_A,2,5.0,[]
+1336,h-wpyFz-oePnj-ZlztSnTA,472,3.0,"['pickup', 'delivery']"
+1337,AW_IFBG-6crgbCQGkQg61Q,26,3.5,[]
+1338,pWkucXeN5M96XVqAEyxwjA,112,3.5,['delivery']
+1339,nwq6PHnphSmZkhrCsq5mHw,2,2.0,"['delivery', 'pickup']"
+1340,MLYLa2c97hMiipcouKdwiQ,2,3.5,[]
+1341,hZEXoNuBm9kdpPOpi_QObg,32,3.0,[]
+1342,K_2GCOwouzs11bOnVIJMiQ,1,2.0,[]
+1343,94A48l3XIr0j2M1S_kcXiw,4,2.5,[]
+1344,ZxM2d0CISdFAKeumUBuiKw,51,3.5,"['pickup', 'delivery']"
+1345,JpVpAwGSAXBIuyZ0GxlBXw,123,4.0,['delivery']
+1346,rVlCCjQfASrFjO7wIm7tsw,2,3.0,[]
+1347,jUuWDJWcAv6bnTH54os4Zg,12,4.0,['delivery']
+1348,KuQis6U7VKtcVboE5Q25uQ,49,4.0,[]
+1349,jCP0WEnSXhDQ-av6iiuY9g,18,3.0,[]
+1350,Sj0DzIibdWJ2q5dUgOsgZA,198,3.5,['delivery']
+1351,tkHXwJx7ea7VaCmNTjEiAw,13,2.5,['delivery']
+1352,nzwab3J5VLXP78y4TremaA,96,3.5,['delivery']
+1353,OpD-wgudQfV5FHfIhLohvQ,17,1.5,[]
+1354,6EMpzz1uugL-VTQ2f_7SHg,6,1.5,['delivery']
+1355,AcahUQje020Exo0cC0kuvg,71,2.5,['delivery']
+1356,4XX9oMdGqtXkoC8A29YvgA,11,3.5,"['pickup', 'delivery']"
+1357,Wxb4Pn-rbxLD2Jd86mKRHw,456,4.0,['delivery']
+1358,gq9q07gFofDxppPIp7OWnw,74,2.5,['delivery']
+1359,_Q7UUNtj307VBkq-QmrcJg,3,1.0,[]
+1360,OkZD9ErW5RA2csiKvSRlUA,31,4.0,['delivery']
+1361,ljqxEueK7fhAUgHYCbHVOQ,109,3.5,"['pickup', 'delivery']"
+1362,wTDuwwOBCI7zwRQH6pAXuA,68,4.0,"['delivery', 'pickup']"
+1363,0wiXdYxQ1EeqRET-9MF64Q,14,1.5,['delivery']
+1364,p14yDn6g9xoLUDOxl8e5tA,24,3.0,[]
+1365,RTP_ijR2KsRcZ-agCZeAnA,115,3.5,[]
+1366,XZ4v7Z5Pz2-UeZetNGi0WA,6,3.5,[]
+1367,0CEokKr2oQrf2Vm_z1JaQg,98,3.5,[]
+1368,lRWsjijfNN4uB-BXgsb5Xw,60,4.5,['delivery']
+1369,yD1Myhhmdjfl_ysZnH3IuQ,56,3.5,['delivery']
+1370,48gQtwOX0yVK5FzVzi-0Vw,11,1.5,[]
+1371,OCs2lYg8QoTq9PkNYbyRBw,35,3.5,"['pickup', 'delivery']"
+1372,GkE3AbPbpuj7XygwCGfK8g,182,3.5,['pickup']
+1373,gBLtnNdleGgfzou-1n2yVw,503,4.0,['delivery']
+1374,ZTEXlPpOcWTnZsMgOUPI9A,22,3.0,[]
+1375,MqfcZTps4CBQka19gnDOyg,53,3.0,['delivery']
+1376,B07KmIMi9oVCwJnLToJ6hw,10,3.5,[]
+1377,VS7V6q35MbXbwO69RjjdHA,147,3.5,[]
+1378,0K-v754XA2PKWxWzyVyybg,196,3.5,"['pickup', 'delivery']"
+1379,qKtqgrpU5d1ifWNq8uUnoQ,3,4.5,[]
+1380,vVsv8Ow6w_1EQAGRxbYh1g,19,4.0,['delivery']
+1381,OTBPAl6u-XJn_A8D1eePGA,459,3.5,"['pickup', 'delivery']"
+1382,h7TNFIQjauui6EVb_4oWuw,452,4.0,"['pickup', 'delivery']"
+1383,gSWGryY6wTXPTxduTawDaw,21,3.5,[]
+1384,WoLalfE7oKdMuA0xr6b6xA,3,2.0,[]
+1385,U6jdceapiQQ7AAlYkk9S6Q,7,2.5,['pickup']
+1386,bacXVe9d52zytD5qT8Z1Mg,258,3.5,['delivery']
+1387,PrLqNWbftwfdbW3ee0HEDA,136,4.0,"['pickup', 'delivery']"
+1388,RkAijY8XeemxDHoeofl3XA,3,1.5,['delivery']
+1389,lAQztBgoWXhZNAA3WaOsew,15,2.0,['delivery']
+1390,X2XcoHTQBq-R2JDdvqeAlA,414,4.5,"['delivery', 'pickup']"
+1391,MoXYs9Gy5GDRyYfifg9BNw,50,3.5,['pickup']
+1392,vYzxlETIQ22Rm3WBFl0ReQ,62,4.0,"['pickup', 'delivery']"
+1393,Yw_n7h3mwjwyUGKjoQEAvQ,370,2.5,['delivery']
+1394,yHS7wMJhW3bZsaFQOhSmeA,60,3.0,['pickup']
+1395,QTCpbx8Fcjw44WmpYU8nEg,115,4.0,"['delivery', 'pickup']"
+1396,iAaLveM9EPGyP1MGjClDrQ,1,4.0,[]
+1397,icqY1lAj3NvhLXkMEjdeRg,11,2.5,[]
+1398,uRD38xi_n-dNN1vfkvQQ4Q,165,4.0,['delivery']
+1399,lk-MX1oOeVLfTS--oqFsow,165,3.0,['delivery']
+1400,nM-_YBkAIoS7gLTDtftctQ,16,3.0,"['pickup', 'delivery']"
+1401,l93acRfsOsP0sW4CNToubw,113,3.0,"['delivery', 'pickup']"
+1402,kIDsjDe2z_GkGGnQSJdrOg,20,3.0,"['delivery', 'pickup']"
+1403,U86zUg5JXcznod_JsizyJA,189,4.0,"['pickup', 'delivery']"
+1404,d1xikHHiDs_x27wsnTdQbw,11,3.5,"['pickup', 'delivery']"
+1405,6k4oZ-oUiVtz7koKR1mCaQ,177,4.0,"['pickup', 'delivery']"
+1406,aZTDynXAFQUKiZhZ8PVCaQ,447,3.5,"['pickup', 'delivery']"
+1407,eF404AxfIa3JBWqL3bdYOA,24,3.5,[]
+1408,QDhqVXbEkmSbpdwMKusphg,65,4.0,"['pickup', 'delivery']"
+1409,7Rlz9SLfNg6S7NQeb-yNMw,92,4.5,['delivery']
+1410,kL08NStghsfKE6AQatcTPg,8,4.0,[]
+1411,9NEm-9lMEuDG6SIocxe-yA,86,4.5,['delivery']
+1412,he4Qd_4OuFmiPqm3EVp0aw,183,4.0,['delivery']
+1413,CYWg4VDyj7mCuv1WvG8XXQ,410,4.5,['delivery']
+1414,MjHhcJ5FXhZGQ-jw_gHLJw,244,4.0,[]
+1415,tbo__R-mEorKMd3Qz47gxA,1175,4.0,"['pickup', 'delivery']"
+1416,5Smhh5LOUd4xs1hAa_EiSA,32,3.5,[]
+1417,wMaD_7qrSQs0YWM01zKpuQ,1,5.0,[]
+1418,0wWVvaolQg7SXdRXakhVxA,1,4.0,[]
+1419,abpAfqXXkkUdghtI-nRwTA,138,3.5,"['pickup', 'delivery']"
+1420,qBCcrRmRDrrDvHV0NeormQ,5,3.0,[]
+1421,Ouh6WD9ftfPRX-w4EA8NYg,1,4.0,[]
+1422,vCZntpZ_NWLwIO5UYVgKSA,20,4.0,"['delivery', 'pickup']"
+1423,zS5ARtAie9dKazLDyTaUmg,115,4.5,"['pickup', 'delivery']"
+1424,UMKScpUyckv1IcwtGEFwUg,167,4.0,[]
+1425,0rEFQtJe-7ftcyZ_FssFBg,108,3.5,[]
+1426,z03yUG3Os6qn5WTbuh-8jQ,400,4.5,"['pickup', 'delivery']"
+1427,YqM6KGG31XCiaH2Ya904jQ,76,3.5,['delivery']
+1428,vQa-xSeU5hBJX02zxWgW7w,70,4.0,[]
+1429,jqwXf_tET6ucSHqFs9-QRQ,77,3.5,['delivery']
+1430,aBuGR4f8-rAWI5IVeCfO9Q,3,4.0,[]
+1431,2TcoPHvJeftYNYLzRsmb7w,54,4.0,"['delivery', 'pickup']"
+1432,yT7lhePoVBlpSKFAEzhskg,1,1.0,"['pickup', 'delivery']"
+1433,_6a7CAbKc1Wn_GtfUsqWvQ,139,4.0,"['pickup', 'delivery']"
+1434,c1NOGPImv8yAY3D-7xbGXQ,32,4.0,['delivery']
+1435,IkSS9e2foVucR-Q_rSS1ZQ,4,4.0,[]
+1436,ovIgY5z_E2ZWSXQVtmjMIA,480,3.5,['delivery']
+1437,rX7rHgNrawfk7yrvMxbQZQ,151,3.5,[]
+1438,lbYVVZmBiCFaUGLV8bTiAQ,47,3.5,[]
+1439,-JH_HT-pvFW6nv1L8TNYMw,56,3.0,"['delivery', 'pickup']"
+1440,GS5T3XduNXmSBQAmnjJM-w,84,1.5,['delivery']
+1441,m6UHs2ALgLSJiAEoVqN98w,10,1.5,"['pickup', 'delivery']"
+1442,Qa5nO5xH7YH0cZ5JuV27zQ,28,1.5,['delivery']
+1443,MBiBsxSG_xzuhUAksU4SwQ,15,3.5,['delivery']
+1444,LDhMVyXmI6ipBD_cMrhOSg,196,3.5,"['pickup', 'delivery']"
+1445,21n08rBzPE1O3R9sJsWWMw,15,2.0,[]
+1446,zJS9R7KaglWPi9Kp9h2SYA,128,3.5,"['pickup', 'delivery']"
+1447,CZYBvy-KLCaPbm4J6t0Uog,110,3.5,['delivery']
+1448,0w5CpTvUdvuuBQCsSKz7Jw,106,3.5,['delivery']
+1449,z-W3t68beCEY-zOe84VgXw,275,4.5,['delivery']
+1450,ki18kzRvOCpw8tLiQClArg,197,3.0,"['delivery', 'pickup']"
+1451,F4XtVowM8JHRpfj62xQi2A,47,4.0,"['delivery', 'pickup']"
+1452,_kbyTruhftFqndQ4-RI6WA,12,4.0,"['delivery', 'pickup']"
+1453,ZHJnsFwuqESp1oj4MVYLkg,28,3.0,['delivery']
+1454,btpvEHY5SnJeRm7qX3r-TQ,5,3.0,[]
+1455,G4LWU4i9P_n2pc2o-ilxvA,21,3.0,['delivery']
+1456,P7zloOZFilYJTQybZarx-A,3,3.0,[]
+1457,PnSi_B1uDHZGpN-WmqJc9w,31,3.0,['delivery']
+1458,NqjCYVtUwfKyDanVZGfF8w,9,3.5,['delivery']
+1459,0HJQ2cXMk7HRw7mDiIzQ7Q,23,3.0,['delivery']
+1460,VlSQ1P7SwKqnfljuaTQLRQ,37,3.0,['delivery']
+1461,puUlH7-TD19piOMDfDP_cQ,29,2.0,['delivery']
+1462,-pzZdj4KqB9lzMGkMv_cIw,38,3.5,[]
+1463,WYbcnxQ36nzY1aXmhKjmYw,18,2.5,[]
+1464,DHihZhozWehgRnS5imW-Bg,6,4.5,[]
+1465,ytoJFi6kdzFnohwsbdZg0A,33,3.0,[]
+1466,Bkw-UZGGZR6UoGYYDp5U1Q,5,3.0,[]
+1467,C93ygiQMMxBrMBiYifppSg,14,3.5,[]
+1468,zlWaxO7pgCXQtHpWbdvong,7,3.5,[]
+1469,AFbpwEa01kai0Gdj_2MIYg,14,4.0,[]
+1470,J3KuSJ1yjWTIe0gKdNxM0w,15,4.0,['delivery']
+1471,lbi0E_plFqqvaxXL6MqL4w,8,4.0,[]
+1472,QYFr5zYMWb-rKtb5zA0bbg,34,4.0,['delivery']
+1473,9rHQyxJRIRY2_j-VKnGvFg,104,3.0,['delivery']
+1474,0I54N3jCE0eJWsGO2fiPQw,194,4.0,['delivery']
+1475,-od__5IM7vNLG26JMRSypw,50,2.5,[]
+1476,dNgXcjOwdXCW_OzpFkK2Cw,161,4.0,['delivery']
+1477,rX2YZTC_GOIPyuhGIQhtbQ,26,2.5,['delivery']
+1478,CKITxwKL8RrnFZ0wqDI-aA,235,4.0,['delivery']
+1479,bI9mxbdCVNoKktomRcVfXw,19,3.0,['delivery']
+1480,fau1nfA1CHlM85rruMLWGQ,7,1.5,"['pickup', 'delivery']"
+1481,Sor48O_wAqyLvjf6OnW81A,51,3.5,['delivery']
+1482,OI23yy8k7pEbUEaLb9j0QQ,159,3.5,[]
+1483,XjpoINdh9WGtREjaPWoiBA,34,3.5,[]
+1484,c5uMvyG7l_UwXFUxLyHigA,13,3.5,[]
+1485,DvbF4AR7NvXmF9Onu_iOYQ,29,3.0,[]
+1486,ChA7aHgZY9EdU1J_pOgpeQ,319,4.0,"['pickup', 'delivery']"
+1487,0Pc3Hbt34s-EPGzzHWFdsA,781,4.0,['delivery']
+1488,g0jsGJVU-JBYi5Odnp6NHg,11,3.0,[]
+1489,0zKjfPm16ZvvFxcfT7Yhog,93,3.5,['delivery']
+1490,KnK4EmvyqTWyhmjvyFDQ8A,6,4.0,"['pickup', 'delivery']"
+1491,YeXpQ3ImEYfr797b4owDqw,3,4.5,[]
+1492,82HsgbhACz9d7mhKjtBEGQ,2,5.0,[]
+1493,lDZ9vqR9qs3_yJSCXS673A,40,3.0,"['pickup', 'delivery']"
+1494,hLat1opiWAvnpqTVvlehPA,20,3.5,[]
+1495,U76zQHRjefs7nPHeZonyxw,19,3.0,"['pickup', 'delivery']"
+1496,Q9SAr0r4sj8h6Ej09vzFAA,55,4.0,[]
+1497,8ve1ZC5HFSpUxdY9KEW4mA,279,3.5,"['pickup', 'delivery']"
+1498,CokTVH1QjRHOqbW0QHfoVQ,379,4.0,"['pickup', 'delivery']"
+1499,4ZNM_Zty4GFl3v_p5PDWqw,230,4.0,"['pickup', 'delivery']"
+1500,6Le-MPaNzCwaKAsHNXVS0Q,2,1.0,[]
+1501,TkPAaXv9pHXXRm2vzkw3aQ,75,2.5,"['pickup', 'delivery']"
+1502,LAk73UAnoCOSyKqTDGXx1A,31,2.5,"['pickup', 'delivery']"
+1503,EkaG41299Gc2K1LrfmjemA,37,2.0,['delivery']
+1504,28FntIhPd2JQuF6WgagOiw,158,3.5,['delivery']
+1505,h5_tXwMi7nSDe5owrjGzvQ,24,4.0,['delivery']
+1506,eenvoTKUG9GKN3_xRRnPwQ,286,4.0,['pickup']
+1507,I4N2PUlu2bQLKgWGsriFmw,41,3.5,"['pickup', 'delivery']"
+1508,o0qi8OkjjfUiE9SkSWSw7Q,88,3.5,[]
+1509,waCmNsCgjd5AgBFbP3RwyA,2,3.5,['delivery']
+1510,BUNcYnpVgjyPy-dgVW7blg,345,4.0,['delivery']
+1511,GmXIBoYp1FaP9YETrPTC5w,8,2.0,['delivery']
+1512,if-wPaAdy_jGpjBA5Y0jUQ,51,3.0,[]
+1513,sXYm0Pbh2gbm-wZoMkgE9Q,177,3.5,"['pickup', 'delivery']"
+1514,7JOLchHEAVFj4dFr9ItzNA,1,5.0,[]
+1515,4tyOSG6i78loCgOadPNXXA,88,3.5,"['delivery', 'pickup']"
+1516,bGM8rvwj_X-LbBZIaCCYEQ,13,2.5,[]
+1517,cVo51FBr5yLg_C-x3Rtrng,28,3.5,[]
+1518,9lcAnkJW9rKxcbSVbM7VMg,26,3.5,[]
+1519,-7AnDC6FzXqjnRuiJFliQA,12,4.0,[]
+1520,fPGQ4BvAEUm4JF5hQBM_Og,5,4.0,[]
+1521,S29Z2VMQulRqZbz88YdoUg,115,4.5,['delivery']
+1522,L9feM7Mg7dLDskvqEIPgaw,36,3.5,['delivery']
+1523,ABqPcZgbHAkI4xOuA-S5ig,4,4.0,[]
+1524,ahxldm2doRCbFsr551bvrQ,203,3.0,"['pickup', 'delivery']"
+1525,jGJAQUX9KovMpahj8q7eQg,32,4.0,['delivery']
+1526,HhrbsP23A62gUvfyhqD4yg,3,2.5,['delivery']
+1527,uh_AH7oj3aj5nWI50ZFHZw,225,4.0,"['pickup', 'delivery']"
+1528,N8hfpPteFZXbb0Su-k6e_g,58,3.0,[]
+1529,5PTZFJ0etDjWN3BvbqNDVg,225,4.0,"['delivery', 'pickup']"
+1530,1NfLp3kl-1jTrmzTTmIPJw,1,4.0,[]
+1531,emtuy5bvaSoZgOuH_hRifw,82,3.5,"['delivery', 'pickup']"
+1532,MdJPgxU68PZ3Q7IMG-zwSQ,22,2.5,"['pickup', 'delivery']"
+1533,rthc7yXzcc3LEl6CfwpvqA,8,3.5,"['pickup', 'delivery']"
+1534,1aMOlOaG8Vd2Qr0cuvQ0Lw,23,3.0,[]
+1535,2BkH31L_CmY9CQOMz1yvsw,1,3.0,[]
+1536,P1dZhNMtN4RsfekUocDGfQ,20,3.0,['delivery']
+1537,OgYZfLcILnWaeGyIkgtjgQ,12,2.5,['delivery']
+1538,gpzxK-CP8aGiSDSyyagYSg,78,2.5,['delivery']
+1539,kLpRuA36aQ2bVgxI9fdxBg,40,1.5,['delivery']
+1540,0ulij4lHq2o_duHi2W5kMQ,220,3.5,['delivery']
+1541,_JY9UZ0tj9yhoB8qalOhqg,13,1.0,[]
+1542,Xa0qNKwwjkYrzx4ePPe9Eg,359,3.5,"['delivery', 'pickup']"
+1543,qmVJb3hL4fedgbKA3Oay2g,16,3.0,"['pickup', 'delivery']"
+1544,TRnx5u8g3pw4F4K6ifHchQ,32,3.0,"['pickup', 'delivery']"
+1545,cCLf0MTUMdmvUSxqm5asjQ,88,2.5,[]
+1546,iRxyO6VZsQR7W8bASEkMsg,34,3.0,[]
+1547,NlZcrwJ2AzKofQlnvg0EsA,35,3.5,[]
+1548,dtErLUgVzBGEiYgR4ISn-Q,7,2.0,[]
+1549,NJS5bQFwUZ69I1xNvKzksA,23,3.0,['delivery']
+1550,MJ5j74Sgg368V9U0C6itaQ,158,4.0,"['pickup', 'delivery']"
+1551,CFFcVdaVECeg7jDN5LndaQ,37,3.0,"['pickup', 'delivery']"
+1552,68DHPlD6JEbajp3gIu7QwQ,31,4.5,['delivery']
+1553,jvFIDrLys_Tx8Opv23zxmg,17,1.5,['delivery']
+1554,DpNHXP0Yroy8k_ZcorzUeQ,111,4.0,['delivery']
+1555,Cs5y3vsV56QRd39CPdDztw,7,4.5,['delivery']
+1556,vf-5Ed2sVeGcx8wupMcqXQ,9,2.0,"['delivery', 'pickup']"
+1557,ry3Wk877kQo3JdF6q4wbJg,98,2.5,[]
+1558,SeTiZwd1upsxY_XX2-yu2g,10,2.5,['delivery']
+1559,Mz-AqBXdrkQnLAxeeVyiKA,1,5.0,[]
+1560,HwfADAlE44MqFRnhwgNZ4A,56,2.0,"['delivery', 'pickup']"
+1561,-G2JVCSdo5j4LCAoFzFP3A,106,3.0,"['delivery', 'pickup']"
+1562,FYEj7QkX5nXc15SghsSjew,92,3.0,[]
+1563,ojD8XReCjt4aTqq2EAi6Aw,37,3.5,['delivery']
+1564,NVtyJdKev6l00YTnco2Meg,4,2.5,['delivery']
+1565,ATr5rLX458GecFbq9lb1EA,43,2.5,[]
+1566,h3sixA6vCmGvtdPsqAapbQ,336,4.0,"['delivery', 'pickup']"
+1567,57v8o9wNTZXqhpkaIOrkEg,100,2.0,"['delivery', 'pickup']"
+1568,9_IyNGq3yiLGYlGCht7G2w,4,3.0,[]
+1569,uR6uuLrl2Sz5Tn0s_9QUkQ,44,3.5,['delivery']
+1570,f8xxcdOcs3H3C3t7cDqmgA,32,3.0,['delivery']
+1571,Eu1yNCTVt8U_Bk-v2R4a5g,113,3.0,['delivery']
+1572,i4fWrN_LeR-_upcvR-zVVQ,34,3.5,['delivery']
+1573,zs6aw-Kh2dRxrfoH92yVyA,90,4.0,"['pickup', 'delivery']"
+1574,OkEAk2JZbQyhdy58PsLIzA,32,3.5,[]
+1575,jKD6VhVE0YHORbDE_qVP0Q,41,4.0,['delivery']
+1576,nvzx9w65K1Lhip5-uOaJyQ,349,4.0,['delivery']
+1577,0igTbZGXP_BrwBLFsvNPGw,122,2.5,[]
+1578,DrQAPIVQPjKAUlWvmQDdkA,43,2.5,"['pickup', 'delivery']"
+1579,sPVp46ZjD5KiR8hSzsHSJw,18,2.5,"['pickup', 'delivery']"
+1580,X_1bL8gv1wHL2KuCTCo9Eg,155,4.0,"['pickup', 'delivery']"
+1581,tiP1OAdt5yBSAnhvpuCVRw,25,2.0,"['pickup', 'delivery']"
+1582,6JT-bUAmq8bWvNNPZOWASQ,86,2.5,[]
+1583,WvpJDWaJ6O9C0_e681vQ9Q,59,3.5,['delivery']
+1584,JJSZe-Jrf29gsEPC7Xsxwg,3,2.5,[]
+1585,wmCD7-jVZevAj422oAKd0Q,583,3.0,['restaurant_reservation']
+1586,9mJiCfquaoJfr1ZbzXI-gA,89,4.0,[]
+1587,Yg36sXRv18XQAHahhsARGA,689,4.0,"['pickup', 'restaurant_reservation', 'delivery']"
+1588,B8klDIYHcy8qzLc-mLpK9Q,98,3.5,['delivery']
+1589,jyyQOHxnUlXD4XtYMaKGOg,8,3.0,"['pickup', 'delivery']"
+1590,oRSxo9srPpRg-pzImFigGA,138,3.0,['delivery']
+1591,2EoRgfmM9XH54l0Zxi0A-g,30,1.5,['delivery']
+1592,4fuGJZNrKVx-H8yFebJ6lw,13,1.5,"['pickup', 'delivery']"
+1593,T1Uc7i25OWNQG09SwvJ3iQ,15,4.0,[]
+1594,qKkjEy9a245si2GHzZU_0w,21,2.5,['delivery']
+1595,InUTr8dAIGAAEb7k4vUQrA,99,3.5,['delivery']
+1596,9UlktlmAdbjWf-Hc7P3Z6Q,39,3.0,[]
+1597,HFRQ72qu3cM-oGtvbiSktA,4,1.5,['delivery']
+1598,yAxz7Bws-bO7gzKbVUJQAw,40,3.0,['delivery']
+1599,FK6w2ohMykee0zdD7iE2kw,171,3.0,"['pickup', 'delivery']"
+1600,TvYrQVvod9ZcYNM5N0YTjw,69,4.0,"['delivery', 'pickup']"
+1601,kzDaoHxXvwp6QLSfEwMuZg,11,2.5,[]
+1602,1-xyZ_UfDUn3Oy72qR5Ltg,41,3.5,[]
+1603,qQ_xOXEZBQgRM6WG0RGhqA,73,3.5,"['pickup', 'delivery']"
+1604,XrWXY_ajpR7nJAGzr3g5JQ,25,2.0,"['pickup', 'delivery']"
+1605,G3zMWrloKv26HBGqC6PWNw,4,3.0,[]
+1606,NW3WC_PCdahNJz4w8iV1wQ,245,3.5,[]
+1607,68U53mM6jrMuyE4bZGDdHg,168,3.0,"['delivery', 'pickup']"
+1608,u9iFGHF7vWLoLzf3tFBZyw,1,1.0,[]
+1609,_7WUGkLhARsSb_hUAhZfpg,21,2.0,"['pickup', 'delivery']"
+1610,4fmeI0pt4eejoATl5WWkwA,17,4.0,"['delivery', 'pickup']"
+1611,_gnx3HBSQTFjJ5rLjIhyAA,169,4.0,"['pickup', 'delivery']"
+1612,2Jr_894XSpAM0nS4zq13Sw,191,4.0,['delivery']
+1613,RV6rCScQUhtDhTYUDY1lkg,8,4.5,[]
+1614,C8Z8yqnW5GWZVcXOa_cKlg,56,3.5,"['pickup', 'delivery']"
+1615,t01r7CXXYnk4fsHe26NrtQ,84,3.5,['delivery']
+1616,DLnBI9U6nmysmCrRwmt2HA,173,4.0,"['delivery', 'pickup']"
+1617,TbI1Hll58KeDl45XgoJGYA,87,3.5,['delivery']
+1618,Y2x-2BoBNs2BfGgymoNuxQ,32,3.5,['delivery']
+1619,P4IwOz72Hh94-7SNg8ImPQ,128,4.0,['delivery']
+1620,KTYXLqWl7WojEq-Jahdpzg,125,4.0,['delivery']
+1621,yqHWEsQGcsV0yh50BQyr1A,132,3.0,['delivery']
+1622,l5ondrwyEQtnKr9tAggIJw,111,2.5,[]
+1623,ewyqWAFcY53YSkP2ftWUAg,97,4.0,['delivery']
+1624,4dKbi1NzMuQ4fJKxdPiyeQ,8,3.0,"['delivery', 'pickup']"
+1625,CMOhbYWXPg2Z8a6JYf2N6A,30,2.5,"['pickup', 'delivery']"
+1626,Ogcqfrfvb6TxVOBHw20hBA,24,3.0,['pickup']
+1627,CZnp30TGTKJaRyj5KB69qQ,208,4.0,"['pickup', 'delivery']"
+1628,jPPADHOrF6JwgFdCzNfJiQ,21,3.5,['delivery']
+1629,cWGz1vFFGGOYbt6uKwtIYg,3,4.5,[]
+1630,3kb32SQ3UDbfDI15sUh1nw,112,3.5,['pickup']
+1631,nSNsjege-4Jamn0XpF4zQg,426,4.0,"['delivery', 'pickup']"
+1632,ta6hhzYZ22KQelqN8oKfjA,77,4.0,['delivery']
+1633,Gyi1BTqEcWUErjmA9oedKA,4,3.5,"['pickup', 'delivery']"
+1634,xCm6l_BMwen3lszaIHhjrQ,52,3.5,[]
+1635,usW6aIa9OuDitQ7eJAuocg,2,1.0,[]
+1636,erTYzaZXJbHdEsJsB1-1Tw,15,1.5,['delivery']
+1637,gapmtYpIz3eWb1j3V6KFrg,11,3.5,[]
+1638,SFAIOHSlyRtj2_0t17_3Dg,124,3.5,"['delivery', 'pickup']"
+1639,1fqUR4RZRzKzB-F-3kHrig,164,4.0,"['delivery', 'pickup']"
+1640,pR5_GU40TrrlHUV1anVETA,29,3.5,[]
+1641,mNHtLwc_wRCPl3PIpdS5aQ,132,4.0,['delivery']
+1642,ewUv7F0rgdXPVPyU962P8w,105,2.5,"['pickup', 'delivery']"
+1643,cuOuRfdEVGSFEGxNWGcdxA,1,1.0,[]
+1644,95LzYswYEG_40vWMUBNclw,11,3.0,['delivery']
+1645,78MAvyuiJQXD49jy63OCTQ,221,2.0,"['delivery', 'pickup']"
+1646,fUuQD06vq6Hgh4nYsok25g,2,3.5,[]
+1647,S8VjmX-2p09hIOJ7C179qQ,218,3.5,['delivery']
+1648,enzpH-iihjbHsfHOxEElFA,32,2.5,[]
+1649,4eT9FTSE3xqbg_4rm8NmAw,2,1.0,['delivery']
+1650,JIXlm9CFtRbHXaeVntAhXw,130,4.0,"['pickup', 'delivery']"
+1651,mgGS4dPb19tD69I52xv2rg,22,3.5,['delivery']
+1652,0LLBbJ2JGCN344DEx06UEA,5,4.0,['delivery']
+1653,ne-KSqffCpoyOnUH-zpL6g,55,3.5,[]
+1654,O9HQTSfFk5mB846kniCUmw,27,3.5,[]
+1655,qV9CRE9kxDzxHqV2iY1tjw,5,4.0,['delivery']
+1656,mIbu3fShgdPE_6dL-iSq-Q,11,3.5,[]
+1657,ftsXib2u8yo8ONLRgxLzOw,61,3.0,['delivery']
+1658,_EV61ym5-MfQau83iUzQng,269,4.0,['delivery']
+1659,tiPvJHuB-6uN4a9uHgEK1g,5,4.0,[]
+1660,U5_QJlbZqeFLBsP-sL02Wg,10,1.5,['delivery']
+1661,0lHWR5KIY6nc9wn92A862g,18,1.5,"['delivery', 'pickup']"
+1662,Aq4Ckq863s_R5HZipgBmRA,49,4.0,[]
+1663,mfL1ywhPPMYU5bOodQgVuw,9,2.0,['delivery']
+1664,Vml3vBqbQ8hH6E2IWWJ-6A,12,4.0,[]
+1665,WC35elMBm_-2xuc4Iz1Veg,7,3.0,[]
+1666,Ffu2L4yRvagP_q38Yj0kPw,55,4.0,"['pickup', 'delivery']"
+1667,PoO6BVwVQDSi-Ah_ZTOmOA,26,3.0,[]
+1668,9Su5godUhsximDr-4hgT6A,214,4.0,['delivery']
+1669,xV0-IKqpZKbgXhvW2y4wgg,161,4.0,"['pickup', 'delivery']"
+1670,7SQm_ouJ9_Zkib4q9MHgYQ,50,3.5,['delivery']
+1671,wVOPIDoZIE_BodI5YBzN1g,24,3.0,['delivery']
+1672,L_kccaHSRAayKgvzoFe68w,20,2.5,['delivery']
+1673,_E1qvAC2OY-RE43glovLIw,100,3.0,['delivery']
+1674,YJyUAaQ18Daxq8x_KuXjgw,251,4.5,['delivery']
+1675,Nj8EDh9gxtUSKCiH1zRWRw,93,2.5,['delivery']
+1676,Bzrr73nl5Wi6ucq8ysNWAA,111,2.5,['delivery']
+1677,aAiS8pc8KRkWnNfPiBbEUQ,45,1.5,['delivery']
+1678,OZBM5chO0aMeW_Oot2ScOQ,7,3.5,"['pickup', 'delivery']"
+1679,gXTIq2sEQajMPefoj5uvwg,3,2.5,[]
+1680,6mODwUGRKuw8mOvJZstXFw,6,3.5,"['pickup', 'delivery']"
+1681,G3Ct0wQZhfTlNEtPqNA7vA,32,1.5,"['delivery', 'pickup']"
+1682,8lH89_Mf9keNDfC_1GaySw,36,2.5,['delivery']
+1683,qMpF8yx6quUPNjj4GSS9yA,17,4.0,['delivery']
+1684,qb-UwCDgBq8o20Pahf4Iww,20,3.5,[]
+1685,1Y09UUeVbGsVH3QsIzSKRw,6,4.5,[]
+1686,5ngTtZd6sktqYzmpPPUOjQ,30,2.5,['delivery']
+1687,I4ZB6OeRo9pZ6fsW_FPXMA,12,2.5,[]
+1688,9dF6bMMRqJGHwx1-_6O9PQ,1,3.0,[]
+1689,98xHUFHyyOZe4-9L-uC1sA,170,3.5,"['pickup', 'delivery']"
+1690,XycP9kWYBRezke9HSGJ_JA,4,3.5,['delivery']
+1691,YSvCtvCzlx1XjzLVjC5NgQ,3,3.0,[]
+1692,Td58XvcbD3MFRISTNyjlnA,122,4.0,"['pickup', 'delivery']"
+1693,eVTJ8fGxWYPmctJRxKmPvA,29,4.5,['delivery']
+1694,NWFctWGfocFeYstOvSFPeg,42,4.0,[]
+1695,ALgLrpjvkt6QoUTaLEfbQQ,28,4.0,"['pickup', 'delivery']"
+1696,jQc8Lo-1h7lWQRVNeRaZ-Q,50,3.5,"['pickup', 'delivery']"
+1697,3X_HBKibwFbRa59izg_Qxw,134,3.5,['delivery']
+1698,3_rtnuDvcobJRkiCdGBm3Q,7,3.5,[]
+1699,vkLwsTeB2Ptbp5jnaRfYgg,38,3.0,[]
+1700,4e2KSHilLFSiKsYQVk7qIQ,217,3.5,['delivery']
+1701,GmlFo1yUQrjw3TXjol0f1A,35,4.5,['delivery']
+1702,5C7pKKfekOHrFaqLqb4Hxg,4,4.5,[]
+1703,KB_uFyoONt1I2u7h5SXjAA,5,1.5,"['pickup', 'delivery']"
+1704,cwjJMnz5dMxUtD0nI4luxg,45,2.5,['delivery']
+1705,Nuq00FN2TQELSU4yeo8NgA,129,3.5,"['pickup', 'delivery']"
+1706,HELXR019S9t6aRTLO4dxiw,117,4.0,['delivery']
+1707,9pdHkGND4njSjE2f9ZbLSA,314,4.0,['delivery']
+1708,OMTHPwgNZwCV4zuKZ7iuSg,75,3.5,['delivery']
+1709,rvOoHB8kUKPf6a-PRqV-Bw,13,4.0,[]
+1710,uDV08XwB-JiRRD4swTXSIA,58,3.0,[]
+1711,T8-KAEuNUUpplW14FMkWxA,63,3.5,['delivery']
+1712,TV6HK1XCbNK3Msrg-meK2g,189,3.5,[]
+1713,KG0jKsR6spROlKQ629cCpQ,57,3.5,['delivery']
+1714,BZCBljbq3nswVa0VqG3TVg,2,2.0,['delivery']
+1715,3EggghpdwNOazQ5KIWe4hA,15,3.5,['delivery']
+1716,IJCYdBEBpuiLKQYWCM5nag,18,3.5,[]
+1717,KF_Nia4hFNo59pUEtC5gVQ,260,3.5,[]
+1718,6VG-CSxthU94ykRRFSvbnw,78,2.5,[]
+1719,iBDAW9Wf705gMuX8zTw0GQ,23,3.5,"['pickup', 'delivery']"
+1720,me5-Mq9TFC4ZwdjBJIpfaA,49,4.0,['delivery']
+1721,hGeWTCuZZJHqeba5gMFoKg,84,3.5,"['pickup', 'delivery']"
+1722,4Tq5dB88dPiaNxLbfEdWHw,86,3.0,"['delivery', 'pickup']"
+1723,eBZjwdLRChHIfWRXb7LoIA,264,4.0,['delivery']
+1724,eRj9lFIjKxDuDUtZ58ipwg,13,3.0,['delivery']
+1725,L-kiJCVCXnZL22-j75Bx5w,38,4.0,"['delivery', 'pickup']"
+1726,pO7SGycpeHPwjP7cbdeR-A,83,3.5,[]
+1727,m172wiuIjprZEiWZ-XR1UQ,318,3.0,['delivery']
+1728,eqsPJO4amFtgh7KUVWtUZA,4,2.0,[]
+1729,qKtqgrpU5d1ifWNq8uUnoQ,3,4.5,[]
+1730,vVsv8Ow6w_1EQAGRxbYh1g,19,4.0,['delivery']
+1731,8qpir-3s2aQqsHjwuQbu9A,21,2.0,[]
+1732,_odIkOLKLkPzLq3hiXfLWg,270,3.5,['delivery']
+1733,XuBnKUrwktuQJs3CXg3z8Q,34,3.5,"['pickup', 'delivery']"
+1734,Ijypk9i8lWEhZ3xCwq--lg,226,3.0,[]
+1735,-niBDgS3FID5eyDSWnQyFA,42,3.5,['delivery']
+1736,YYApoP_SghjxgXAT2kz8vA,69,3.5,[]
+1737,sxJcOjJkUGpjwDekZIFbhw,39,3.5,[]
+1738,VqMpeCrd5jEPbx84cvr1tw,34,1.5,['delivery']
+1739,U-nBlyLdhkH47Pyy0C915Q,130,4.0,"['pickup', 'delivery']"
+1740,OiP6DGrFU289nHy5KqQA9w,37,2.0,['delivery']
+1741,lZN6gefeCiZjYeoH7OQ69g,320,4.0,['delivery']
+1742,DL-gvi-cdlNuF7nXzh3lag,207,3.5,[]
+1743,85IEwUfGOgDmcNRdyJyGcw,17,3.0,['delivery']
+1744,sqGcaNc7qd7P8CEebZuG6A,171,3.5,['delivery']
+1745,-07HGco2Tof_rlEHWOtpPA,75,4.0,['delivery']
+1746,O3MnNqDnVgDd1hWGMHEcuw,2,1.0,[]
+1747,c1jz6-T2GbTZtbOlA1EJ4g,271,4.0,['delivery']
+1748,EbsLCsXa_QtXWN90elpXAQ,6,2.0,"['pickup', 'delivery']"
+1749,9n0Ayxw0ygCdl-hggMZcRw,13,2.5,[]
+1750,d0h9KU3j1aVU4-KIYfK4zA,38,3.0,['delivery']
+1751,Z1Yl6BJDnbhsm26Wf4X8fg,3,3.0,[]
+1752,QEL5hq-ZSxq-WUH1xYvJzA,84,3.5,['delivery']
+1753,tYx-vtdBPNTeS53q-tc0kg,88,4.5,['delivery']
+1754,XJ3lAgvLNc2YFfDw8_jrOg,62,2.5,"['pickup', 'delivery']"
+1755,Mv3B5QYkiizu8bxLDYlWXA,49,3.5,[]
+1756,_pJ4hkjBXWmkbuXApO449Q,21,2.5,[]
+1757,8B2wBX9qUsG_MlFE5D-cRA,1,1.0,[]
+1758,BmD3FaSpQSTm7uFK0lCnyg,19,3.5,[]
+1759,F9mIsMD9VXu33VV0J82Xlg,27,2.5,"['delivery', 'pickup']"
+1760,OGO6MYtXieeaqebyWBMZ6w,299,3.0,"['pickup', 'delivery']"
+1761,YETlY53gOERNSVBsgng9uQ,175,3.5,"['pickup', 'delivery']"
+1762,iSpngVp_dqXRxJoaLqoUcQ,263,4.5,['delivery']
+1763,tdpi5qLNR2wJHp9blfz8nA,196,3.0,"['pickup', 'delivery']"
+1764,cxdAV0JelOTwppAog9DvSA,28,3.0,['delivery']
+1765,wG_1TlSx7xlDG6ynrQsiRw,2,3.0,[]
+1766,7F335YZoyrjD11SZWb9Sug,49,2.5,['delivery']
+1767,Snvc2uxmZx-2DTVqkX7Z8w,45,4.0,['delivery']
+1768,qbYnng2URZlVcyevO2YOwQ,16,2.5,['delivery']
+1769,EcMPvMK-SaxG6IrMBhR78A,84,3.5,"['delivery', 'pickup']"
+1770,KFMQlBQOzDbrW_fzbfA7ZQ,222,4.0,['delivery']
+1771,LeyGXopT2ueWbTWSIKAC3A,53,2.5,"['delivery', 'pickup']"
+1772,MIL0FqG44Pm0nCqjsq_apw,14,1.5,['delivery']
+1773,nrSAJUg55CWJsRDXzTpIAA,30,4.0,['delivery']
+1774,xuMZd84Xae9FfAyi52bPTw,51,4.5,[]
+1775,Bkr0Ewa5ouK3tj8UM_XD7A,85,2.5,[]
+1776,-xdmQ8Jp5RH_2epaNMCOww,1,3.0,[]
+1777,MKziGUovUHr70jZ255Le2Q,1,1.0,[]
+1778,rQjX2a9d8BMUqZXzU3s51Q,12,3.0,['delivery']
+1779,RgBOqxzJ75PWzXsUSjw2Gw,30,3.5,[]
+1780,ufva_xBUQtNuCDQX7mL0VA,66,3.0,"['delivery', 'pickup']"
+1781,Ll46SINGMQPij61k274FZQ,29,3.5,['delivery']
+1782,WzvAc7YBYmoIVCiIRlEFZA,79,3.0,"['pickup', 'delivery']"
+1783,mL2qyaO1tdn_8OpG1gQVGA,32,4.5,[]
+1784,axygZPAV6hW4ezUgmSyA9w,72,4.0,"['pickup', 'delivery']"
+1785,PU_O94-oyOb8S8GXFxKm8w,86,3.5,"['delivery', 'pickup']"
+1786,bX4cv8hX39irLXfxXmGLjw,4,3.0,['delivery']
+1787,TNuj3KZ0z9HHscYj74yXUg,49,2.5,"['pickup', 'delivery']"
+1788,P1dwvVhmEmTqX5Fa0RUIxA,12,3.5,['pickup']
+1789,GuGVS3MtTheGgqJRqzfkdg,74,3.5,"['pickup', 'delivery']"
+1790,CEq9O18EX3irDWOFVblHiQ,27,3.0,[]
+1791,uHfX7ufwyTsIcnE96N_RzA,7,3.5,"['pickup', 'delivery']"
+1792,z5YLAudkOzTEP8LGOj-czg,136,3.0,"['pickup', 'delivery']"
+1793,UfIS5z1uvtVfqeah4LIo1g,113,3.5,"['delivery', 'pickup']"
+1794,LPA9u8c1IETmOVUuxIiDXA,84,3.5,"['pickup', 'delivery']"
+1795,aJu8BCakAUDXgOV6BI5JCg,99,3.5,"['delivery', 'pickup']"
+1796,Tx5bLJ-GqvMwjPnjfJmSPg,51,2.5,[]
+1797,Ll-YN3_tpe3N22-UybYxKg,4,3.0,[]
+1798,EO1GpNnICiDrig7ieT2IbA,29,2.0,['delivery']
+1799,l0elKp7qzoPPF-8I3lZZFA,300,4.0,"['pickup', 'delivery']"
+1800,E94bJNHEz0WD4G-zay3DsQ,18,4.0,['delivery']
+1801,KAwr56rYxGb9CHSmhpiL-g,24,1.5,['delivery']
+1802,JVCYbSfAhAHveRZf_Uea_Q,130,4.0,[]
+1803,UlstX5vQWT_n9QSAzoFA7A,104,4.0,"['pickup', 'delivery']"
+1804,XsCE25s-CVIJ-okyRHXafg,167,3.5,['delivery']
+1805,yuDErAcQDuHQvx9p5cofLA,43,3.5,['delivery']
+1806,sR7wjH_A9-jKF9f-O4W1Uw,6,4.0,[]
+1807,3rRt5v7Wf2nW12FHXiRZfg,13,3.0,[]
+1808,Ptqrhjbi5xEtrb0ERZ5a6w,27,4.0,"['pickup', 'delivery']"
+1809,BC1ACScfHTKKbMVqct2HZg,14,3.0,['delivery']
+1810,fAMVr3fgQOislXryCXvP8A,36,3.0,"['delivery', 'pickup']"
+1811,kTqhpcUfDiA2amiZU8V8bg,43,2.5,"['delivery', 'pickup']"
+1812,Rk6QWNHf9QaP6aSIpRa-1Q,172,3.0,[]
+1813,WY0c37-3fHrmzdlqbLAezw,51,3.5,['delivery']
+1814,GZrlocXvOkFu1k_kzQJSSw,3,1.5,[]
+1815,kzw9YN7eePkRa7Fws97okg,239,3.0,"['pickup', 'delivery']"
+1816,cb7x1prKHsAG5EtDvcS7nw,3,2.5,"['pickup', 'delivery']"
+1817,JM_naG-wCTrntAQoK-O5kw,14,4.0,['delivery']
+1818,1f_eAlRrbdqZbZ6LLlgeDA,106,3.0,['delivery']
+1819,wAVblaY01WvYBWIaOyz7YA,109,4.0,['delivery']
+1820,eUWFWsjq4S-rkGFaJGvdrg,26,3.0,['delivery']
+1821,Pm7IKP7hPhc8Qokk3JzERQ,4,5.0,[]
+1822,6ONmqWHbZmWhYtcBPnoBdw,32,4.0,['delivery']
+1823,ZXc2LpgC06o25t2tmx5dow,37,3.5,"['pickup', 'delivery']"
+1824,cZTbebmFXbTNYlCfzOSK4g,12,3.5,"['pickup', 'delivery']"
+1825,gAVZ1krEC_382dIQX9jJqg,70,3.0,"['pickup', 'delivery']"
+1826,aQ0Ak6-1AglZs4agmPriGg,33,1.5,['delivery']
+1827,YSCW2GRt6PvQp0PNTNqf7A,233,4.0,['delivery']
+1828,ScnUb9liq-z8RlQpCmL6kg,75,3.0,['delivery']
+1829,I1xFrVfMGTe5Rc9WK_dy3A,60,2.5,"['delivery', 'pickup']"
+1830,3_67iHsRsaD5rgdKfEH1XA,83,3.0,[]
+1831,NhnavIJRWmStS_5EYAxF2w,4,3.0,[]
+1832,ZUAKlOXM2LBNbt4FbbN9vw,50,3.5,['delivery']
+1833,c2Bfa3y0VKumU1KfvKdYfw,568,4.0,"['pickup', 'delivery']"
+1834,Xg-8eP-nLdfDk_IGuV-35g,593,4.0,['pickup']
+1835,KqY2sUzWXohlTPabiRxfOg,32,4.0,[]
+1836,aXTG17GxBS1nxQezOXmnVw,11,4.0,"['delivery', 'pickup']"
+1837,RQjRxZoZq2sbOR5zC2DgGg,58,3.5,"['delivery', 'pickup']"
+1838,AdiV5a839j_RdCBptmZOZA,32,3.5,"['pickup', 'delivery']"
+1839,JX5Kyd5iJ0Icxq_doK4ivA,99,4.0,['delivery']
+1840,hrb1kHdA-3V4rn5TBgT3GQ,23,3.0,['delivery']
+1841,y-Sd7B1RxyOMDov-8_9OUQ,8,4.0,[]
+1842,Ll-YN3_tpe3N22-UybYxKg,4,3.0,[]
+1843,AN-XE8Whw_ZyCxmqXsuCpw,187,4.0,['delivery']
+1844,wme0bNqidmHlT2sawVLZoA,122,3.0,"['pickup', 'delivery']"
+1845,aBuGR4f8-rAWI5IVeCfO9Q,3,4.0,[]
+1846,y4BbR8R1fx31I-DHWfzolw,71,3.5,['delivery']
+1847,yA85LF6Rm52qtYaRHk6Zow,88,3.5,"['delivery', 'pickup']"
+1848,FRK1cbfhXeHSvXxDO8uQfw,196,3.5,['delivery']
+1849,pocvXbwcdfPFF3RB5949uQ,126,3.5,"['delivery', 'pickup']"
+1850,cALEi15f7yEoM4yeNgx2Sg,78,3.5,['delivery']
+1851,pMnRjNeHOh7RakUtQoV8Tg,6,5.0,['delivery']
+1852,X4CdT-ox2eIPHWinAMbX1w,440,4.0,['delivery']
+1853,f7czfI7do10eHFFSvbMduQ,24,1.0,[]
+1854,Uw7BmqbtAJiKEbqOODw4uA,4,4.0,[]
+1855,_I0nIGHFyhRHp1GC2Nc-iA,240,3.0,"['delivery', 'pickup']"
+1856,SE4B0c_YamTraOGJZCRkjQ,39,4.0,"['pickup', 'delivery']"
+1857,2nZQz7GJLyxAS3L0znk7EQ,181,3.5,"['delivery', 'pickup']"
+1858,kmRM_sVqFS7CVSqD0ZjnOw,10,4.0,['delivery']
+1859,bH6oFkNMb8RjVidOauXE5w,32,4.0,"['delivery', 'pickup']"
+1860,neH64nX9-Sq_OWW1IBEppQ,59,4.0,['delivery']
+1861,yTY5NYpZ0vLIO6t4OZHNug,21,3.5,['delivery']
+1862,Kvk2WTvyespBpgVjQdtEKA,42,2.0,['delivery']
+1863,DHK-vCU8ihGVKJsRioslfA,64,4.0,[]
+1864,trHh5E7rSv1XfJldPv0n7Q,27,5.0,"['pickup', 'delivery']"
+1865,FKw9j6xU1NlUJpz4kA2h5A,44,3.5,"['pickup', 'delivery']"
+1866,gBO4HJJOJofbAFHb_4OS1A,58,3.5,[]
+1867,WM18A2298ov7MNQaKdavEg,493,4.5,['delivery']
+1868,e9tUky5iQB9SyIYev3DL6w,32,3.5,[]
+1869,VttKVZB6FLGsTBcvBzCOMA,81,3.5,"['pickup', 'delivery']"
+1870,dB4yLCfr4pT9tIaI3V4p7g,149,3.5,"['pickup', 'delivery']"
+1871,NoRJUBPGFK4rksNIkVXu6Q,39,2.5,[]
+1872,2woFJt7Bo_0lJReWxXGp-A,283,4.0,['delivery']
+1873,Y9Z_vWgi0A8vb3QRYzzplw,34,3.0,"['delivery', 'pickup']"
+1874,ehdA7-RTbj9DdFne0XVEhQ,88,4.0,[]
+1875,vZm7Z2kAHccXI4sCosdPiA,116,3.0,"['pickup', 'delivery']"
+1876,DF_xEF5MlCs4jg1qyRl3OQ,22,3.5,[]
+1877,eVCcmuiVPThN_d7eb6CxOw,21,2.0,['delivery']
+1878,9MG2xFTWjDT_hqBtFE3mdw,220,3.5,[]
+1879,p6X38vGco5osw72tmR1t-g,31,3.0,['delivery']
+1880,y_BFHLlSvB044OUrJOPvYg,48,4.0,[]
+1881,1WIjiDEtxPmWybhN5RUrTQ,2,4.5,[]
+1882,7hg7fnpQT0MS4an0Vqzysw,19,3.0,['pickup']
+1883,FrrhXvlvQLwJL14_IlkWPA,52,3.5,"['pickup', 'delivery']"
+1884,txIUTlA8SyuF0kWaZhNnaw,27,3.5,[]
+1885,biRdpM31eAEKuGqqhEcs_Q,58,3.5,['delivery']
+1886,w6l57qr9Gs_IkMKiv8j3Mg,1,3.0,[]
+1887,tIRkg-ltnwl7aa0G-nDwpg,22,2.5,[]
+1888,5uqPQHZdsIJXwqftNlxXGg,314,4.5,['delivery']
+1889,UO_Jh4IgbynfsOv4zBmMug,30,4.0,[]
+1890,nzTtqJzbGvsCpe13rqEpiQ,66,3.5,"['pickup', 'delivery']"
+1891,U2jUSdt7oykL4EmOtZzewg,1,4.0,[]
+1892,8PA6Mx1XcnBwOQR44peagQ,25,3.0,[]
+1893,F989F4i871pPCb49Om0lpA,116,4.0,"['delivery', 'pickup']"
+1894,PAo6KXnA1O-KXH1rOCFPjg,96,3.0,"['pickup', 'delivery']"
+1895,xq8xsLLnOK4lzGhIS4HuWg,319,3.5,['delivery']
+1896,bpRQSLfc6P1XrhpgS9D-Mw,20,2.5,['delivery']
+1897,BcabSycycMmK82aJalMoMQ,273,3.5,"['pickup', 'delivery']"
+1898,wMVpEFGw-JdTsrFeWCc9bA,1,5.0,[]
+1899,gKvJIYqZRo7F4LKBqPr-GA,175,4.0,['delivery']
+1900,oXTILJBmoKP8Ksjziii_Sw,22,3.5,[]
+1901,gyiwgkWW897GL_Zjm7QADg,4,1.5,['delivery']
+1902,H9kNIO7DRTb0IRBlDMtwkg,109,4.0,[]
+1903,RQA8sfDBmEBsGKuTl_OfNA,178,4.0,['delivery']
+1904,9eTUgAOZCMzUqiT7qEnNug,4,4.5,[]
+1905,JfYOJWrXhJz0IRXqjRCItw,42,3.5,['delivery']
+1906,vG84ugqQ2zrww52EVGZkbA,272,4.5,"['delivery', 'pickup']"
+1907,vc1yqmNZxhaM6e53-3BiFw,48,3.5,"['delivery', 'pickup']"
+1908,yK0GO81upr82oMHa5spiIw,63,3.5,"['pickup', 'delivery']"
+1909,zjIIz2UN5eAxQ8QKsT8Epg,100,4.0,[]
+1910,iQ9XEmW2jpQAi8gVyb5PlQ,90,3.5,[]
+1911,2nZQz7GJLyxAS3L0znk7EQ,181,3.5,"['pickup', 'delivery']"
+1912,lcsfNmrkakjxvH5NEK41cQ,87,4.0,[]
+1913,WZwqwr4QCG7wZCDkxudYUA,233,4.0,"['pickup', 'delivery']"
+1914,D6Ygx8oaffqubGQuhYkalA,29,2.0,"['delivery', 'pickup']"
+1915,kOryyQG9UyVpZBuzftKFxg,9,3.5,"['pickup', 'delivery']"
+1916,Bdj2vhUP7m7N-6uMDg2yDQ,67,3.5,[]
+1917,VF6bXP8r1Nlae3q8-BzSfA,100,3.5,[]
+1918,EZnxLGytd0uWsBV_-cYYlQ,3,2.0,[]
+1919,tfcJyh3D0SYWVYwJCzjHnA,37,2.0,"['pickup', 'delivery']"
+1920,UBUQAavRPBAuRCERF-RXHA,8,3.0,['delivery']
+1921,_5wKkKvs9SnVpI-wy0sl-A,174,3.0,"['pickup', 'delivery']"
+1922,PqPa5KcwNPqLl6kofX3AyA,49,3.0,['delivery']
+1923,3qqG7LaFLQ1K5X1Sqp5WWg,9,3.0,[]
+1924,Dt0Z8m1Dw5OgLbcrWntGwA,8,2.5,[]
+1925,wRhmlV3b7vfgVUYcxwzQpA,118,2.0,"['restaurant_reservation', 'pickup', 'delivery']"
+1926,afVT7aa6vHBq9MzLTFeoEg,37,3.5,['delivery']
+1927,EmJ7LlRhM5DF1YTLgYMSVg,1,5.0,['delivery']
+1928,zCw7EtpaezyqU58_cNBM_g,178,4.0,"['delivery', 'pickup']"
+1929,Mr7AvlMaYONeI3tVQROARA,213,4.0,"['delivery', 'pickup']"
+1930,nOhgSFAlCVeDcPYTZnfOug,7,3.5,[]
+1931,TOHNiKWCR8102kFEbYy-Vw,451,4.0,"['delivery', 'pickup']"
+1932,7Bjaf34Hf5evS6-4rX4zBQ,367,4.0,[]
+1933,CiilZMnnzx4vmxvhN3PRMQ,45,3.5,"['pickup', 'delivery']"
+1934,nDUA2K3YRETIbmM4z-aufA,6,3.0,[]
+1935,rjc2oIM-Z2xKEw7RI2bm0Q,39,3.5,"['pickup', 'delivery']"
+1936,YCDMH1sGzVgO6udVpKvtyg,269,4.5,['delivery']
+1937,6okMXzzQrYM4DUjd4VMXHw,141,3.5,"['pickup', 'delivery']"
+1938,HXw4tuBurW1Ul6XOORrT3w,81,3.5,"['pickup', 'delivery']"
+1939,bWvrF2xbEYw5ifv9LHPu-g,25,3.0,[]
+1940,Jc5_ps4Tdp-MZbi6XMFUIg,104,3.5,"['delivery', 'pickup']"
+1941,i46mUpPcERltfFG7RlxXNQ,120,3.5,"['pickup', 'delivery']"
+1942,Uc-xfhvBx-X4v58VeIF7bg,38,4.0,[]
+1943,Sd1KvEA89o-JD_BVo73N_w,31,3.5,[]
+1944,xl5L93ECodk2J0OqsLPFIA,277,3.5,"['pickup', 'delivery']"
+1945,INVsZnSC-loRiCFLaRTfaQ,98,3.0,"['delivery', 'pickup']"
+1946,rm4FtTVhr7oI2gbkhwkYgg,71,3.5,"['pickup', 'delivery']"
+1947,YcD3YRhr98C5TNLXoeihFw,52,3.0,"['pickup', 'delivery']"
+1948,b4Hl_OZLOJiY2uf8I5FAOw,1,3.0,[]
+1949,qyg_iiz7Brq9vioVpmRjcQ,125,4.5,"['pickup', 'delivery']"
+1950,cgdnXOLxF9Za9oD1-Tydkg,63,3.0,['pickup']
+1951,m8OoPOdH96FZY68BSXpnKw,400,3.5,"['pickup', 'delivery']"
+1952,6Ompv6pJtbqSPpXKqkNshA,14,2.5,"['pickup', 'delivery']"
+1953,W-x81VUMjluTvL41WYCZAA,107,4.0,['delivery']
+1954,KiJSj5lA25VebC58YFjZgQ,6,3.5,[]
+1955,okDicXPgGmu9fr9sp5UHNg,20,3.0,"['pickup', 'delivery']"
+1956,vdeaxpLdl091l3Y1XMu-RA,70,3.5,['delivery']
+1957,vG84ugqQ2zrww52EVGZkbA,272,4.5,"['delivery', 'pickup']"
+1958,vc1yqmNZxhaM6e53-3BiFw,48,3.5,"['delivery', 'pickup']"
+1959,SM1RPE30TI2GLK4lxx5kCw,596,3.5,"['pickup', 'delivery']"
+1960,6T6bX1353qtvh674NmUUAg,135,3.5,"['pickup', 'delivery']"
+1961,Oc4L_AxLA8DBNnE497jKuw,69,2.5,"['delivery', 'pickup']"
+1962,T1O9_e7iDKqay_rhf-OX8w,110,4.0,"['pickup', 'delivery']"
+1963,AEd1RRP2g2cS-cvLRA_18g,3,1.5,[]
+1964,VpXpLIqxZfrxPc07aIvdBA,65,2.5,"['delivery', 'pickup']"
+1965,CDYHJmZnedBqz-HjB_8Ncw,376,3.5,"['delivery', 'pickup']"
+1966,dKZDrDTzR1zsmtzuulmI0Q,42,3.0,['pickup']
+1967,_gEsPi-t0sCVGnSLiAyTeA,19,2.5,"['pickup', 'delivery']"
+1968,xMmpV3UO77CTpRr3fqzGuA,144,4.0,['delivery']
+1969,Q8AgeAPx1b_pqzuEUQ2GDg,26,3.0,['delivery']
+1970,VxyNhlQWuCtVzaPyTMY_dg,62,3.0,"['delivery', 'pickup']"
+1971,LS7_aLau7CLxYsoiygjAnA,269,4.0,[]
+1972,z5YLAudkOzTEP8LGOj-czg,136,3.0,"['pickup', 'delivery']"
+1973,0BFR2bIvgW-GzS2zyUS6yg,106,4.0,['pickup']
+1974,gOueCvj-q1pMizLMoqO-xQ,327,4.0,"['delivery', 'pickup']"
+1975,icbyY3iFgxfpDub2uGmiLg,84,3.5,[]
+1976,Ae9AatpwUuHDM7qZeqAmHg,6,1.5,[]
+1977,z-VciozYZKtYGiDFxaGKxw,15,3.5,[]
+1978,w9pLTIanVXn3WZ5r6p0gRA,218,3.5,['delivery']
+1979,C0vI3qFg12DlBywt6_Js_g,160,3.5,"['pickup', 'delivery']"
+1980,THq6jn-pdWnfeOtF4uXSIA,40,3.5,[]
+1981,c4GJBBg6FwARLy_jhnb2sQ,52,3.5,"['delivery', 'pickup']"
+1982,g7weikY34RuCYo_lcfScTA,3,4.0,['delivery']
+1983,02u__VPNrdWsNeTNA_xyCw,17,3.5,"['delivery', 'pickup']"
+1984,M8SWRm__f72ilhnMUJnexA,63,3.0,"['pickup', 'delivery']"
+1985,mJMhVUHCqwclTQuGUckJXA,45,4.0,['pickup']
+1986,222ZG8p4dvGDgCJhfb5hMw,9,2.0,['delivery']
+1987,ImXkfyAPKmEkWNzbQnMA2Q,14,3.0,[]
+1988,AxFlf3YJFeXiX3TfAWFHgQ,2,3.5,[]
+1989,sk3bhextaOlki_ffNTyzwA,33,2.5,[]
+1990,xDWLhJK7xl9oKjfTGREq9w,8,2.5,[]
+1991,CF_uTbpLs6kBEOzvQquwCQ,24,3.5,"['pickup', 'delivery']"
+1992,kKviFOcTQ_Zj_03oJf_YKw,7,3.0,[]
+1993,Cj6v3f8cQjpOBpzZ451zmg,44,4.0,[]
+1994,rB3jGlEpd548OivmCMeL4w,28,3.0,[]
+1995,jckFrtHOim1OkWWb4U_8Ag,1,3.0,[]
+1996,Xy_CpPMnMVwPVxsUJDzKTQ,4,3.0,[]
+1997,SGdTuHB8fPW1LXPFcEtoaw,8,1.0,[]
+1998,7v0QSfPk-jIN9VNPS9iTOg,53,4.0,"['pickup', 'delivery']"
+1999,DHnYIn8DC5hZnab6_9gElQ,55,4.0,"['pickup', 'delivery']"
+2000,dpVnDkbdZZusn6ZwmNQl7w,74,4.0,[]
+2001,pnDKbJWLx6JjAB55SOomuA,12,4.0,[]
+2002,-8X3PpqXkNjpebBbRNEhCw,26,3.5,"['pickup', 'delivery']"
+2003,m70fwMJ-mV3Tr6sjxitcwg,3,5.0,['delivery']
+2004,M7GA92FGfbJay5qgaP3BRg,62,3.0,"['pickup', 'delivery']"
+2005,JVMWnuHmeXAaGIUQjl_xIA,137,4.0,['delivery']
+2006,MxqJxMoYS_yukT7AFHArLg,6,3.5,[]
+2007,tcr7PdOStlKYhslE5WxYbw,102,4.5,"['pickup', 'delivery']"
+2008,Vf2r_yHrCo0qlNfwWY7izA,2,3.0,[]
+2009,ZZG-NJ1BfnZYtkkocUBYOQ,101,4.5,['delivery']
+2010,ZGnmA1XAiuzdtur2-yatsg,206,4.0,"['delivery', 'pickup']"
+2011,5oBI3VC01GRcja6i-Xf4lg,10,4.0,[]
+2012,f3XBE-3DN5ROjcROUHWxQQ,69,3.5,"['pickup', 'delivery']"
+2013,icUf5bpRmZ8uVi0fZS9gAQ,39,4.0,['delivery']
+2014,AqLL0fs88AeDkFEg2mNa-A,12,4.0,[]
+2015,SB2XHhEc_gXhS0HMc0RA0A,15,4.5,['delivery']
+2016,jSnCcjiB62Au_uZn9--IfA,17,3.5,[]
+2017,KEdYXUGf9cE459z72mf5YA,35,3.5,[]
+2018,1TKqAVsUqVe6b5r9RK6SxQ,74,2.5,"['pickup', 'delivery']"
+2019,um6HiQ57uONVKSrYJGR7yg,322,3.5,['delivery']
+2020,qfLCIjcwzIQo0pbhuKNVaQ,87,2.0,"['pickup', 'delivery']"
+2021,dkSJU5Yuz3eraBCamPw1dQ,5,3.5,[]
+2022,EZ98AvDrL9Ki0ugW2m7xHQ,24,4.0,[]
+2023,9O78WumM3EHvYJIozggx6A,1,4.0,[]
+2024,be-bhT1XiQPOjjSvarig2w,24,2.0,['delivery']
+2025,p3Ygps04u8z5SsmBr5llYg,107,3.0,['delivery']
+2026,aw7nO_lwXc3fTtZ76VPukg,220,4.0,"['delivery', 'pickup']"
+2027,E_5KYJZT4rsnZnfv_J0i1w,27,4.0,[]
+2028,qeabde9RHjUJD0ZUFBV2YA,411,4.0,"['pickup', 'delivery']"
+2029,TAQqiawKldyEBpMvxowutA,305,4.5,"['delivery', 'pickup']"
+2030,GgWc0dc6NA8m85UhqENolw,7,3.5,['delivery']
+2031,CEfeqM4QVPiCuFhRtQcUSQ,280,4.5,['delivery']
+2032,7TU89uO6xZnFgfr8smCamg,66,3.0,"['pickup', 'delivery']"
+2033,Rq7mEdo64e0tcZaMDP_NUQ,87,2.0,"['restaurant_reservation', 'delivery', 'pickup']"
+2034,mMUTod7Tpnb0_glDueF9wQ,5,4.5,['delivery']
+2035,BxR-aUzV3F6PIRKCTh6Ubg,11,2.0,['delivery']
+2036,u9_z4Iddl8LWM7fPGEONMw,25,3.5,[]
+2037,akNLrbNb3s9Gy21sBjHXbQ,379,4.5,"['pickup', 'delivery']"
+2038,ZBxSDs52UWz8FVaoAcEOlA,20,2.5,['pickup']
+2039,ARiZApRx-esLSH8pKaa8dw,8,3.0,[]
+2040,cf7p5QM1c688LbsWr9I75A,48,3.5,['delivery']
+2041,uAmPeqYbtHOgr45t1zXQPg,35,2.5,['delivery']
+2042,FP47GO_QjNqnfldYoVbWgA,16,4.5,[]
+2043,FYJhWi3CwGllN3qc_LqJWw,14,3.5,"['pickup', 'delivery']"
+2044,uAu3OVcl21SkQCcH5hh1Ww,97,4.0,[]
+2045,_BxWi7-9ZUk80Gl5GEMH-A,44,3.0,['delivery']
+2046,EZ7mDlnv4GHNoxWt09-9bA,15,4.5,['delivery']
+2047,J0VEhntaymuakd7D-zFcTQ,36,2.5,"['pickup', 'delivery']"
+2048,CxjmgNo4yA6B2RmFvbQnDw,172,3.5,"['delivery', 'pickup']"
+2049,A07w6cQC554pHMG-mbSz1Q,31,3.0,"['pickup', 'delivery']"
+2050,40W1_4-Bu-RlZWRRUbQt6w,237,4.0,['delivery']
+2051,R3p7Igi6brEUWMFizRgZ1A,69,3.5,[]
+2052,HuISTWHmwdaOtWhPZFGVAg,58,3.5,"['pickup', 'delivery']"
+2053,aT2t4GgMQ32qQuFX-AgmAA,72,3.5,"['delivery', 'pickup']"
+2054,jWM5tZ_g3PuyO4Viw7xJ4A,113,4.0,['delivery']
+2055,Na6UAi1zqPwXAM8jC4utCA,27,3.0,"['pickup', 'delivery']"
+2056,o0XsGAvqk6iuZlroMlnzcQ,23,3.0,"['delivery', 'pickup']"
+2057,9-mt-VIUMz9qYc2-hONlhQ,247,4.0,['delivery']
+2058,5eanf5RsFacxSaZ_6PpUkQ,32,1.5,['delivery']
+2059,6wkDFpnvOse3u01nAxyW9g,58,3.0,"['delivery', 'pickup']"
+2060,I-aQSqkoiIvJxW_27YYDVA,90,3.5,"['delivery', 'pickup']"
+2061,1u3F6blCoRyJRXAgALDCmQ,35,3.0,"['delivery', 'pickup']"
+2062,WbwA4e2-hWf7hcQL4EHr7g,59,3.0,[]
+2063,6lq6C2_SX-xFG3gQidVlkA,25,4.5,['delivery']
+2064,7V3TM9PQINW1hD-g901wlQ,4,3.5,[]
+2065,0cDMyUeIwNkuMaaftOcj9Q,5,3.0,[]
+2066,XY2LRM9mQODLXeV5M30hFw,28,3.5,[]
+2067,VlSQ1P7SwKqnfljuaTQLRQ,37,3.0,['delivery']
+2068,l3CDE_Yaqufitm7laM-ujg,14,3.5,[]
+2069,UBUQAavRPBAuRCERF-RXHA,8,3.0,['delivery']
+2070,TKln_SIUlk-3vHALWazlqA,30,3.0,[]
+2071,2TSNwz0Rdr2S7grTy1JA8w,60,1.5,['delivery']
+2072,OrqFegW-rVqMzH-0-3QZZA,2,3.5,[]
+2073,olpJrC99sruox3S69Lq1yw,70,3.5,"['pickup', 'delivery']"
+2074,wkgbCrcZFf10MBNbCnKoWw,93,2.5,"['pickup', 'delivery']"
+2075,bpq3D2avIng8qZ3IrQ1gUg,18,3.5,"['pickup', 'delivery']"
+2076,4MiBtcT2DbmUbIu2_zC4Cg,180,3.5,['delivery']
+2077,5eanf5RsFacxSaZ_6PpUkQ,32,1.5,['delivery']
+2078,ioXvs43mTsZYVmwMhf5GYQ,11,1.5,['delivery']
+2079,wO1g9Z3oSNf3FcwlxjFcCQ,62,1.5,[]
+2080,9hfkRf5QnchRLMiM19ISTA,11,2.0,['delivery']
+2081,f2Xgs4lHF-16wME-ooXgyQ,45,4.0,['pickup']
+2082,8WUTv19XeJa4j6q80Dm5ig,62,1.5,['delivery']
+2083,t7ZBbn2m87g2bwGb_VVCdQ,3,2.5,['delivery']
+2084,lLXeVmE3elWAJvR1zf6xQw,36,4.5,[]
+2085,HZmp-ZddePmLtj_Bc23KRw,290,4.0,['delivery']
+2086,BGolXbl2K9RB1VHLk7kThQ,13,2.5,[]
+2087,Ftkm1_WemgRGWvSq5UPvtw,12,2.5,['pickup']
+2088,Qr2500TjlZEer-6COOe-gQ,31,1.5,['delivery']
+2089,kLpRuA36aQ2bVgxI9fdxBg,40,1.5,['delivery']
+2090,buKqJE7_yRyesLFWeLoF9A,138,4.0,['delivery']
+2091,oCokGtVbBSw6toJOpD_9zw,122,3.5,[]
+2092,ptiE-wUipVZeFeutxwFBOg,207,4.0,['delivery']
+2093,qZ6oQ5teipWZLBbHxj3n4A,185,3.5,['delivery']
+2094,QCpS8YI4Zx-5X45qVJqZZQ,15,3.5,[]
+2095,fCkxXNMxzMFUhz2pyhTKuQ,62,4.0,[]
+2096,6lFkk-Q0vZJrigwPzyMWbw,55,1.5,['delivery']
+2097,JMK6lxESw_OMNIOBFNDDhQ,390,4.5,"['pickup', 'delivery']"
+2098,9_EevksnW8TrNYibpcweIw,173,4.0,"['pickup', 'delivery']"
+2099,TuOam8qp0lrcIw8p1R9MVA,49,3.0,['delivery']
+2100,neH64nX9-Sq_OWW1IBEppQ,59,4.0,['delivery']
+2101,yTY5NYpZ0vLIO6t4OZHNug,21,3.5,['delivery']
+2102,bkxXDOew1xc8Nz4qwSvhfQ,201,3.0,"['delivery', 'pickup']"
+2103,wbQmPI17q06XuQ2iThFaHQ,139,3.5,"['delivery', 'pickup']"
+2104,kG7tejNwJddfQOrf1zrclg,514,4.0,['delivery']
+2105,4xN6yhJY6sVEJsUkNiScAQ,2,4.0,[]
+2106,KU3UDEcj6SRE65cXR-dFcg,21,2.0,['delivery']
+2107,FIjPaYB9AFs-jeutXKvGvA,23,3.5,"['delivery', 'pickup']"
+2108,uVHd5n0DDTqKK3hwXqNEJw,10,3.0,"['pickup', 'delivery']"
+2109,SYdYqlddM2cNJDYNnQL85Q,6,5.0,[]
+2110,Ing2KjdLM9FqrdBy4N4EVg,100,3.0,"['pickup', 'delivery']"
+2111,bhv_p9RIZ69LJPS-pU_Wyw,343,4.0,['delivery']
+2112,dgzj0TiXWymhq7udZMH3yA,40,3.0,['delivery']
+2113,PeUdkWVQOL18-IpC5kk65w,1036,4.5,"['pickup', 'delivery']"
+2114,VU5H07M-xmJy6KHvGynhDw,40,3.0,['delivery']
+2115,pByDM9vQi4iDUWnmuVy-Hw,50,4.5,[]
+2116,VmoN0ekOwHF3zi-B0rwOXQ,346,4.0,['delivery']
+2117,OPgZPSmkTmGSbyhEyTb2Nw,49,3.5,['delivery']
+2118,0yrv_k2ntFNAre0PGHKfJA,56,3.0,"['pickup', 'delivery']"
+2119,WvzeORRIcQEk8sG0b9RFKA,96,3.0,"['delivery', 'pickup']"
+2120,gmyjhicBRFoX4EK8SQpEdw,178,4.0,['delivery']
+2121,68Fbl9No4k9m4Xzsxdz6vQ,40,3.0,[]
+2122,D5hTKsFZFY1NOBh1zRyRuw,171,4.0,[]
+2123,E2X39oH4EPdJSAH9dAUfsA,3,3.5,[]
+2124,4Ld4jd0ePSNV8VgB5tKbbg,83,3.5,['delivery']
+2125,rQ15RVwlUhIts1yAR9De5Q,56,4.0,[]
+2126,cT6KJix_Ex7i4bYgzB7sgA,176,4.5,"['delivery', 'pickup']"
+2127,k6TNZyikKOPMB5Y-P_NLAg,5,4.0,[]
+2128,xobChneAYPz-bgCuGmdfZw,79,4.0,['delivery']
+2129,HH-pDFQ2zbUX1-a_TuQyOg,51,4.0,['delivery']
+2130,xWoXEGe2eB5r9QviESNelQ,40,1.5,['delivery']
+2131,3JzZgiSth43NtirtuolK3Q,6,2.0,[]
+2132,4mISq__5zLZ2055iYnsN8w,6,2.0,[]
+2133,r7Xm_oNjCJnrmNyEIAAtkg,9,3.5,[]
+2134,wdEUWhpZDcJUrbuveND7fg,139,3.0,[]
+2135,X47jSLfo157mMkttGdaokA,13,1.5,['delivery']
+2136,6PAK2NdZOqzK2bPcgzOD1w,20,2.5,['delivery']
+2137,MIL0FqG44Pm0nCqjsq_apw,14,1.5,['delivery']
+2138,AlTMvRyOd1n5yBvX7PqiuA,34,1.5,['delivery']
+2139,_oNMaD0IFJi-htjaqZF7kg,534,4.0,"['delivery', 'pickup']"
+2140,f-mkJGiYRgy2D7jp57d41w,3,4.0,[]
+2141,uASO54XNhLo_Jd93SreYYQ,175,3.5,"['pickup', 'delivery']"
+2142,quBJfpwoz5Jzn4ztAvZ0lQ,104,3.5,['pickup']
+2143,5fDhL9MDxl61O4uVQzJ0rw,28,3.0,"['pickup', 'delivery']"
+2144,ykevnpmGdR7bavEBFx88iA,62,4.0,[]
+2145,TZEqZ-O91Y5PvbvoAFEivA,305,4.0,['delivery']
+2146,I_Kx-r5rDFlrL6Mw0fsNlQ,395,4.0,"['pickup', 'delivery']"
+2147,XyBkQF1t4Q5qj3VTZRromw,7,2.0,"['delivery', 'pickup']"
+2148,yPLkYlZ4JQ41ManI9OPaSg,38,3.5,['delivery']
+2149,DLVt2btBG-op8ZpH7HcqYg,10,1.5,"['delivery', 'pickup']"
+2150,K6WKVo6XtC5jbW7_5bzjPQ,60,3.0,"['pickup', 'delivery']"
+2151,6ONmqWHbZmWhYtcBPnoBdw,32,4.0,['delivery']
+2152,P1Nt-t5iYVfdl8D-Rren9A,275,3.5,['delivery']
+2153,FS7xyxV6LSEmI65a1VzBPA,39,3.5,[]
+2154,8ZWhmgocba3I9B9BO1blPw,9,3.0,['delivery']
+2155,E5XaAU8N-mJVNwEk-FBiCA,322,4.5,"['pickup', 'delivery']"
+2156,SvOQSK1400bd-a2KuPchlw,44,3.5,[]
+2157,50zBIw5Ex6gtK1zn9bk9IQ,45,3.0,"['pickup', 'delivery']"
+2158,06ogfB9kha-2Wi9KlDa7ag,2993,4.0,['delivery']
+2159,4ZyalOC8AhjiynQRDTRRhg,65,3.5,[]
+2160,8EuQKuQDDHUQDnxBzH9IcQ,24,4.0,['delivery']
+2161,eHdh-8YlzipRLGsimiTTHw,126,2.5,"['delivery', 'pickup']"
+2162,Ce8Uk_M4YzHwFreV_wMRzw,8,2.5,['delivery']
+2163,A-JAsbsyQOJHdwpuWuMtew,22,4.0,[]
+2164,U63RXdwqcL8rLudylKa6Og,11,2.5,"['pickup', 'delivery']"
+2165,0Xa6XEX4TS6ycwxDI9NIcA,83,3.5,[]
+2166,w7ql1vBtPX5gXWGdww1VOA,49,2.5,[]
+2167,KB_uFyoONt1I2u7h5SXjAA,5,1.5,"['pickup', 'delivery']"
+2168,ijBKaY_s4ZIchJ5s6RStFQ,1,3.0,['pickup']
+2169,KgdsrZAFchYAZDkfkuovLQ,75,3.5,[]
+2170,9rHQyxJRIRY2_j-VKnGvFg,104,3.0,['delivery']
+2171,4yqO6pljQktN190s5F9D2A,152,3.0,"['pickup', 'delivery']"
+2172,ZVlPpF4qPDjG7Y-NsGIX9A,44,2.0,['delivery']
+2173,xt-9cLYBILDORZS_p3a1GQ,59,3.5,"['pickup', 'delivery']"
+2174,q5fMQsCQdrLQ_ww7QuQZcg,51,3.0,"['delivery', 'pickup']"
+2175,xgMz_ogfh6RY4U9pOjyNMw,117,3.5,"['pickup', 'delivery']"
+2176,Lv0a40PdegAYSuCJhnhwXQ,35,3.5,['delivery']
+2177,FPVYodNVzBDqbr7ImKpGzA,110,2.5,"['pickup', 'delivery']"
+2178,I6v4hu4ir89J1CupUegI1A,174,2.0,['delivery']
+2179,jGeOX3kMGDl-ieUwETeCIA,4,4.0,[]
+2180,9Q1l8cXiWhmEEfbUddH3NQ,8,3.5,[]
+2181,s4rqZdvU7d9eZp8fYwBUJw,31,4.0,[]
+2182,binZAD0jYmEOIRwNre7UHw,28,1.5,['delivery']
+2183,fscM2fqStT4VJ-ieE7LNvg,385,4.0,"['delivery', 'pickup']"
+2184,tXuMZPVIYDAOLbiNU5qEdw,343,3.5,"['pickup', 'delivery']"
+2185,abhSU4j1Va9BNiqkPSdMwg,13,2.0,[]
+2186,iNWFUQWfPQZK6Qi8omcvcg,7,3.5,[]
+2187,y_ZSsZADYNPFaYB7LoPeKQ,2,4.5,[]
+2188,VTPyF5-JURhcSxgQH4lrPA,33,1.5,['delivery']
+2189,tdHu1Q1rbkDSolcbK2-NEg,83,4.0,[]
+2190,j6ylJ9rkuV38cym75GBbTA,426,4.0,"['pickup', 'delivery']"
+2191,ioXvs43mTsZYVmwMhf5GYQ,11,1.5,['delivery']
+2192,wO1g9Z3oSNf3FcwlxjFcCQ,62,1.5,[]
+2193,DoEFIxW5MjI90GUDPxsy8g,54,3.5,['delivery']
+2194,oGljqU83ThuUDJ1BPNwFLA,141,3.5,"['pickup', 'delivery']"
+2195,KDo7OTe_7edIxrUY_hHK8A,174,3.5,"['pickup', 'delivery']"
+2196,I-uhBR4Sn9pIqH7zZCKGXw,12,3.5,['delivery']
+2197,hQt8szQ7VUb8tanA6-kM4Q,39,3.0,[]
+2198,xKed5yWzMycuic3YJvUsYA,128,4.0,['delivery']
+2199,WNL4ZCSoEoUqIe4MrlZCvw,183,4.5,"['delivery', 'pickup']"
+2200,5-di9AOzxlgzCPskCOksWw,58,4.0,['delivery']
+2201,R6irwORBAtAb26m4qx-XPg,10,4.5,"['pickup', 'delivery']"
+2202,MXJjNlz5QekQzX0NJmGJFQ,234,3.5,"['delivery', 'pickup']"
+2203,QH321tmchbw0RxOjjKmXAA,15,3.5,[]
+2204,l-wIQPMcXy1xdalIfLwLfQ,8,4.0,[]
+2205,1_lNofxuRR84NrIq3FVx1A,40,1.5,['delivery']
+2206,gcr5D5ke_PpCOOZGcQs2yA,45,3.0,"['pickup', 'delivery']"
+2207,_SNf8okcJ8XtzEOtyVkc-g,333,3.5,['delivery']
+2208,5pZhQiXoqJYYjdbTbRHPnw,27,1.5,['delivery']
+2209,W2suj1pTUp79iWy3hac6ag,274,3.5,"['delivery', 'pickup']"
+2210,cR36CoUpDWOxkblHMAuwIw,86,3.0,"['delivery', 'pickup']"
+2211,EyLr1LsoLWMWtanr5DecCw,97,2.5,['delivery']
+2212,AltmBHvMWfkUmm2kI_JIrw,53,4.0,[]
+2213,j83cFQJSUMtGcAZOpPDRWw,34,3.5,[]
+2214,S_iZrmUxlTOE4RyC3IK7jQ,541,4.5,"['delivery', 'pickup']"
+2215,hKWava-B78iGnnCxoz1vvg,346,4.0,"['pickup', 'delivery']"
+2216,dzFXrboc6sVhUWpMgT1ugw,85,3.5,['delivery']
+2217,fOuKqKCt_Z67UcdIkCGLfA,50,2.5,"['delivery', 'pickup']"
+2218,KDU_i24Jz0pMQhUQQQgvEg,42,3.5,"['pickup', 'delivery']"
+2219,YYR0ptjE5RgGeoRARzm6Lg,1,2.0,[]
+2220,fOuKqKCt_Z67UcdIkCGLfA,50,2.5,"['pickup', 'delivery']"
+2221,rOiysgRZ_uTeMtlEtMjpCw,121,4.0,['delivery']
+2222,ghD6echsW7KZJOxzaDUI_w,3,2.5,['pickup']
+2223,bQlXfu8VyqHEkwX-esxVCA,16,4.0,[]
+2224,Yg4s9R-Z3PMC_MXFVwVd5A,49,3.5,['delivery']
+2225,6lFkk-Q0vZJrigwPzyMWbw,55,1.5,['delivery']
+2226,-xr697MSGcZ5ELveVKoFMw,19,3.5,"['pickup', 'delivery']"
+2227,cEc71OYJjQMMGLyk4ZOFrg,23,4.0,[]
+2228,WzAUVhGsH_4K-saFWM_NAA,218,3.5,['delivery']
+2229,95RKRydscSJypOdek1_KvQ,135,4.5,"['delivery', 'pickup']"
+2230,gXTIq2sEQajMPefoj5uvwg,3,2.5,[]
+2231,IfGqKYJUmGaNY9uHEFR-fQ,149,2.5,"['pickup', 'delivery']"
+2232,mdFA0ndnAKhgXoGMiouzOA,91,3.5,"['delivery', 'pickup']"
+2233,67RSWjIg908GtlUhFz4-zg,84,4.0,[]
+2234,06VOtlzRIjvoZyWFnpw1wA,87,3.5,"['pickup', 'delivery']"
+2235,qBK2u72zBW0IaNvAQaPr0g,31,2.0,['delivery']
+2236,DbX8vwPfcm9iP-xW4iKptg,78,4.5,[]
+2237,hTp9bklQDyp9mExikMYkcA,69,3.0,[]
+2238,_k1qpoo6W31nVaxNZ8N_rw,8,2.5,[]
+2239,fM2NErtWzTFwVgRezmfAEQ,498,4.5,['delivery']
+2240,qebrwPTSfh2NiseFAL4CjQ,10,3.5,[]
+2241,8WUTv19XeJa4j6q80Dm5ig,62,1.5,['delivery']
+2242,m_I7RdZdmH5d_1L9wkqcwg,15,1.5,[]
+2243,W3EV9om0RlnRdU31btkgjQ,25,1.0,['delivery']
+2244,D6Ygx8oaffqubGQuhYkalA,29,2.0,"['pickup', 'delivery']"
+2245,S7bbqgCtCiC7Zto1vZl5xw,42,3.0,"['pickup', 'delivery']"
+2246,rtQXz-1r5SHObK2ulL8gBQ,74,4.5,"['delivery', 'pickup']"
+2247,-zzdDkQjHBV2oSfRfNfq9Q,330,4.0,['delivery']
+2248,AX2K2v3o-iVt2SUvd2MG4w,4,2.0,['delivery']
+2249,TLwsnbeA1FZvNHjzvWHvwg,38,3.0,['delivery']
+2250,t6gwH45CqXvMWRx81pWW8w,95,4.0,"['pickup', 'delivery']"
+2251,z4iy4BTCqW0nAFNh7hJf4g,219,4.5,"['pickup', 'delivery']"
+2252,r7Q12QD4W10-MN_A562v2w,12,3.5,[]
+2253,-rQ3hFrq5MMQinPqoTdeFw,1,1.0,[]
+2254,N59lhLSa7pGGiC7zi3eLOg,131,3.0,"['pickup', 'delivery']"
+2255,_mW71naVfPOe4V6jaXs-vw,74,3.0,"['delivery', 'pickup']"
+2256,iojIkgd4fchhYKGoZz0Jmw,84,3.0,[]
+2257,Qldh9GcGShncIuwGoRDJiQ,76,3.0,"['pickup', 'delivery']"
+2258,ofh0n_Ed1iYbzAmpWx4NDQ,102,3.5,['delivery']
+2259,L07EYcXajqk_04u2K3nyKQ,132,3.5,['delivery']
+2260,qlUsY1FWsqN-iXSGPYOpqQ,40,3.5,"['delivery', 'pickup']"
+2261,Md5I_4nN_45dGAQ-ITk1RA,156,4.5,[]
+2262,reLyWvb-mZ09OXRVoymIDw,9,1.5,"['pickup', 'delivery']"
+2263,INj_DYIAdFkkJtpa-DFm8Q,76,4.0,"['pickup', 'delivery']"
+2264,zPRnKg0H-3OeKfS75AnS1A,34,3.5,[]
+2265,Op0BzC100Tlj2Am5NnrzMw,28,1.5,"['delivery', 'pickup']"
+2266,uc-K2VQaKOBOJs9bMa_Hbw,216,3.0,['delivery']
+2267,-pm7uIlNe_KdgJiqJ9J2ag,37,3.0,['delivery']
+2268,qW3EsMvjh4LDAnj4ZA1L7Q,65,3.5,"['pickup', 'delivery']"
+2269,mIR_nFxxJ9p0lA7Onvlvrw,15,3.0,[]
+2270,TBE2hPcodZQWnrgt-EZN_w,39,3.5,"['delivery', 'pickup']"
+2271,fB-UYFNqoyyzQB04BofhyQ,36,3.0,['delivery']
+2272,5j71CBED4_hDRVGmdo3paQ,3,2.0,"['pickup', 'delivery']"
+2273,cJuwJueT9x1bZHoDmqQ1mw,3,1.0,['delivery']
+2274,UqxFAtycsfXFMlX7OhRzOw,33,3.5,[]
+2275,JyKM9M_NnKspfvFzSSjzHw,74,3.5,['delivery']
+2276,EVQNU3u_OovWjxkT30Ol8g,117,3.5,['delivery']
+2277,pvQN_0Pt3brRk9p8NlbrsQ,13,4.0,[]
+2278,zpPaYWVMjrDvGGHvSgNH2g,4,4.5,[]
+2279,BBS3MuUF5GMg0Ux3JY5rfQ,12,4.5,"['pickup', 'delivery']"
+2280,mAj_9KgLNSTfH9uHnQp7-A,140,3.5,"['delivery', 'pickup']"
+2281,gj0IZUpDoj_8T49DepwMEQ,63,3.5,"['pickup', 'delivery']"
+2282,cYBifgE1ohpmsZkvTmP-VA,7,2.5,['delivery']
+2283,acdP0_uUuuZsJcuKVs0ElA,277,4.5,['delivery']
+2284,NhnavIJRWmStS_5EYAxF2w,4,3.0,[]
+2285,JeX2b44XrXwxKEGFinpPLw,174,3.5,"['delivery', 'pickup']"
+2286,Sr4yckFP7PwLZugWMSB6IA,329,4.5,['delivery']
+2287,DDtfAw5AOqoljirnxpao8w,58,3.5,[]
+2288,ooKY09vv213Hrk30Izegow,120,3.5,"['pickup', 'delivery']"
+2289,WUD-hOgmZdekSmyr1jI4rg,35,2.5,[]
+2290,zKHdttf4HKqTyWJbbQeWeA,39,3.5,[]
+2291,GqDLfgbVGE-OLM7YR16kQQ,78,3.5,"['delivery', 'pickup']"
+2292,Y_C3pcPA0R2uxe-tT6irCQ,56,3.0,"['pickup', 'delivery']"
+2293,JIP6gu2guaor5p9I2vY4BA,127,4.0,['delivery']
+2294,1R1etBadtGFExKVWUBU8ow,25,4.0,[]
+2295,HXTD1GUdsylmi9p_PE5Mvg,230,3.5,"['pickup', 'delivery']"
+2296,e7kHjwhuapJ6kHNjWhalZw,223,4.0,"['pickup', 'delivery']"
+2297,J2rQMoRpczlDNSvh4wJE9Q,5,5.0,[]
+2298,1E0EYFt1TNqF_Se9trZ0OA,36,3.0,[]
+2299,jVPH2vJWgXVwQJL2x33M0g,16,2.5,['delivery']
+2300,9qfgXHvZ6enRjHOjQmBRdg,7,4.5,"['pickup', 'delivery']"
+2301,IzGE_LdENr3wjr_EI1UiAg,96,2.5,"['pickup', 'delivery']"
+2302,E2YYmPEN2bo8T2k461VXNQ,48,3.5,['delivery']
+2303,Fj7W2jo9FW8QZx5rsm76hg,42,2.5,['delivery']
+2304,8OkKOlPE3nThZPsMszxIuA,322,3.5,"['delivery', 'pickup']"
+2305,v8WF7oUBkOIPAXbJhW4m-g,367,4.0,['delivery']
+2306,SL0Uh6TV-WVioCGtHpurrA,268,2.5,"['delivery', 'pickup']"
+2307,_Cg6SPyLEHXArTT9jOtmwQ,91,3.0,"['delivery', 'pickup']"
+2308,ZJBy_2Le3bn6XAw9ZwoauA,42,3.5,[]
+2309,hVjXVnLAele62107K92QSg,272,3.5,"['delivery', 'pickup']"
+2310,qMgGaHEzpPPdDkPD4ZKZsA,20,4.5,[]
+2311,gq8COFLmiFPP869o-AbedA,5,4.0,['delivery']
+2312,F0INJdRHzZO99-N64R2sHg,48,3.5,['delivery']
+2313,UnB5iaX1KP3uzlbeYedx2g,9,4.0,[]
+2314,Yq-PV6CPk2oUOLgRpFJJdw,20,2.0,['delivery']
+2315,9fl2-wiG0HlVdGxdiBLI3w,7,4.5,[]
+2316,o4_zEfpuHt0VADVNErpNHQ,39,2.5,['delivery']
+2317,ShmEeBJ7y6pA3nOQPyEF7g,34,2.5,[]
+2318,ZYcuhBwSDDNIzxKh2XFdgA,3,2.0,[]
+2319,H2wiafhltL57J1AFjP_LqQ,4,2.0,[]
+2320,ZhXn7tYIFe8Pp6F5AR1HKA,12,2.0,[]
+2321,ko62wHtnseEhF9cTX6rgVw,16,2.5,[]
+2322,N5QWdPq5G3_zfTQ8eGaV4g,30,2.0,[]
+2323,ioAggZvSAkx-eLSHGaHi7A,106,3.0,"['delivery', 'pickup']"
+2324,xfiyzseBKAPEoZ79zAZb4g,31,2.5,['delivery']
+2325,Y0FQULD9kJ_G4vj3-Qy47Q,74,3.5,"['pickup', 'delivery']"
+2326,YpVK4yC_R4OmTwA4nhhsRA,16,3.0,['delivery']
+2327,A87c3UFaoezJpgGK22kpag,155,3.5,[]
+2328,UFHc2X-CdRoB3hmXiqFgYA,80,3.5,"['pickup', 'delivery']"
+2329,UQfKCnkzqDhQfgcPMj7Ivw,255,4.0,['delivery']
+2330,k27Q5h9pSBwfd1bi5lgv3A,200,3.0,['delivery']
+2331,k-6h6n9ljjTM8Cg1w6M2Sw,43,3.5,"['pickup', 'delivery']"
+2332,R2kzqrsQYtxGEHZvwkSQeA,32,3.5,['delivery']
+2333,zZMOThPOGLcnjhh6w6V52g,2,5.0,[]
+2334,YGuyFiivkUQX3xJ185wgTg,80,3.5,[]
+2335,r3IVpJSFlIIuwLA587XEfw,22,4.0,"['pickup', 'delivery']"
+2336,PERW40xbjA7yG76aQ2gexA,108,3.5,"['pickup', 'delivery']"
+2337,4Th5CzNIldKQ7QseHEPLrQ,13,3.0,"['pickup', 'delivery']"
+2338,K0lGvazmR8Jg33_d1oBZOQ,1,3.0,"['pickup', 'delivery']"
+2339,fmkL_cb25MiRUDmAK-k53A,83,3.5,[]
+2340,YyBXf5_5z7b_OScQceAiXw,329,4.5,"['delivery', 'pickup']"
+2341,k3IGuB_1M6vkE6IYYcvHLw,177,4.0,['delivery']
+2342,DhOCVFGivTGwIph_qy15wQ,222,3.5,"['restaurant_reservation', 'delivery']"
+2343,u82-ZiBKet3b_WqzNkzciQ,23,2.0,['delivery']
+2344,iW6NVQucyL5gu-KF-BpP4w,4,2.5,"['pickup', 'delivery']"
+2345,Nj0iE6z0EJrzdH512tGOeQ,61,4.0,[]
+2346,U5q5MQjdCBhwQIaeKBNvbg,797,4.5,['delivery']
+2347,q8nZXPsnjXyTzKXmLyBEXQ,106,4.0,['delivery']
+2348,0RXgIjyxpBDDpdxi-e7-WA,34,2.0,"['pickup', 'delivery']"
+2349,-lC6WCGw2Pcu83NIZ12WLg,45,4.0,[]
+2350,sO3_OpwELR9faQQRDB_FHQ,130,4.0,['delivery']
+2351,HuFt-7CvFgY7hR21SEJFng,28,2.0,[]
+2352,s2PN5auE3_VbV6C0-pG0eA,72,2.5,"['pickup', 'delivery']"
+2353,RopMJo4hg9Vr1sudf_igjw,6,2.5,"['delivery', 'pickup']"
+2354,nPD2vnpo1sevxWj9JJSQZA,3,3.5,[]
+2355,Py7yO3Hd44GVpavVJHrK5w,35,3.0,['delivery']
+2356,OSyMG-dFBIjAL-h9SNuj2g,153,2.5,['delivery']
+2357,oSyE08uw-FhC2r4PwVjXHw,21,3.0,['delivery']
+2358,nTEEOKtzIpr97Sd4dYibhA,344,4.0,['delivery']
+2359,zpSnDwvWrA9ZGMO7PJSOFg,70,3.0,[]
+2360,G017sxnuX8pVh6MhYG-BEw,106,3.5,[]
+2361,-lC6WCGw2Pcu83NIZ12WLg,45,4.0,[]
+2362,sO3_OpwELR9faQQRDB_FHQ,130,4.0,['delivery']
+2363,zZMOThPOGLcnjhh6w6V52g,2,5.0,[]
+2364,YGuyFiivkUQX3xJ185wgTg,80,3.5,[]
+2365,z4iy4BTCqW0nAFNh7hJf4g,219,4.5,"['pickup', 'delivery']"
+2366,r7Q12QD4W10-MN_A562v2w,12,3.5,[]
+2367,hQS2GPu-KbDKerNuN3Kz3A,44,3.5,['delivery']
+2368,4HvlFYCypfEBgQcD6IjHZg,33,4.0,['delivery']
+2369,qdtwo_4uEOcIMgASL2Kr0Q,132,3.5,['delivery']
+2370,VD-Ms2lIftqHKKoLNf9xEQ,2,3.0,[]
+2371,0rxc_SbsEsHyAHf_ildb6Q,6,2.0,['delivery']
+2372,bIL-f-FUzks5zUXh736CRg,81,4.5,['delivery']
+2373,dF6eBGHNdPuJ3Lj42CVyFg,99,3.5,[]
+2374,kDOP7g2Nf87b7OqvHXFYZg,46,3.0,[]
+2375,6YWQto8gcXWCkK3ADEuexg,20,3.5,['delivery']
+2376,zgjVAEx3JpyWzQqDSoq60Q,35,3.5,[]
+2377,3AKMWicXqXdVf5x4cpJ5Iw,237,4.5,['delivery']
+2378,Y6wi1Dl-sHGOOHMq1CRO1w,64,4.5,['delivery']
+2379,t11tKreZJqyaF8B40C8fdg,752,4.0,"['pickup', 'delivery']"
+2380,gdEFU-jh_mWcIwLr9bUEKQ,23,4.0,"['pickup', 'delivery']"
+2381,vXDXBs21YXcN4ZyISye5FQ,32,4.5,[]
+2382,XlhImpfJGXvBTsnGwCoZJQ,109,3.5,['delivery']
+2383,zxJ0cF_fDoa2vclfJxdLEA,78,3.5,"['pickup', 'delivery']"
+2384,xMicgh6XAqvyVxP3pa_hRA,277,4.0,['pickup']
+2385,zSuxBP19r1RY8JmAnRqZOA,97,4.0,['delivery']
+2386,kjSr5Bv-vwhrbZ1DPo7KrQ,28,3.5,"['delivery', 'pickup']"
+2387,exmnFLNgSYaj6PwyeheOYQ,3,3.5,[]
+2388,EbZtvdhu2W95XsGAAFrWGQ,16,4.0,[]
+2389,ZE04fTfpflEL1GHHZpmleQ,166,4.0,"['pickup', 'delivery']"
+2390,ou2uujTsuoI6D0xg8L7xZQ,102,3.0,"['pickup', 'delivery']"
+2391,yEOqtxOIR3sco5V_j4ulxg,84,3.0,"['pickup', 'delivery']"
+2392,Fz8--5bKau1mJGffcCnsYQ,105,3.5,['delivery']
+2393,8SiZNpEGwd6AGTCCseQNJQ,2,4.5,[]
+2394,OIt2FEwBr6WZjdNU7a6JSA,60,3.0,['delivery']
+2395,You2O0dXFNHA98LK_OBL2Q,46,3.0,"['pickup', 'delivery']"
+2396,YjwXj_073Qsd2jash3Chmg,104,3.5,"['pickup', 'delivery']"
+2397,zHsdkSpYuiRRcq7LnZ5vmg,119,4.0,"['pickup', 'delivery']"
+2398,vHI5__0c_kV94GndFj7R4w,84,4.0,[]
+2399,koVjozQKl-XjCoLYL5cNMw,207,4.0,"['restaurant_reservation', 'delivery']"
+2400,7ydC028jxHIA9ANXWQDa_g,44,2.5,"['pickup', 'delivery']"
+2401,cOWDjz2o3Kh9ItNlrk86FQ,196,3.0,"['delivery', 'pickup']"
+2402,K1AgZcz2k20_Qc6oBMbvkQ,48,2.5,"['pickup', 'delivery']"
+2403,MCbEPjWViJ4rAojJeXFkKw,50,4.0,['delivery']
+2404,Qr2500TjlZEer-6COOe-gQ,31,1.5,['delivery']
+2405,apDUgPfgZOHSdBSWAcvQag,31,2.5,['delivery']
+2406,MwI3HPzw-GmcFTk2h5EHaw,49,2.5,"['pickup', 'delivery']"
+2407,N_MQDMpmTMQLMkP6B6XgfQ,54,3.0,['delivery']
+2408,ej5wRN1VcKbiZxg9sG3Kmg,74,3.5,[]
+2409,yRNgCTniAdIk3RIdZITKNA,382,4.0,['delivery']
+2410,ePK1c6cY3YHMUru0mh5pMQ,24,2.0,"['delivery', 'pickup']"
+2411,wWGm2QMH5I9xegh0zYqMkg,23,3.0,[]
+2412,yq3NvX8KLCqZcLhhkRyrew,201,3.5,"['delivery', 'pickup']"
+2413,JHsWjUmWzkzIjsBTe2vlsA,16,4.0,[]
+2414,uDo04lOcFefE-lqkFI-OjA,172,3.0,"['delivery', 'pickup']"
+2415,c4p9-V_B_NBp1qeHayg15Q,152,4.0,"['delivery', 'pickup']"
+2416,2TcoPHvJeftYNYLzRsmb7w,54,4.0,"['pickup', 'delivery']"
+2417,TTTRIWAgKFBZLb8gkDkzJA,48,3.5,['delivery']
+2418,6DY1aCWNOD6zpvFNJ7RIkw,4,3.0,[]
+2419,-xdmQ8Jp5RH_2epaNMCOww,1,3.0,[]
+2420,MKziGUovUHr70jZ255Le2Q,1,1.0,[]
+2421,0wzf4majlMHH8SlL5thhpg,3,1.5,[]
+2422,ibY3WSaJDiLoUWi4PSK2hg,106,4.5,[]
+2423,bNC9QMPoyG1UbSemoaglzA,44,3.5,['delivery']
+2424,dKZDrDTzR1zsmtzuulmI0Q,42,3.0,['pickup']
+2425,_gEsPi-t0sCVGnSLiAyTeA,19,2.5,"['delivery', 'pickup']"
+2426,wEisEZAoUqxuL5Fa5U817A,414,4.0,['delivery']
+2427,o57npfkCIDBNJ6NtLc8eiQ,31,3.0,[]
+2428,es_B17PbFGU1JivOAM3Phw,65,3.5,"['delivery', 'pickup']"
+2429,Hq76GlPYYA87g6DzEbR0Dg,83,1.5,['delivery']
+2430,rltY6RaVYfNLHX9qAOY94Q,22,2.5,['delivery']
+2431,0r9gV76v7kYcVCtvTxYB9Q,136,3.5,[]
+2432,h3-s0-JOkKHpni4VFNbPzA,467,4.0,"['pickup', 'delivery']"
+2433,pov3yW1ZVGJeWte_6wA4KA,36,3.5,[]
+2434,-h8pHDJQs2I9__Kji2knQw,795,4.0,['delivery']
+2435,GYSGeh7OA7vWn96mJZsjog,20,3.0,[]
+2436,a0V_q4NPi2L8rxrLTijSbw,46,2.5,"['pickup', 'delivery']"
+2437,bBQxEjaZcb1DjAF6qLNB1w,174,3.0,"['pickup', 'delivery']"
+2438,cMFnH_s-7AyBEe0Z2_cbzg,91,3.5,"['delivery', 'pickup']"
+2439,64nuP0_F7lFaf1VxPFgmxg,5,5.0,[]
+2440,kFZFNAmuKWuWK7Lq3S5uog,22,2.0,['delivery']
+2441,dC5xVjvJNU4JXSuIHJwjQQ,34,2.5,['delivery']
+2442,nMeGEwT1mtCXGJdqd5yspg,212,4.5,"['delivery', 'pickup']"
+2443,k7hC6BeN9Uv5IxrSonXyog,3,1.0,[]
+2444,kdyyoKitbRMKzeURqgaO_A,20,2.0,['delivery']
+2445,FwlOc83gfT0SIqoeojwVwQ,116,4.0,[]
+2446,jFtu-l1ghX4V1YPgXf2w-Q,58,4.0,[]
+2447,59CuyNn13F7Sg8klYfz9zA,167,3.5,"['pickup', 'delivery']"
+2448,UjgIF9RWcPgMUkN-Esbl4g,17,4.0,[]
+2449,nJ6vMq44ws-VVDepMB7rpg,56,2.5,[]
+2450,VG5hf75K5FhXGVVsbRtzag,6,1.0,[]
+2451,NH9R2EasTs7v-OwMPG8Kfg,44,3.0,"['pickup', 'delivery']"
+2452,4pVnkU7AqZua7KVa9P_l4Q,247,3.5,['delivery']
+2453,lwf_8WSU1tIuUJAnbYyPFg,19,3.5,['delivery']
+2454,1tfJ1JMBZ4Dogbs0hexw5g,70,2.5,['delivery']
+2455,MO1R1IhjNgIPHAsZhr56Uw,70,2.0,['delivery']
+2456,mmzB2G03bHiXfcEDsDDgSw,27,2.5,[]
+2457,64fD60zBYjFuDELSeOI30Q,125,4.5,['delivery']
+2458,5p6KuR5bDJO1GjUlmZRrhQ,35,3.5,[]
+2459,T_IbZ2khvTShrQkYk_292A,1,5.0,[]
+2460,6l_IixCKu8LDtF7iC5QwPA,29,2.5,"['delivery', 'pickup']"
+2461,o4_zEfpuHt0VADVNErpNHQ,39,2.5,['delivery']
+2462,ShmEeBJ7y6pA3nOQPyEF7g,34,2.5,[]
+2463,ZYcuhBwSDDNIzxKh2XFdgA,3,2.0,[]
+2464,H2wiafhltL57J1AFjP_LqQ,4,2.0,[]
+2465,ZhXn7tYIFe8Pp6F5AR1HKA,12,2.0,[]
+2466,ko62wHtnseEhF9cTX6rgVw,16,2.5,[]
+2467,N5QWdPq5G3_zfTQ8eGaV4g,30,2.0,[]
+2468,m172wiuIjprZEiWZ-XR1UQ,318,3.0,['delivery']
+2469,WQaLsXE80ZT52Do2jshDtw,30,2.5,['delivery']
+2470,RE3WczYTBpH_CUBIE0fAhg,79,3.5,"['pickup', 'delivery']"
+2471,QgsKYYfq3x05eXXkLc4aMQ,27,3.5,[]
+2472,aeti03g9A18kKGUnaMhY0A,14,2.5,"['delivery', 'pickup']"
+2473,EqA2pktX0O2aqoJRGhmehQ,6,3.5,[]
+2474,ZvLztB4iBUxlF4N11Zu_QQ,61,3.0,['delivery']
+2475,zSajBUaSPL5RGtXPwZIaDQ,170,3.5,"['pickup', 'delivery']"
+2476,OaAASeZwuvCench8_efgnA,22,4.0,[]
+2477,OsvNLImSiiRNIChcloO-4A,2,1.5,['delivery']
+2478,U9zMdCETvRN02IgvbnHhNg,151,3.5,"['pickup', 'delivery']"
+2479,wyeEzGdzbDiatdPGTBOIng,109,4.5,['delivery']
+2480,Czye7GGTSZsG-zslfroDHQ,90,3.5,"['pickup', 'delivery']"
+2481,WZwqwr4QCG7wZCDkxudYUA,233,4.0,"['pickup', 'delivery']"
+2482,pDGsPb9QaNVs5KU0b8v0KA,16,3.5,"['delivery', 'pickup']"
+2483,nABOj_XbvmDH3b69DaFLnw,42,3.5,[]
+2484,ZiB6_HLEYwLE0PrlHu_dlg,31,2.0,"['pickup', 'delivery']"
+2485,J171Yvf0RRkRlWeSvCpVGA,3,3.5,[]
+2486,IUWOpvuHcbLwvjOs6-GfXw,5,4.0,[]
+2487,LifjgeYWEScHEbH-bUMIxA,3,2.5,[]
+2488,04UQKWJBK4x3QNkJr9hquQ,188,3.5,['delivery']
+2489,psJMggS8X9Vh0zVRIvEqEg,2,2.0,[]
+2490,AW1SV4YheuRozfgEX1bvag,107,3.0,[]
+2491,lc_XHCvUoddQoTcd6YR1eQ,560,4.5,"['delivery', 'pickup']"
+2492,FxpzmFBno-kX5ZywrW7U1g,18,3.5,[]
+2493,u4uU80NDtT9XsS95c8dOkA,165,3.0,[]
+2494,RpptXGLADrV6I-D5dcpCoA,4,2.5,[]
+2495,5h4zKSE_l7Mm1QBSFttxsA,286,4.5,"['delivery', 'pickup']"
+2496,JG30eHEEBhri9TJHcr79tw,53,4.5,['delivery']
+2497,6Kk047pTbk5s8cbEfT_WZQ,13,4.0,[]
+2498,F0rQyd9RvNzX52OLFivK0g,76,3.5,"['pickup', 'delivery']"
+2499,EO1GpNnICiDrig7ieT2IbA,29,2.0,['delivery']
+2500,R14DJoFRsEq4haIsLPvFYw,66,4.0,"['delivery', 'pickup']"
+2501,0E6JglP29Vx1ZL7yxCcvwA,15,3.0,[]
+2502,LFv4eQjBYSmjM30ZJGLyTQ,27,1.5,['delivery']
+2503,AwC8RLq11Zus9vs3F2ZCQQ,23,2.5,[]
+2504,-j1_Gh7MfLHcUeOORUT9Cw,13,3.5,['delivery']
+2505,68DHPlD6JEbajp3gIu7QwQ,31,4.5,['delivery']
+2506,djHh8aZ7FUeTLoaRuJgIfg,56,3.0,[]
+2507,5QsFUcBWim2xprm3D8SzFQ,47,3.5,['pickup']
+2508,-xdmQ8Jp5RH_2epaNMCOww,1,3.0,[]
+2509,MKziGUovUHr70jZ255Le2Q,1,1.0,[]
+2510,oMo_yJ0LzW2F1ifa2g-KdA,9,2.5,['delivery']
+2511,NuMqdGDXT6iMHJ6KUEtl2g,623,4.5,['delivery']
+2512,d9eh75u8VR8v9x1nvM8rNQ,55,3.5,[]
+2513,pZ48rgN0lcgU_WL4dcRrtA,123,3.0,"['delivery', 'pickup']"
+2514,iW6NVQucyL5gu-KF-BpP4w,4,2.5,"['pickup', 'delivery']"
+2515,w8SMSImfNBJ6ueHH0O54zQ,62,3.0,"['pickup', 'delivery']"
+2516,f-IN-Dt9GW8wgcH_tFsxDQ,107,3.5,"['pickup', 'delivery']"
+2517,UO_Jh4IgbynfsOv4zBmMug,30,4.0,[]
+2518,nzTtqJzbGvsCpe13rqEpiQ,66,3.5,"['delivery', 'pickup']"
+2519,U2jUSdt7oykL4EmOtZzewg,1,4.0,[]
+2520,NpUVAoyxT8qYVuOJ_Wgz2A,2,5.0,[]
+2521,sQiIOoh2zUr6ekBBaKqalA,27,2.5,['delivery']
+2522,RYJtXPn6kHa5R-SeQ8b5cg,29,4.0,[]
+2523,qY1MO6rOgE0hoSBdAJ8xoA,22,3.5,"['pickup', 'delivery']"
+2524,yyzM-PYBlUf1wuCwTTPpog,95,3.5,"['pickup', 'delivery']"
+2525,dM5ZQsQ4cFzTMcHshdDuRw,5,3.0,[]
+2526,gWJ00cMBY5NK2sqIWlPPwg,32,3.5,['delivery']
+2527,qe7w8AkfRoDCsQlE2fTHSg,109,3.5,[]
+2528,MlYhsFOAN31ud_ut4nBh9Q,82,4.0,"['delivery', 'pickup']"
+2529,6Hp4i9hnqHcD5vjFCuT-Tw,9,4.5,[]
+2530,4OyTdqdZMbljdWQoAukvvA,245,3.5,"['pickup', 'delivery']"
+2531,UdZMV0eLhXtMn8xYicxnQA,143,4.0,['delivery']
+2532,TS4CyAv92k6lJD4R4FjWhQ,6,3.5,['delivery']
+2533,zs6aw-Kh2dRxrfoH92yVyA,90,4.0,"['pickup', 'delivery']"
+2534,OkEAk2JZbQyhdy58PsLIzA,32,3.5,[]
+2535,4srS_DyW1hStf0aXjASaWg,127,2.5,['delivery']
+2536,6tVWF5oYg-11tmRE_kPGag,335,4.5,['delivery']
+2537,i6qLhnukoWuZhk9rgFOfoA,9,3.5,"['delivery', 'pickup']"
+2538,AyqBZy4hgjzQ3td6HPsxlQ,22,4.0,['delivery']
+2539,o-AGV2O0yEk8PbFka-zoRw,34,2.5,"['delivery', 'pickup']"
+2540,KWB8NcGKRWp376tRUL4RDg,192,4.0,['delivery']
+2541,V2GUkKbKE_f_zqCHTha1sg,7,3.0,"['pickup', 'delivery']"
+2542,UssDtIbx_v0QNXJlDfW5wg,3,3.5,[]
+2543,DaKqqqqc96gbwp8Ez_1kSQ,236,4.0,"['restaurant_reservation', 'pickup', 'delivery']"
+2544,t_zhwvu5TE8KrjS4XbsyIQ,24,3.0,['pickup']
+2545,0b0tDNT3V9wHvj0R6n69Cg,323,3.5,"['delivery', 'pickup']"
+2546,IkR_wVkgYW_akElGjP4BgA,58,4.0,"['pickup', 'delivery']"
+2547,RYJtXPn6kHa5R-SeQ8b5cg,29,4.0,[]
+2548,qY1MO6rOgE0hoSBdAJ8xoA,22,3.5,"['delivery', 'pickup']"
+2549,yyzM-PYBlUf1wuCwTTPpog,95,3.5,"['delivery', 'pickup']"
+2550,dM5ZQsQ4cFzTMcHshdDuRw,5,3.0,[]
+2551,tTbjnfT_YOsnIqebyBilsA,75,3.5,[]
+2552,GVKMRxE8IFKEi3MzTzRdwg,34,4.0,[]
+2553,Ssia8rx-PpoL2QRkPjBckg,42,3.5,"['delivery', 'pickup']"
+2554,fCAWwtFsVNWFcn_d6p3x7Q,159,3.0,[]
+2555,9pI-tpx1UpMKmqbh9HrLOg,4,2.0,['delivery']
+2556,1FpDx8M47V4pyU8WRkPvag,181,3.0,"['pickup', 'delivery']"
+2557,1z6z4FtwR73Kqdruwga9bQ,605,4.0,"['restaurant_reservation', 'pickup', 'delivery']"
+2558,m8zIvVtYGlkJWNz6JJoN7A,55,2.5,['delivery']
+2559,_HTrkGndbO77hNqEeUFq0w,182,3.5,"['delivery', 'pickup']"
+2560,AW_IFBG-6crgbCQGkQg61Q,26,3.5,[]
+2561,doupGTEbv2ggoOgu7ffObg,56,3.5,[]
+2562,zlsjEA-VatLeCUfI543p2w,18,3.5,[]
+2563,xxhj-Qv8EmpkLSni1htbJw,34,3.0,[]
+2564,obyG-eFjUPmzDq2AC8Jbkg,316,4.0,['delivery']
+2565,xuenMGjWtX26Rpe2e-y-vg,1,1.0,[]
+2566,3apgHd_dVlMlqgUHwDMyUw,19,3.5,['delivery']
+2567,awQfB07FtW9T3ZIen4gNgw,218,3.0,"['pickup', 'delivery']"
+2568,okGldgnv5RHI0S4Bzngt4A,18,3.5,[]
+2569,cH0rBXLxTpXXZA8wyWN6vQ,24,4.5,[]
+2570,7NTYJYWp3siiM8Ai3xR9Ig,132,3.5,[]
+2571,wpisyGbscrHv7TBh0cuyMw,55,2.0,['delivery']
+2572,RsJM3F0ie0B-AtLb3-stGA,9,2.0,['delivery']
+2573,6jNaGkJAh_f7px61PIPlBA,78,3.0,['delivery']
+2574,9xxp7yVhDdnA0U5BpIol4A,6,3.0,"['pickup', 'delivery']"
+2575,UvrGXxR2jtEdkPq_YODlQQ,315,4.0,['delivery']
+2576,81EOECUWGbHDbcaYWoBFew,47,2.5,"['pickup', 'delivery']"
+2577,i8ErbzVW0YY3bzhg74ysjA,255,3.5,"['pickup', 'delivery']"
+2578,51WraWKsBsjq3juIUtqJDQ,20,2.0,['delivery']
+2579,LHQDkmHa9ZIc66W0VuaJUg,410,4.0,[]
+2580,Bwq-TG1QSHfenw1A4Dq5Vw,19,4.0,[]
+2581,neUj1nC8eOHR1poLLILjVQ,17,3.5,[]
+2582,wA_u9h7JUYtELDxyJjvopA,22,4.5,[]
+2583,Q1Bga0YavuVOLxnprZKg4w,7,3.5,['delivery']
+2584,GVTfgQ5OrDdFWbonIVARhw,39,2.5,['delivery']
+2585,y3rIi3kmo7p7xlq4vQOAZg,21,3.0,"['pickup', 'delivery']"
+2586,Js2g4uT7ywfXsAZezYVeFg,94,3.5,[]
+2587,vzO4m1mWX_Bpt1XBcc0c-g,19,1.5,['delivery']
+2588,qge4WPNB-dreII2ct7k0PA,20,4.0,[]
+2589,ZMzTd5bPtSj-Ir0GSb7EZg,54,4.0,"['pickup', 'delivery']"
+2590,zP56ObjcCOlDlLY-XG3HqA,175,4.0,['delivery']
+2591,lwf_8WSU1tIuUJAnbYyPFg,19,3.5,['delivery']
+2592,1tfJ1JMBZ4Dogbs0hexw5g,70,2.5,['delivery']
+2593,MO1R1IhjNgIPHAsZhr56Uw,70,2.0,['delivery']
+2594,hnam9YEDonOH4nEgmPDPng,50,3.5,"['delivery', 'pickup']"
+2595,YJyUAaQ18Daxq8x_KuXjgw,251,4.5,['delivery']
+2596,7L8UMAP7o8FQ_-GoEcG3fQ,172,3.5,"['pickup', 'delivery']"
+2597,_k1qpoo6W31nVaxNZ8N_rw,8,2.5,[]
+2598,-3wp6Riz8CpgaY41oGcxgw,33,2.0,['delivery']
+2599,kuqppvXDoE2M-mfjVucnSg,56,3.0,"['pickup', 'delivery']"
+2600,cVLXCjbxlgPOoX4H_1nITA,4,3.0,['delivery']
+2601,GmlFo1yUQrjw3TXjol0f1A,35,4.5,['delivery']
+2602,5C7pKKfekOHrFaqLqb4Hxg,4,4.5,[]
+2603,0rEUp3t5uT1KEWlkMACnlQ,61,3.0,[]
+2604,8bC0oWzAO--imweG4L18BQ,47,4.0,['delivery']
+2605,-2CqSSHNVufKmV63vLsg7Q,19,2.5,['delivery']
+2606,g24Z82C66TpFdREDsr_2tw,202,3.5,['delivery']
+2607,Sn2Gdz2WVqhrKgh6TtLPhQ,27,2.0,['delivery']
+2608,_8bzxCayb-M1c5IH8qyzUw,361,3.5,"['pickup', 'delivery']"
+2609,vb7L4jWpyKviQpPqMeL9sA,1,4.0,[]
+2610,6RO0ZsRLoB875Ce1YmBvGw,11,3.0,['delivery']
+2611,e52HHiII3xgS-6GLBUlSCg,14,4.0,['delivery']
+2612,R2uBeQKltxae-7I7AEDt3Q,168,3.0,['delivery']
+2613,pqMewkC8Ary-JBTPDdakcA,14,3.0,[]
+2614,euvyHZ9PPmu4DhFOC5wCsg,10,3.0,"['pickup', 'delivery']"
+2615,R2uBeQKltxae-7I7AEDt3Q,168,3.0,['delivery']
+2616,pqMewkC8Ary-JBTPDdakcA,14,3.0,[]
+2617,euvyHZ9PPmu4DhFOC5wCsg,10,3.0,"['pickup', 'delivery']"
+2618,1qgQPS_1RjaMnJdSQl_ETQ,69,3.0,[]
+2619,3QwSWn9pED5Dl97qqt_Ghw,136,3.5,[]
+2620,K3LnxChPA5lmtxwIoKMLAw,46,4.0,[]
+2621,duQ69Mueu9wt4pd-b8FbUQ,54,4.5,['delivery']
+2622,HwY6Q2e5uaCh8ATivLPwoA,57,4.0,"['delivery', 'pickup']"
+2623,K2xNTvu63uBfJOiF65HpUQ,13,3.5,[]
+2624,4ZNM_Zty4GFl3v_p5PDWqw,230,4.0,"['delivery', 'pickup']"
+2625,nsDqndK_vqXbbHZCrDXEsw,30,3.0,[]
+2626,gTfVwdcp7rRGUPKD5n4Y9w,43,4.0,[]
+2627,hM7xZWlXeJiir8TRq6AmWw,26,4.5,"['pickup', 'delivery']"
+2628,emVRjpUjJQRZA9P-UJicgA,18,4.5,['delivery']
+2629,vdeaxpLdl091l3Y1XMu-RA,70,3.5,['delivery']
+2630,xRvjOJHmwcgQMm2QuB2S-w,62,3.5,['delivery']
+2631,8KxgJrNGfIuRu6LMibXDBQ,48,3.0,[]
+2632,EuOB0XbWbS4u63PuwrhxTQ,76,1.5,[]
+2633,dsSWYUSvfZjGhXRdecZzbQ,34,3.5,"['delivery', 'pickup']"
+2634,PPfU_eI0NZoRtTPDF6kmZg,34,3.5,['delivery']
+2635,X5Scsveye0pc3qL2ZeFYOw,59,4.0,['pickup']
+2636,aA7RIY3PItOHttlUQNvptA,65,3.0,"['delivery', 'pickup']"
+2637,Vf_PEx3oy8tZOERSc59Q0A,180,4.0,['delivery']
+2638,J08bemCATxF59MofRhJlhg,50,3.5,[]
+2639,OcPv3HVjcMBAG3xRe0k5YA,44,3.5,[]
+2640,w-iVltnCyaCvlGh5khKmRw,5,4.0,"['pickup', 'delivery']"
+2641,eWp3S_rOUhSWV1Qeji8VKQ,57,3.5,['delivery']
+2642,vPKJ5hibTDbNK4BofGBHtA,182,4.0,['delivery']
+2643,ODcCLb9ilam4x1nH1AOQrw,25,2.0,"['pickup', 'delivery']"
+2644,sh0lh5oYD8koSND5zzDtTw,8,3.5,[]
+2645,UpWrLuZIpLkI4xi6F8sDng,51,3.5,['delivery']
+2646,sBMHXDttNSRxKwFOUOgIXw,208,4.0,"['pickup', 'delivery']"
+2647,eEltVnZUbY_BhWdKRWKk0A,2,2.5,[]
+2648,p-DmX8Y_-Fz80LKZLHoMTw,26,3.0,"['delivery', 'pickup']"
+2649,BImVHRBshf0j-xXlEeynUA,45,3.0,['delivery']
+2650,R897r4yD0tJz79Id01p89Q,225,2.5,"['delivery', 'pickup']"
+2651,8Kax13a4zXTgop88Ah8THQ,26,3.5,[]
+2652,-EO9Ac0yye3rfFCl8yqfUA,1,5.0,['delivery']
+2653,J0_1YlqoVcinVmvvdux7CQ,405,4.0,['delivery']
+2654,NS7-JdhATCozVCeTyTkBBA,185,3.5,['delivery']
+2655,-cYftPutLvRAVTxcqfG6jA,8,1.5,['delivery']
+2656,9kh1aXyYxHLaS0jMUQkSxg,68,2.0,['delivery']
+2657,Y3PwlBW4vVL7Ww6HCBAc9w,11,3.5,[]
+2658,Iq07MYbAVnLFBGDgNrCPRg,29,3.5,[]
+2659,kzw9YN7eePkRa7Fws97okg,239,3.0,"['delivery', 'pickup']"
+2660,kiIbdtsMfWVJ8XlX43v4wA,348,4.0,['delivery']
+2661,WrSxGwH9Qzw8fGhTfsyR5w,21,4.0,"['delivery', 'pickup']"
+2662,hDY555uvsMUU4RleXZ-fVw,3,2.0,[]
+2663,SLXmh7sQPWjS86apKSCp3A,3,4.5,[]
+2664,v9cw6EDL0qK_kxnmqhaiKA,15,3.5,['delivery']
+2665,DoX-Ou3apQP5DDbmo4RRkA,586,4.0,"['delivery', 'pickup']"
+2666,Rtwvn-nA3FJewm6V5Aksag,250,3.5,['pickup']
+2667,iBDAW9Wf705gMuX8zTw0GQ,23,3.5,"['delivery', 'pickup']"
+2668,9548JKYa6XyWcg9sKae_zg,1478,4.5,"['pickup', 'delivery']"
+2669,k9OLLvjQGjOxSFzca3zAhA,33,3.5,"['delivery', 'pickup']"
+2670,u71aF9wb3ryjuRJuNrCG3g,1,4.0,[]
+2671,S_UVkg_D2T_2YCPIectYtA,306,4.0,[]
+2672,e_JfhUlu5_3PERrLu7v4fw,15,4.0,[]
+2673,00ApuA-p1wF12-Upql3v5Q,22,3.0,[]
+2674,0NRpSlD385hOSHV0eQJe9A,101,3.5,['delivery']
+2675,W-bxhGmJsLUGO9kbEMFbWA,30,3.5,"['pickup', 'delivery']"
+2676,kXE8nJVsQ8VV8rc1kNC4yw,20,3.5,[]
+2677,WYbcnxQ36nzY1aXmhKjmYw,18,2.5,[]
+2678,0M465levSWQ6aPCixG_aoA,35,4.0,[]
+2679,yMKDGETPlcEOrgq8fbuH1A,2,4.0,[]
+2680,pgaHiiq3Vc0owjxdoUNAIg,16,4.0,[]
+2681,mRnpj8GhZS830EzElGgSOQ,67,4.0,"['delivery', 'pickup']"
+2682,-DJ87h3-M2HUHg_ayz3qwQ,12,4.0,['delivery']
+2683,fhfNALm76weBgwOaNim6HA,74,3.5,[]
+2684,3WLdCdkfwtyDTb4YkXchXw,127,3.5,"['delivery', 'pickup']"
+2685,LR05ATqoBFyPg43vLnIZiA,26,3.0,['pickup']
+2686,wNnxov-3G9RkMcspu2K9MQ,65,3.5,[]
+2687,Sky_qKKTOYSRJyKtOH14yg,240,3.5,"['pickup', 'delivery']"
+2688,i00t9RXBbWec_8DVgKm1Aw,9,3.5,[]
+2689,9GGcTSwems-qGbTytUi8yw,75,4.0,"['pickup', 'delivery']"
+2690,AjeYqypoiJ1Xyz_4Eypkfg,43,3.5,"['pickup', 'delivery']"
+2691,jtfwTmrKL6Clzj69Ex7pZg,67,3.0,[]
+2692,PkpfEa5s-eWaR6hJ9-GCrw,10,2.5,[]
+2693,7xBxZ2aa10-Od3rrRb7J-g,85,3.5,[]
+2694,3rxAW0TtKdE3HS29BOjYKA,26,3.0,"['pickup', 'delivery']"
+2695,d5Nt443ZP5lm3P8eK-dsrw,17,3.0,[]
+2696,jeZpdWveNi5RiBg7k0gOaw,117,3.5,['delivery']
+2697,9QrZvEVV_eXBZ-2AuhZNuA,25,3.0,[]
+2698,aHj94aljlCNA7U6AXP136w,83,4.0,['delivery']
+2699,NGgPev6puJDvvZTvMu9bQw,109,3.5,"['pickup', 'delivery']"
+2700,ui3VIO3tiIbGf8cNplALIA,233,4.0,['delivery']
+2701,jXPkxZav7REEownUNBj37Q,148,4.0,['delivery']
+2702,XhqBrqQzveA2Bxr6EaA5dA,44,3.0,['delivery']
+2703,-UfsWHVDhYT4pINegjaVjA,234,3.0,"['delivery', 'pickup']"
+2704,nzwab3J5VLXP78y4TremaA,96,3.5,['delivery']
+2705,adT_DAxgvMime-LayPohYQ,14,2.5,[]
+2706,JhGat0GTvf6rG7KUHrIQqw,154,4.0,"['pickup', 'delivery']"
+2707,OGObJrUOFgEZpp1JTLGY-Q,38,2.5,['delivery']
+2708,PLIxqpFtYj970B8uSNwnqQ,114,4.0,[]
+2709,cAI7cZ6rwcgXVPkSJZQ4jQ,2,4.0,[]
+2710,75Nxl8jwhUmaYinioKKvVA,118,3.5,['delivery']
+2711,k9Z-2FMVTF5M0iXeojiKeQ,15,3.0,[]
+2712,fn_1HjJckkIT9UxNGJVrtQ,173,4.5,"['pickup', 'delivery']"
+2713,P7oC63e9ygNQNWaJanV0NQ,5,3.0,[]
+2714,dbFD-VAgydZcT1ssnW_fjg,26,4.0,[]
+2715,5t3m0ukTIoJ5bEtyOT1V1Q,14,3.5,[]
+2716,LB_25_ZJRSLEdS-B_WTyng,783,4.0,['delivery']
+2717,Xk-ShX2mKc-cZl4XCjShvQ,476,3.0,"['delivery', 'pickup']"
+2718,2acxeIzBgYllLMK94zT73A,63,3.0,[]
+2719,mZsCLo5ovnDzKHbUB6X24g,57,2.5,"['pickup', 'delivery']"
+2720,esqOkEThdmX8FYuyx2hk0w,70,4.0,['delivery']
+2721,ixfP6oTpqONZAfxoUpNxug,117,3.0,"['pickup', 'delivery']"
+2722,Hd0Ns2E3XzzV2dxhpsN4eQ,162,4.5,"['delivery', 'pickup']"
+2723,_QxZfDFb0s4aX5YCVBcDpg,33,2.5,"['delivery', 'pickup']"
+2724,6Zn_sCvD-fjEv4qtvW--UQ,118,3.5,"['pickup', 'delivery']"
+2725,H5HE8w4ozqgeoZoH1JWOsg,23,3.5,"['delivery', 'pickup']"
+2726,ZeMuyp7-aNasvbFZoWbGuA,11,2.5,['delivery']
+2727,NqXji88o_tA2fzpopxJe6A,68,3.5,"['pickup', 'delivery']"
+2728,bD5pY2_d7lSWoxxNVcYHoQ,61,4.0,['delivery']
+2729,iZ-YaNEHv298g2Lk-jfghQ,42,3.5,"['pickup', 'delivery']"
+2730,5eX2RyBhrPNlRF45gqhvUg,81,3.0,"['pickup', 'delivery']"
+2731,93L0fTeBvHBCTwgYbPMsJA,34,3.0,['delivery']
+2732,psJMggS8X9Vh0zVRIvEqEg,2,2.0,[]
+2733,AW1SV4YheuRozfgEX1bvag,107,3.0,[]
+2734,MKnj1IU9PKrad-aHb1JkXQ,66,3.5,"['delivery', 'pickup']"
+2735,zotnYEe-bZ2G0AMxIezlAg,70,3.5,['delivery']
+2736,ionR6ft_cdCKvee6G77ktA,3,1.5,[]
+2737,6Pbx51TsiMvvW0WB8r6gig,282,3.0,[]
+2738,3Mm-Ixw7aCkBEe3a8-Ip9A,13,3.5,[]
+2739,wtXnCvEOpOLcLWwvwF3R0w,256,4.0,['delivery']
+2740,QjucofD_QkeXKaed_Lx5dg,175,3.5,[]
+2741,z_3Nkn2kfUVqaOpTxd6Z7w,107,3.5,['delivery']
+2742,OQeY7ia1uyQV762e_FW_IQ,194,4.0,"['pickup', 'delivery']"
+2743,TDg96YXAynQr_vlrVeDKmA,32,3.0,"['pickup', 'delivery']"
+2744,jNnS6h3K5trtklVeRHmtaw,144,4.5,['delivery']
+2745,I9oC7Xu_BSq-cUAVhvTflQ,4,3.0,[]
+2746,t-NWvwhCxZdEh6qsf_PvUA,9,2.5,"['delivery', 'pickup']"
+2747,FAxvN8f4X2fgj_iQSZvqOw,36,2.5,[]
+2748,S39nQCh4C8uF1Sc7DqcEwg,79,4.0,"['pickup', 'delivery']"
+2749,f6ZSeMacTLZAQH9VgZr21Q,51,3.5,[]
+2750,jtaxAHI3QcdxMXppFc4YNQ,233,4.0,"['pickup', 'delivery']"
+2751,aHZK2mwQ-XzOGSGP3RfNzg,4,4.5,['delivery']
+2752,MN9V1e9PA-EPgvjD1zdoww,304,3.5,"['pickup', 'delivery']"
+2753,qsobth4EVs9ODvxZ_FjeoA,72,3.0,"['pickup', 'delivery']"
+2754,RpXw1Ak1JtbwGmlAZF0FVg,5,4.0,['delivery']
+2755,cas0GXLnlp_EGZl-hBpUVQ,29,3.5,['delivery']
+2756,T4CZfEo_GoNJOY4fl0J8fg,158,4.0,['delivery']
+2757,kzKdcVTeduxuJgdwh0tIcA,113,4.0,[]
+2758,ui3OtzTaxmb0ypUMiN-_2Q,7,2.0,['delivery']
+2759,pkqRlyZE_OXqgEuEI0VYkw,12,1.0,"['delivery', 'pickup']"
+2760,DSVYOT53edr84glgxVlagw,54,4.5,[]
+2761,I2Lr5zZXv18zEkQ5Z8TrUQ,58,3.5,[]
+2762,27U2z6vkGoFNUTkKSzcBfg,26,3.5,[]
+2763,8sWnWsL3I3J-npF-TNz9IA,100,3.5,['delivery']
+2764,VAd9FSX5JBdEGzM5KE6X7w,5,3.0,[]
+2765,Dt6Jay2U-EatPOMMxdV4vw,222,3.5,"['pickup', 'delivery']"
+2766,nHeTZQZRNieYkYQqRYvA4A,94,3.5,"['delivery', 'pickup']"
+2767,s4VaDNMC6IAregeZnEhr7g,84,3.5,[]
+2768,0f8gdkE9AL1F5ZuCXQrSDg,17,2.0,[]
+2769,3qqG7LaFLQ1K5X1Sqp5WWg,9,3.0,[]
+2770,Dt0Z8m1Dw5OgLbcrWntGwA,8,2.5,[]
+2771,mkHp2U1UnFSffda6RXh4FA,11,3.5,[]
+2772,eQv8xlSnztX1b1hrMrn2nw,46,3.5,['delivery']
+2773,AeniXz0b6wNc0ybyWf89tg,29,4.5,[]
+2774,U1UNZZg4hzp9CwK2EhuwtA,36,4.0,[]
+2775,G6Q_Da5i8zPNM42XOJTf6g,36,3.5,[]
+2776,qge4WPNB-dreII2ct7k0PA,20,4.0,[]
+2777,dFw5oC0KVZP_g4zn4mdVKw,34,4.0,[]
+2778,a517lBuBQtPZxCUaDOI1yA,42,4.0,['delivery']
+2779,yB3XrdiqRMrFPSJQ9Uy5Lg,62,4.0,[]
+2780,gSmVh_0Vv4Zs0lblRs9__A,380,4.0,['delivery']
+2781,_HIGMaFcNN5Wn1d0vVslRQ,8,4.5,[]
+2782,cMpyL-S61XdQRIsEElaYxQ,7,3.5,[]
+2783,KtT_TmP86dpNdeM_ItcxDQ,544,4.0,['delivery']
+2784,vWXOKB35tsoSFI3fxVswCg,32,2.0,['delivery']
+2785,psUkSt3Nlt1eRZ8m4QI5cg,40,4.0,"['pickup', 'delivery']"
+2786,hJhoUkkKiJ7aksWycXR48A,40,3.0,[]
+2787,CNpVd0dF9gs7X76suQ5mdA,6,3.0,"['pickup', 'delivery']"
+2788,2TcoPHvJeftYNYLzRsmb7w,54,4.0,"['delivery', 'pickup']"
+2789,LT7ZsZ6VHjgUtLfP0_hzOw,64,2.5,[]
+2790,ghYCYDQE1Q_y6XIs5Oy8RQ,21,3.0,['pickup']
+2791,3xqPnRt-Qw8rBRH9TK4s3g,42,3.5,['delivery']
+2792,EuW2eDN_x2CEkFAZc3qIpQ,72,3.5,"['pickup', 'delivery']"
+2793,_BX4aPxSnx1C7Ny0hqsd_w,36,3.0,[]
+2794,BB33j4KOssDMJ_70sCYxJw,34,3.5,[]
+2795,MA-Omg0tJ4jhDPvaRJMbow,15,3.0,"['pickup', 'delivery']"
+2796,7eeNSwZx3dj2gFPB8FGpQg,6,3.5,[]
+2797,WwGWYbvrbfGON1Odt9gHew,208,3.5,"['pickup', 'delivery']"
+2798,KlOH80lc6a0RwG7lQOLpVg,1,1.0,[]
+2799,0bjCSR6cuMuRmhKSiqVHkA,102,3.5,['delivery']
+2800,-CCFe1vBt4ekMR8lY18JJg,38,3.5,['delivery']
+2801,GOaUH8_-rPMq4qX8oJCs-Q,87,3.5,['pickup']
+2802,93L5Xzr7F7unLegZ5-Efow,55,3.5,['pickup']
+2803,JaIlfFCGtMcLNh8IHjoXQg,31,4.0,"['pickup', 'delivery']"
+2804,vH5LLLO1UMzbO2CmvmgAJg,2,5.0,[]
+2805,RO7cG3UYFOU0OrYk7cQSyw,205,3.5,['delivery']
+2806,iZ-YaNEHv298g2Lk-jfghQ,42,3.5,"['delivery', 'pickup']"
+2807,5LUSYETTXJviCSYB2vAklg,16,2.0,['delivery']
+2808,-_EzxfqemMuEwG9prTn0jQ,36,3.5,[]
+2809,c0Y2oWCP4WSlT2_6-N6joA,176,4.0,['pickup']
+2810,EmCI6w-EiYr9NLn4yxCkXA,23,3.0,[]
+2811,vDFWd04M2ObKCjm2tf6IJQ,144,3.0,"['pickup', 'delivery']"
+2812,3bcpmNI3Bt-sRAbVvzAXVQ,121,4.0,[]
+2813,AeYknKPK8Vu3oMkh9_ImyQ,41,3.5,"['pickup', 'delivery']"
+2814,W2suj1pTUp79iWy3hac6ag,274,3.5,"['delivery', 'pickup']"
+2815,Pcd36_XlxdrGMKuHA6OU7A,117,4.0,['delivery']
+2816,Ru21l_qihKiJmxenK_zvcw,117,3.0,"['pickup', 'delivery']"
+2817,-gFneJXADEWkRz-04u-IDA,20,2.5,['delivery']
+2818,yiBln9XaErpOmB5whxBAGw,84,4.0,[]
+2819,Vm3eljEdMR496sEJxPMZ0A,32,3.0,[]
+2820,KD2evfl_aY7msLvtxtlfjQ,36,4.0,"['pickup', 'delivery']"
+2821,d9pSFTJRwW7Dj7usS_fNSA,28,3.0,['delivery']
+2822,cWGqEXHHTmpZyDieA5_wPg,19,3.0,[]
+2823,npYh_dmUmvdzN7pVnrruQg,55,2.5,['delivery']
+2824,tsRaMA_MfVdQRTcgxH771Q,37,3.5,"['pickup', 'delivery']"
+2825,Hml5xl8Kq_BJUlZgEoqSlw,7,3.5,[]
+2826,YrzeSXkJiPon5RueMnEaUg,2,4.5,[]
+2827,C3160vCljgnXgJxFEzXBSw,4,3.5,[]
+2828,LNqhirEi4r6hFP-zZ4Ektw,55,3.5,[]
+2829,kUM3mUMVnsI-hhtgd4fXpg,20,3.5,"['pickup', 'delivery']"
+2830,tmbuyGI4njZ_yMIJ54tn5Q,14,3.0,['delivery']
+2831,exmnFLNgSYaj6PwyeheOYQ,3,3.5,[]
+2832,uynwg7d8Zy5kW43tWYN51Q,4,2.5,[]
+2833,-kv059jYBrs3yW9KWSxixw,45,3.0,"['delivery', 'pickup']"
+2834,MN9V1e9PA-EPgvjD1zdoww,304,3.5,"['pickup', 'delivery']"
+2835,qsobth4EVs9ODvxZ_FjeoA,72,3.0,"['pickup', 'delivery']"
+2836,V3_S3G6nVfkTm_WvxkWqfg,7,3.5,[]
+2837,uIf-39tMtcN2L8wzM8iQ4Q,102,4.0,"['pickup', 'delivery']"
+2838,KYe0A5PyPrZEhGa_jSpLUw,3,2.5,"['pickup', 'delivery']"
+2839,wEisEZAoUqxuL5Fa5U817A,414,4.0,['delivery']
+2840,o57npfkCIDBNJ6NtLc8eiQ,31,3.0,[]
+2841,8PSiPkvzjkR-5aupmtLEGw,50,3.5,['delivery']
+2842,BomcW8PKVdI3O2wIOpkEVw,173,4.5,"['delivery', 'pickup']"
+2843,W6_cODPQlrzt4CkuNJm6gg,10,3.5,[]
+2844,kvsyoCuZsG0tPOg6-GYVMQ,219,4.5,[]
+2845,32VIjM8w_zOjy9spBW8_4g,117,4.5,['delivery']
+2846,HXId7o_3PgxqhHR-VVZr0Q,98,4.0,['pickup']
+2847,8cY3Ru0wOYsjS6Xn_ccD3A,1,1.0,[]
+2848,zDCh5rXnPrEjCxsgKsqiQA,6,3.5,['pickup']
+2849,1hjazVsXqcNVyi8iNMLmyg,1066,4.5,"['delivery', 'pickup']"
+2850,D3Bb1p80CE8dkQx_rsXkhQ,122,4.0,"['delivery', 'pickup']"
+2851,AvfpvPhe_ieFNgGpz7W15w,69,3.0,[]
+2852,F4XtVowM8JHRpfj62xQi2A,47,4.0,"['pickup', 'delivery']"
+2853,_kbyTruhftFqndQ4-RI6WA,12,4.0,"['pickup', 'delivery']"
+2854,AvfpvPhe_ieFNgGpz7W15w,69,3.0,[]
+2855,8IiHIxeVnQ8OaEewlXGD2g,136,3.0,['delivery']
+2856,N0ESMHO4URtnaUiPADltyA,40,3.5,"['delivery', 'pickup']"
+2857,Q5qd11dJFUGrbULnrAOIAA,6,4.5,[]
+2858,vHhLVRf0puOgQxgjj8llow,6,4.0,[]
+2859,9vB7qpROWMh_mxJy7WUhPw,902,4.0,[]
+2860,KBkTQXeAnrJG-EMO6rFvyA,63,3.0,[]
+2861,HzOcMsLfVhrkyhuUg25wcA,33,3.5,"['delivery', 'pickup']"
+2862,-JBMqEmvh9Md3xvg0LqpGg,64,2.5,[]
+2863,ApazH33zV--VKCPjzewWtQ,205,4.0,['delivery']
+2864,1i6Fl2-_PmqQvhtdcaGXJQ,5,2.0,"['pickup', 'delivery']"
+2865,OGRbg94Zu0FNkAHoUOfJ9w,1,2.0,[]
+2866,Iep06NTz7SA9wlNxVu0e0g,12,2.5,['delivery']
+2867,NNkaoRhjlMiFnXtpVTJLJg,68,4.0,"['delivery', 'pickup']"
+2868,lX58QSm-sjPXGK_Kl3sa0w,77,3.5,"['delivery', 'pickup']"
+2869,B1qpUbfwBehLW0eWk9DymA,74,3.5,['delivery']
+2870,Sn2kC0jg3MvxQJAmLdTaPA,82,3.5,[]
+2871,95XadOpQmF7755dTZSBzWw,148,4.0,"['delivery', 'pickup']"
+2872,9QrZvEVV_eXBZ-2AuhZNuA,25,3.0,[]
+2873,MNJUvzCiM5Mmut4gyekd9A,213,4.0,['delivery']
+2874,JVKcc9BOQVTqIACRfO85PA,271,4.5,['delivery']
+2875,l4EActIcaLCRXaF4sZ9-OQ,152,2.5,"['delivery', 'pickup']"
+2876,uMqxjv4zDATL-p_QmsvUUQ,43,4.5,[]
+2877,NEhm2PjkabVT78AQ8pnY4Q,32,2.5,[]
+2878,LAn_MWoLmglu5x0EDLunOw,33,3.0,"['pickup', 'delivery']"
+2879,YSGirnGZiBGaSJuqdRnjfA,188,4.0,"['delivery', 'pickup']"
+2880,6HWp29hJthMPERxbkxvsJg,93,4.5,['delivery']
+2881,vqeOh_i10N0QEUkGZO8_2Q,256,4.0,[]
+2882,2cgW0WkydWsSpxzVYu2skw,228,4.5,['delivery']
+2883,PMV5-JXpGSAmlH7BoT8PIQ,93,3.5,"['pickup', 'delivery']"
+2884,ilZyZ9T--gjHOY7pxSVMtA,32,4.0,['delivery']
+2885,QGZ17YHvjkbaendoVJ3rvA,4,2.5,[]
+2886,FpjKp4UwonHPh9ZGsZ2ZeA,49,1.5,"['pickup', 'delivery']"
+2887,5v5iIWiAkUnXKDgbzmmwSA,21,3.5,['pickup']
+2888,1ZnvSW7M7V05uezLU_BHxQ,3,2.5,[]
+2889,vHI5__0c_kV94GndFj7R4w,84,4.0,[]
+2890,koVjozQKl-XjCoLYL5cNMw,207,4.0,"['restaurant_reservation', 'delivery']"
+2891,PCNmtbazpd1XW0TV8ZHZLA,236,4.5,"['delivery', 'pickup']"
+2892,K9piupl6Uq_8UfdGr5P0cg,11,4.0,[]
+2893,l8CGqBOyvFh8EbxFN_naEA,48,3.5,[]
+2894,Rate1w4AJk9d2vXOQucncg,70,3.5,"['pickup', 'delivery']"
+2895,MHy5FBzZ2yIfzuqUeuDVRg,40,3.0,"['pickup', 'delivery']"
+2896,TFAJLpC5oVJ_O-pDaW8cLQ,7,4.5,['delivery']
+2897,-BTTjpNYGzd9aK5N3IgVFA,29,3.0,['pickup']
+2898,A30Oz90gHcCR55b7_SqU7A,5,2.5,[]
+2899,khcvXcrDB5F2dVmlc9pC6Q,15,2.0,['delivery']
+2900,ZTpZtceyIvtuQQlC8_zfEA,1,1.0,[]
+2901,1XC-k2u8qoTrwlptoYbuJQ,261,4.0,[]
+2902,EfJRdKsoIWB3ol_i31m-Cw,19,3.5,[]
+2903,Lop8bFkd6_3RbtAU_Pbp-A,16,4.0,[]
+2904,zzwATW-ALd-iuSCm7oeGHQ,107,3.5,['pickup']
+2905,XKmHkhjuKmcLiccUKU8ZwQ,38,4.0,[]
+2906,zZewwzqUELnnq7ajrznQWg,193,3.5,"['pickup', 'delivery']"
+2907,UyYK7Jmy8bMu_Vx4qS-tng,110,3.0,['delivery']
+2908,EYUIMEzzpH-4RPnurCVeXg,281,2.5,['delivery']
+2909,ZkS5j_-w1KLEGeJ2OB1EKQ,24,3.5,['delivery']
+2910,18bSLu7cXJLp8051UL61Qw,27,3.5,['delivery']
+2911,pGUyyIIdwXBdpF4pYJLMLw,3,4.5,[]
+2912,95RKRydscSJypOdek1_KvQ,135,4.5,"['pickup', 'delivery']"
+2913,Ea8PvGQAWu9j7tUjEJkECg,148,3.5,['delivery']
+2914,13Wo4gQS6VrL2L1HLt2Z1g,127,3.0,"['pickup', 'delivery']"
+2915,11nsxzkhg5i6KakKvX_WOg,153,4.5,['delivery']
+2916,fqM5f7iwsGDU_PQFufNhcQ,22,3.0,[]
+2917,8YOeVWOntf_mgGOXgHXRSA,2,2.0,['delivery']
+2918,nQPUC1ezCxjTfhd760Qm8A,97,4.0,"['pickup', 'delivery']"
+2919,TN08XZ6mDg6tNeYRJPhfPg,12,4.5,[]
+2920,GS5T3XduNXmSBQAmnjJM-w,84,1.5,['delivery']
+2921,dAXNlPYITUEMecz6oGbqNA,39,4.5,"['delivery', 'pickup']"
+2922,Q__KntOrpATqKrn-Ou9UGw,138,4.0,"['pickup', 'delivery']"
+2923,dbfm6HeyouCYNJpQsCw4aw,288,3.0,['delivery']
+2924,QWIYrGoYvDWt8cgIca3Neg,228,4.0,['delivery']
+2925,JP0OU2KVZQSaMXCLS-wAsA,148,4.0,"['delivery', 'pickup']"
+2926,HV_EcIXoZ1gkljF4XWEw_g,22,1.5,['delivery']
+2927,K7jiPLbPdbDeQFNbnFoS3Q,26,1.5,['delivery']
+2928,kXCDENj-htCAJZfhn3mRXA,56,4.0,['pickup']
+2929,JVeQN6zNF_DfhOx1rTGbfg,89,3.5,"['delivery', 'pickup']"
+2930,6fuAOfYUjhbhX8y-zi-KxA,25,3.5,"['delivery', 'pickup']"
+2931,52bwJsY7oOf3gq_rpv7NRw,172,4.0,['delivery']
+2932,kvRPNnXRRVg0IN5DwTgPeg,15,2.5,['delivery']
+2933,8JkyD3dPce80DFc0_W5XAw,55,4.0,"['pickup', 'delivery']"
+2934,rTGSkWddXBaHJDtsmX2d3A,40,4.0,"['delivery', 'pickup']"
+2935,lFTivlfHtJvUgJT2RTQ6VA,59,2.0,"['pickup', 'delivery']"
+2936,fyTi5HoFR4L5gqqAOz2f8A,60,3.5,"['pickup', 'delivery']"
+2937,0SY6iDFH6UWpdiYvu8AoPQ,95,4.5,['delivery']
+2938,vr3S7GzfdWBUWffJrWZj6w,17,3.0,[]
+2939,0H2MhFpqhTXNBRQNVO6H7g,13,1.5,['delivery']
+2940,kLj-gezZKi1OgSFlL4fdWg,56,2.5,[]
+2941,AeniXz0b6wNc0ybyWf89tg,29,4.5,[]
+2942,U1UNZZg4hzp9CwK2EhuwtA,36,4.0,[]
+2943,G6Q_Da5i8zPNM42XOJTf6g,36,3.5,[]
+2944,Ny8ZqLaIvLiKFWHEDelOmw,40,4.5,[]
+2945,piziWIM_8i7tMannz-Ta-Q,27,3.5,['delivery']
+2946,2wOgx7K3lQPpjVfFYrZiRA,179,4.0,"['pickup', 'delivery']"
+2947,yBdO1Z5la3cPgJIFq6v5CQ,41,2.5,['delivery']
+2948,_y8RmQjO2cGUhLa1PTa9kw,19,2.0,['delivery']
+2949,he4Qd_4OuFmiPqm3EVp0aw,183,4.0,['delivery']
+2950,NIis8ziftYXWiOmFVxZJWQ,9,4.0,"['pickup', 'delivery']"
+2951,_EV61ym5-MfQau83iUzQng,269,4.0,['delivery']
+2952,tiPvJHuB-6uN4a9uHgEK1g,5,4.0,[]
+2953,KkHJsbij0f_ek5Oarjg2vQ,157,4.0,['delivery']
+2954,8ieiNCaoL-1QusPTzGaEkQ,54,4.5,"['delivery', 'pickup']"
+2955,UFN2Pqg9KKqBkUrgXYrzeg,2,5.0,[]
+2956,kA9gcu6eMt-uGoHfe_aFsw,7,2.5,['delivery']
+2957,CkRYoSgbQMsSinKEUxUctQ,2,1.0,[]
+2958,b-TogPBiTltegl79Kk1LBw,42,2.5,"['delivery', 'pickup']"
+2959,YCfyBK4TLptdI0zeUU4lig,393,4.0,"['delivery', 'pickup']"
+2960,B1qpUbfwBehLW0eWk9DymA,74,3.5,['delivery']
+2961,Sn2kC0jg3MvxQJAmLdTaPA,82,3.5,[]
+2962,BPnq7bCp0r4TF2o3BP9mYw,271,4.0,[]
+2963,4vYYJCkRGHBXxPmlYuvsmw,348,4.0,[]
+2964,q101I5Z60JSb6hTN2NYyHg,85,4.5,['delivery']
+2965,34I-jRnkvIfwjbsL4vyUyA,18,3.5,"['delivery', 'pickup']"
+2966,Sr4yckFP7PwLZugWMSB6IA,329,4.5,['delivery']
+2967,1FBcH-lRAn0CsfM28G1XbQ,19,4.0,[]
+2968,Hq76GlPYYA87g6DzEbR0Dg,83,1.5,['delivery']
+2969,npE62txGeZTLVlwMu30n-Q,276,4.5,['delivery']
+2970,DNzM5RjyGRDx4RfJiUJnMA,24,3.5,"['pickup', 'delivery']"
+2971,dVTnwDQv-983RKyeE1RxAg,223,4.5,"['delivery', 'pickup']"
+2972,Cd0k295sMpWT01tlA-BmcA,17,2.0,[]
+2973,MC5A7ICqUjwlmJP8oSIRiQ,291,4.5,['delivery']
+2974,FXeTm6HcAoCYaPcRc2S9Mg,177,3.5,"['pickup', 'delivery']"
+2975,IgXmRuLXQSuTO2t77rI1wg,33,4.0,['delivery']
+2976,HHhlxz30M4bwlSvN1Gb12Q,161,4.0,"['pickup', 'delivery']"
+2977,cKIvAKsGVOr9W-L-4bc3NA,32,3.0,"['delivery', 'pickup']"
+2978,INj_DYIAdFkkJtpa-DFm8Q,76,4.0,"['pickup', 'delivery']"
+2979,zPRnKg0H-3OeKfS75AnS1A,34,3.5,[]
+2980,RYJtXPn6kHa5R-SeQ8b5cg,29,4.0,[]
+2981,qY1MO6rOgE0hoSBdAJ8xoA,22,3.5,"['pickup', 'delivery']"
+2982,yyzM-PYBlUf1wuCwTTPpog,95,3.5,"['pickup', 'delivery']"
+2983,dM5ZQsQ4cFzTMcHshdDuRw,5,3.0,[]
+2984,3fLlHjNNFLzvs-snhktBMg,95,3.0,"['delivery', 'pickup']"
+2985,XiWNHoh8k_dsIb0pWrtvpw,231,4.5,['delivery']
+2986,muPnVMI9kbeJ1tlsL8Xomw,30,2.5,['delivery']
+2987,OzCL51ioOEFFNrWfA8DhZA,67,4.5,[]
+2988,ADYPzTsUSdzywGwuQbATqA,1036,4.5,['delivery']
+2989,aS-kPbTxO82GKjkN7o5CSQ,122,3.5,"['delivery', 'pickup']"
+2990,kWogAqutiFFHyyNBGjmdrA,117,3.5,"['delivery', 'pickup']"
+2991,c-Z7ZNEYCgZLPsE5JcKCbQ,25,2.0,"['pickup', 'delivery']"
+2992,0A3eFbhZ6xGCi8mG7s4gdQ,16,4.5,[]
+2993,BtZW6bHsenkbzzXzaorU1g,3,4.5,[]
+2994,t7ZBbn2m87g2bwGb_VVCdQ,3,2.5,['delivery']
+2995,WTGRnqmGEiWsZ3HXckRejw,160,4.5,"['delivery', 'pickup']"
+2996,SAs8NDGzDVBGPd_2ezhucA,50,3.5,"['delivery', 'pickup']"
+2997,_CatspOmJZ-B-4ffyyAy-Q,214,4.5,['delivery']
+2998,xI-gDJBd83yUKdXMZna0lw,162,4.0,['delivery']
+2999,_orYV1CkZdRgn7EEyRpo3A,1,3.0,[]
+3000,fPb2-l5DsGTTrwUWBVOG5g,37,3.0,"['pickup', 'delivery']"
+3001,c2Bfa3y0VKumU1KfvKdYfw,568,4.0,"['pickup', 'delivery']"
+3002,ZHJnsFwuqESp1oj4MVYLkg,28,3.0,['delivery']
+3003,0F3aDy5IAShI1fGWtiL77g,39,2.5,"['pickup', 'delivery']"
+3004,Lx57-7akwKyBsBSlK1C7Rw,34,3.5,"['pickup', 'delivery']"
+3005,XsaFUhIH2llB1col0Nzyog,29,3.5,[]
+3006,dIdDSpGpH1odqUZqQJZOTQ,99,4.5,['delivery']
+3007,mbNtzveCWEIH4uIS0O_hwg,1,5.0,[]
+3008,ujjqQs-W14IAWbw4-Pasqg,14,3.5,[]
+3009,Mu1luVn5x2xRz6JMeXWlnw,13,3.5,[]
+3010,dIhhqxWYQ52vTjlcXdgd2Q,219,4.0,['delivery']
+3011,trHh5E7rSv1XfJldPv0n7Q,27,5.0,"['pickup', 'delivery']"
+3012,FKw9j6xU1NlUJpz4kA2h5A,44,3.5,"['pickup', 'delivery']"
+3013,AE_OOW_4CgcwI--YccmHdg,235,4.0,['delivery']
+3014,SqUAatPHD3nFwhw2GE7eig,43,3.5,"['pickup', 'delivery']"
+3015,tAgWUplNfS3CtXzJVOmhGg,148,4.5,['delivery']
+3016,RJ94gUhCI2m1NjDQhV6JLw,127,4.0,['delivery']
+3017,w6XLaguaa3Zte_B0TYQrTg,24,2.5,"['delivery', 'pickup']"
+3018,taJIv-3okWm4HTsQWt22Ig,28,4.0,[]
+3019,a517lBuBQtPZxCUaDOI1yA,42,4.0,['delivery']
+3020,5Vgg5cJO2uqjur7Z7OucsA,187,4.0,"['delivery', 'pickup']"
+3021,6hXY9ONm8V9pECGbuCUZkA,23,1.5,"['pickup', 'delivery']"
+3022,dpVnDkbdZZusn6ZwmNQl7w,74,4.0,[]
+3023,pnDKbJWLx6JjAB55SOomuA,12,4.0,[]
+3024,-8X3PpqXkNjpebBbRNEhCw,26,3.5,"['pickup', 'delivery']"
+3025,m70fwMJ-mV3Tr6sjxitcwg,3,5.0,['delivery']
+3026,M7GA92FGfbJay5qgaP3BRg,62,3.0,"['pickup', 'delivery']"
+3027,7Mq4HkvVOSQDso-wxTX8uw,12,4.0,"['pickup', 'delivery']"
+3028,elKTR-zvpTBvb29MkKWT5g,26,3.5,"['delivery', 'pickup']"
+3029,_odIkOLKLkPzLq3hiXfLWg,270,3.5,['delivery']
+3030,VL2gG5fh3wJgn6iII9VkUw,17,3.0,[]
+3031,-pm7uIlNe_KdgJiqJ9J2ag,37,3.0,['delivery']
+3032,2VaR5fNJCXTsxOJTolHsjg,38,3.5,['delivery']
+3033,KEdYXUGf9cE459z72mf5YA,35,3.5,[]
+3034,OmaUVUJh8zJSCaXtUhD49Q,116,4.0,"['delivery', 'pickup']"
+3035,ftO48tOMLzXozhtfRg-cGQ,35,4.0,[]
+3036,wg0Y9pl1CQHuxpkxYykDUg,17,4.0,[]
+3037,REU21KPu5cqumGKdah-V1Q,26,2.0,['delivery']
+3038,0dAMRMnS_VjI09l7vEL1lA,99,4.5,['pickup']
+3039,piziWIM_8i7tMannz-Ta-Q,27,3.5,['delivery']
+3040,EqA2pktX0O2aqoJRGhmehQ,6,3.5,[]
+3041,Pi0q57QsREhSGUQPYIAd4w,20,3.5,[]
+3042,E7a5xBKIgw-1s7NUZgnO8g,9,3.5,['delivery']
+3043,WES-P-5GAHScpjlJzhJqPg,49,4.0,"['pickup', 'delivery']"
+3044,P22J84jZ-rYn2CBtZZSwHQ,188,4.5,[]
+3045,S9p21Ul9a9jT5uQywreQTg,73,4.5,['delivery']
+3046,5OTnP5XGnWyMlbKAa94DUA,9,3.0,[]
+3047,npz1yEsgl2lBqcuW9slBww,13,3.5,['delivery']
+3048,V7ckvaVNUta3A_3roHjmpg,83,4.0,[]
+3049,SbD95OiRHtGgxetT4btyqQ,66,3.0,"['pickup', 'delivery']"
+3050,gdz-UgMo-tFhWXqWz-3TpQ,87,4.5,"['delivery', 'pickup']"
+3051,8JkyD3dPce80DFc0_W5XAw,55,4.0,"['delivery', 'pickup']"
+3052,lQprloNRZoTZDOZ5TpQA5g,67,4.0,['delivery']
+3053,QKqc6d6t0V5hb6A7xH_IJQ,22,2.5,['delivery']
+3054,YbjTGa1KoO_mbhZAg4u3rg,126,4.0,"['pickup', 'delivery']"
+3055,3c9PUCvux3SzWzpHcjP1sA,131,4.5,"['pickup', 'delivery']"
+3056,Bdj2vhUP7m7N-6uMDg2yDQ,67,3.5,[]
+3057,VF6bXP8r1Nlae3q8-BzSfA,100,3.5,[]
+3058,EZnxLGytd0uWsBV_-cYYlQ,3,2.0,[]
+3059,mNHtLwc_wRCPl3PIpdS5aQ,132,4.0,['delivery']
+3060,lU9ZoRnioTLhinnO0-e2Pw,42,1.0,['delivery']
+3061,dm8f3BFByr6K9UMqWriASA,42,3.0,['delivery']
+3062,o9Qe0epl4L4ugK9k8EpKgQ,274,2.5,[]
+3063,OaiwVghIhlexfkey0hGmcQ,19,2.0,['delivery']
+3064,HXw4tuBurW1Ul6XOORrT3w,81,3.5,"['pickup', 'delivery']"
+3065,IDP6HOKH9dk6GcgwJHWl9g,97,3.5,['delivery']
+3066,XkSgYdRXcDXLpVKqz2ha9g,13,2.5,[]
+3067,TdmKVw_ViOK6xdBOkJTntg,21,1.5,['delivery']
+3068,Ru8_HpWFkOLUQvDSGOxNFw,103,4.0,"['delivery', 'pickup']"
+3069,yeEsZCQjsl_fb18uUnKryQ,28,4.5,[]
+3070,iT2ZFhGMJonkvY1Shgr9NA,42,4.0,['delivery']
+3071,OavIdYWbsjFI1IE9wewJtQ,2,3.5,[]
+3072,f2BSKk1Vf--47JnEuRAQTQ,57,3.5,"['delivery', 'pickup']"
+3073,-QI1YOBGD5RVgklv0eDWTg,99,3.5,"['pickup', 'delivery']"
+3074,qcrKwI5tiYK0baVTqwpmyg,21,3.0,['delivery']
+3075,m7icy0KTK4VvMhItAMU6jA,52,4.0,['delivery']
+3076,u-x1M8edson9mqnSeC0Ksw,38,4.5,"['delivery', 'pickup']"
+3077,bRibIF0j7gdngaX-gb-4kg,2,1.0,[]
+3078,mBXMz_EPWDeyhifnxu8OAg,86,1.5,['delivery']
+3079,EH-OP9usDpvaiteav3F-Cg,21,3.5,[]
+3080,Hr9f_cgQAEWr6lxzKwrSJg,71,4.5,"['pickup', 'delivery']"
+3081,ro5Tg7CCS8o-i7A6b0CVdQ,106,3.5,[]
+3082,QQyxsRVLW9SaJ86ry-JMgg,138,3.0,['delivery']
+3083,MKnj1IU9PKrad-aHb1JkXQ,66,3.5,"['delivery', 'pickup']"
+3084,xrhet2jpWESz_f2dTbEJpA,135,3.5,['delivery']
+3085,SjpKnniYeACoNeHSaKeJ1Q,5,4.0,['delivery']
+3086,WWrNLp3p5SzSbcWsFI45Ug,145,4.5,"['pickup', 'delivery']"
+3087,48CuryeqvIfBGsE_CEBVCw,210,3.5,[]
+3088,8aLINm9h4oab3wIPdKqEfw,23,4.5,['delivery']
+3089,Mxo_dSXtPJDqbJ6XztseTw,147,2.5,"['delivery', 'pickup']"
+3090,awQfB07FtW9T3ZIen4gNgw,218,3.0,"['delivery', 'pickup']"
+3091,AJGAixd7YLArQXmSly0qDw,18,2.5,['delivery']
+3092,ZLj0S5C347d8TQ2ebIfBLQ,144,4.5,"['delivery', 'pickup']"
+3093,caspdUylHgHXf3mEVOaBDA,7,4.5,[]
+3094,ZE04fTfpflEL1GHHZpmleQ,166,4.0,"['delivery', 'pickup']"
+3095,uhDX2IY3uGNgFnEP462Y2g,12,3.5,"['delivery', 'pickup']"
+3096,64fD60zBYjFuDELSeOI30Q,125,4.5,['delivery']
+3097,hTp9bklQDyp9mExikMYkcA,69,3.0,[]
+3098,y5fuCNwOmpQfMZYlpsIsKw,78,3.5,"['delivery', 'pickup']"
+3099,6lFkk-Q0vZJrigwPzyMWbw,55,1.5,['delivery']
+3100,AUWChBIm_Qp71jUjhXsQ7Q,4,3.5,[]
+3101,orMjKb0py21lk9_5tz6Asw,233,4.0,['delivery']
+3102,8JkyD3dPce80DFc0_W5XAw,55,4.0,"['delivery', 'pickup']"
+3103,51WraWKsBsjq3juIUtqJDQ,20,2.0,['delivery']
+3104,sgwKhciPULi2FBd_zAbYmg,59,3.5,"['pickup', 'delivery']"
+3105,-are9IyV0x6OIX9-UBq5TQ,33,4.0,['delivery']
+3106,134gr4cxHe2gPZX1nBkoNw,121,4.0,"['pickup', 'delivery']"
+3107,JG30eHEEBhri9TJHcr79tw,53,4.5,['delivery']
+3108,6Kk047pTbk5s8cbEfT_WZQ,13,4.0,[]
+3109,F0rQyd9RvNzX52OLFivK0g,76,3.5,"['pickup', 'delivery']"
+3110,XlQXrSdGoLYUay2rPamAIA,22,4.5,[]
+3111,5r7N7NxdBMejq8xnnBVzyA,120,4.0,['delivery']
+3112,FYGeB7SxDaDRjz2WRkx9gw,40,3.5,"['pickup', 'delivery']"
+3113,FhiDP_4Vf5tfVe0zH-Qz8w,10,3.5,[]
+3114,yKezt16xGSGg3dZYbqG2uw,1,1.0,[]
+3115,EuW2eDN_x2CEkFAZc3qIpQ,72,3.5,"['pickup', 'delivery']"
+3116,HkAiUjAhkq774UzHXFgwoA,138,4.0,"['pickup', 'delivery']"
+3117,LPA9u8c1IETmOVUuxIiDXA,84,3.5,"['pickup', 'delivery']"
+3118,34pHN3bBTMRDOL4QdvUwBw,60,4.5,['delivery']
+3119,u1SYTkN93NJdMk1tkmQQ8A,76,5.0,['delivery']
+3120,jA_SVToY-Ky8324F70OKQg,197,3.0,[]
+3121,6s9-9b9a0I3hHcNeyug-Hg,68,3.0,"['delivery', 'pickup']"
+3122,et_nCkqad4F-KjNO6L9eug,67,3.5,['delivery']
+3123,voOILw4KvdEyyE2R4Fjmeg,54,3.0,[]
+3124,b_BPNlQdKvB731Dv-sIrNA,70,4.0,"['pickup', 'delivery']"
+3125,et_nCkqad4F-KjNO6L9eug,67,3.5,['delivery']
+3126,voOILw4KvdEyyE2R4Fjmeg,54,3.0,[]
+3127,et_nCkqad4F-KjNO6L9eug,67,3.5,['delivery']
+3128,voOILw4KvdEyyE2R4Fjmeg,54,3.0,[]
+3129,2p-tBAcUyO2G0DEuvMez0A,147,3.0,"['pickup', 'delivery']"
+3130,4Ld4jd0ePSNV8VgB5tKbbg,83,3.5,['delivery']
+3131,ItsjA9Trpvmif-QWWmtWzw,69,4.0,"['pickup', 'delivery']"
+3132,Ox9FEYNHo_nvxicXcj9kzw,119,3.0,"['delivery', 'pickup']"
+3133,3qT48T6cz8FEeNX18_dJ0w,16,3.5,[]
+3134,ZvLztB4iBUxlF4N11Zu_QQ,61,3.0,['delivery']
+3135,ume_diLn-OEd_DeHlMGBsQ,25,4.0,[]
+3136,n6ScDVahSyY1kxGT_cLhZA,35,4.5,['delivery']
+3137,ZIZhs6Sd3hRyHBX7dTae0g,119,4.0,['delivery']
+3138,52bwJsY7oOf3gq_rpv7NRw,172,4.0,['delivery']
+3139,Yw_n7h3mwjwyUGKjoQEAvQ,370,2.5,['delivery']
+3140,yHS7wMJhW3bZsaFQOhSmeA,60,3.0,['pickup']
+3141,XYoQu4XHi5AXduc4OwkFGA,399,4.0,"['delivery', 'pickup']"
+3142,IKjKPHIXvHvDzk_MNgoJBQ,40,2.5,"['delivery', 'pickup']"
+3143,CF_uTbpLs6kBEOzvQquwCQ,24,3.5,"['pickup', 'delivery']"
+3144,r4lJEp40iyBZrTmUWqvIRg,121,4.0,"['delivery', 'pickup']"
+3145,X-mrYfQGAALmAtTGs8I--w,65,4.0,"['pickup', 'delivery']"
+3146,E1aQatrOC1S8AeUTZw9_Dw,85,4.5,['delivery']
+3147,kiIbdtsMfWVJ8XlX43v4wA,348,4.0,['delivery']
+3148,-wjmw8_dhDawou8FpXc78A,213,4.0,"['delivery', 'pickup']"
+3149,m172wiuIjprZEiWZ-XR1UQ,318,3.0,['delivery']
+3150,AjoDJPOhtNIy46gnmffiZg,51,4.0,"['pickup', 'delivery']"
+3151,2YvumjZegZzlmHrhljnL6g,53,3.5,[]
+3152,3wpWCOpkn8NVKUosv0jX6A,122,4.5,['delivery']
+3153,PARORr2yT9vuYSUazNFQaw,48,3.5,[]
+3154,6nsTsZeKqfvirYyoaaqftg,141,4.0,[]
+3155,1Zkz2knIObhMrUVlzDvbKw,325,4.0,['delivery']
+3156,AyQwwzj7rHlrRHhFcvExuQ,24,4.0,[]
+3157,KBkTQXeAnrJG-EMO6rFvyA,63,3.0,[]
+3158,PjMUcALoFbFsQSLiHQO8qg,12,4.0,"['delivery', 'pickup']"
+3159,Yi7o4fN4YxdU6tipIMj8_w,17,4.0,[]
+3160,U6hKb1t4YNrYoOMrxtOIaA,181,4.0,"['delivery', 'pickup']"
+3161,pSotegFbUVBKODrASdqc5A,369,3.5,"['pickup', 'delivery']"
+3162,6okMXzzQrYM4DUjd4VMXHw,141,3.5,"['pickup', 'delivery']"
+3163,3ehuvvyVzzfzS1Ap9zmzAg,29,4.0,['delivery']
+3164,uDo04lOcFefE-lqkFI-OjA,172,3.0,"['delivery', 'pickup']"
+3165,5v5iIWiAkUnXKDgbzmmwSA,21,3.5,['pickup']
+3166,1ZnvSW7M7V05uezLU_BHxQ,3,2.5,[]
+3167,XEBBJmyO4NGv-JzDeaH5Dw,194,3.5,"['delivery', 'pickup']"
+3168,nQPUC1ezCxjTfhd760Qm8A,97,4.0,"['pickup', 'delivery']"
+3169,TN08XZ6mDg6tNeYRJPhfPg,12,4.5,[]
+3170,NVtyJdKev6l00YTnco2Meg,4,2.5,['delivery']
+3171,ATr5rLX458GecFbq9lb1EA,43,2.5,[]
+3172,-V6OEtCRXyyW37CQJsHIxA,50,4.0,['delivery']
+3173,cZTbebmFXbTNYlCfzOSK4g,12,3.5,"['pickup', 'delivery']"
+3174,gAVZ1krEC_382dIQX9jJqg,70,3.0,"['pickup', 'delivery']"
+3175,GkRVrFwkmWk2pwz-j-115w,39,4.5,['delivery']
+3176,U-z3A-MpN_4GT4LUElYZPA,23,2.0,['delivery']
+3177,um6HiQ57uONVKSrYJGR7yg,322,3.5,['delivery']
+3178,9iYw2RGVxaKl7W7eU0VgiA,116,3.5,['delivery']
+3179,GaJPB1Sl0NJkJV2Z22hVLQ,78,4.5,"['pickup', 'delivery']"
+3180,0Xa6XEX4TS6ycwxDI9NIcA,83,3.5,[]
+3181,w7ql1vBtPX5gXWGdww1VOA,49,2.5,[]
+3182,7hsfxIW7FDp1yIjJnYUDmQ,60,4.0,"['pickup', 'delivery']"
+3183,kPnoKkx0-TZBc4QgNKoNGA,120,4.0,"['pickup', 'delivery']"
+3184,cgkOkYyrA7NPUe_FlNG81w,117,4.5,"['delivery', 'pickup']"
+3185,1XC-k2u8qoTrwlptoYbuJQ,261,4.0,[]
+3186,gOP_Cy1kCV16huk2A_dvtg,199,4.0,"['delivery', 'pickup']"
+3187,5UcmGp5CflaVTUKZdp6HCA,15,3.0,['delivery']
+3188,VhXq6XZC9ORFqYJK17cNpQ,8,4.0,"['pickup', 'delivery']"
+3189,AFZEIF2snOsS57oW-1kHBA,10,4.0,"['pickup', 'delivery']"
+3190,gA66lEzWImESi0iI0U5gjQ,38,4.0,[]
+3191,wHNkx45v0Xa4I9xa96OsQw,1,1.0,['delivery']
+3192,3i_XUDrhiCiUI9EIkjQNvQ,68,3.5,"['pickup', 'delivery']"
+3193,I3y357PfB2MCEfn3WGicLw,95,3.5,['delivery']
+3194,JjW1_g1PR3L9ru8XFwsxLg,60,1.5,['delivery']
+3195,QsGjaKRduireWDrjJRADOA,15,3.5,[]
+3196,-cYftPutLvRAVTxcqfG6jA,8,1.5,['delivery']
+3197,9kh1aXyYxHLaS0jMUQkSxg,68,2.0,['delivery']
+3198,VqMpeCrd5jEPbx84cvr1tw,34,1.5,['delivery']
+3199,OhiOxY0GaAejUXMiYqa8EQ,11,4.0,[]
+3200,t5ATpEpVcB_xbPOsnogRBQ,112,4.5,"['delivery', 'pickup']"
+3201,kwYYV0NdzLwXo8lhWKUMNw,124,4.0,['delivery']
+3202,-VUCSdsS5O9h2CaW-9_n9A,12,4.5,[]
+3203,wCALKHMaj_2pkRka7bxwyA,57,4.0,['delivery']
+3204,PoO6BVwVQDSi-Ah_ZTOmOA,26,3.0,[]
+3205,if-wPaAdy_jGpjBA5Y0jUQ,51,3.0,[]
+3206,3wLr3c6KxRTb1P11_Bvj3A,169,4.0,"['pickup', 'delivery']"
+3207,lb9DmByk7JD4QG2lCIXdkQ,6,4.0,['delivery']
+3208,iFT-giDU7hXx0IXBTAmnog,37,3.5,"['pickup', 'delivery']"
+3209,3HJKIBAD-xpzlIcKdYfI7A,321,4.0,['delivery']
+3210,J9pfc1Pw4LrDj35HkkiYQQ,59,4.5,['delivery']
+3211,Lv1VSURu9Sh59h8FglPlUg,112,4.5,"['pickup', 'delivery']"
+3212,G_0oXqSp5ihGOuH8qV-F6g,30,2.5,[]
+3213,ptair9QNEv2sWHMWsnn-9w,3,2.5,"['delivery', 'pickup']"
+3214,wZLk-9mH7hMvgnBpkBhn6A,67,4.5,"['pickup', 'delivery']"
+3215,L9Zkk2_ChWoUg7hT6xVRmw,141,2.5,[]
+3216,acdP0_uUuuZsJcuKVs0ElA,277,4.5,['delivery']
+3217,X1Le8pNrHevyJcw0ptoBmA,80,4.0,['delivery']
+3218,FBodSXIvfh_WbrXQ0vzBxg,446,4.0,['delivery']
+3219,V1ZtduwpRw_f_qocRBD_NQ,20,4.5,"['delivery', 'pickup']"
+3220,0SY6iDFH6UWpdiYvu8AoPQ,95,4.5,['delivery']
+3221,vr3S7GzfdWBUWffJrWZj6w,17,3.0,[]
+3222,NqjCYVtUwfKyDanVZGfF8w,9,3.5,['delivery']
+3223,bD5pY2_d7lSWoxxNVcYHoQ,61,4.0,['delivery']
+3224,2JrWu9UuY6muZ0il1aHCDA,108,4.0,"['pickup', 'delivery']"
+3225,Hq3SK00bFwKa3OVQbXPGrg,521,4.0,[]
+3226,GS3z95SsRQmwv-OhGOTdvQ,13,3.0,"['delivery', 'pickup']"
+3227,jTqBxFsa-w2i_Y813X_QkQ,3,2.5,[]
+3228,bkVsViZHXfMuuYk_z9SG8g,89,4.5,"['delivery', 'pickup']"
+3229,fncOSrA-yMgoyK_EuLPswA,13,4.5,['delivery']
+3230,HH-pDFQ2zbUX1-a_TuQyOg,51,4.0,['delivery']
+3231,AW_IFBG-6crgbCQGkQg61Q,26,3.5,[]
+3232,8JPLQDiTrRQxzirtomuxTw,63,3.0,"['pickup', 'delivery']"
+3233,mNdeP_EXyM0yj_NvqF3EuA,39,3.5,[]
+3234,RlJrPMuSeSmMXz6bo1j1tA,1,1.0,['delivery']
+3235,2725Aunqqz_l59Kkx3pI2w,12,4.5,['delivery']
+3236,Uq8rO7NRcJYUMAA5qz4jmw,19,4.5,['delivery']
+3237,39GSkFbmWXAukpy9eDqPow,74,3.5,"['pickup', 'delivery']"
+3238,mgWr1qik6HpC8OIyHNXV8w,129,2.5,"['delivery', 'pickup']"
+3239,zZIe73_RTUKqoZJmZnkZBw,89,4.0,['delivery']
+3240,Wm9_qUMC8SRsNGDyEKWv1w,4,2.5,[]
+3241,L_kccaHSRAayKgvzoFe68w,20,2.5,['delivery']
+3242,OZBM5chO0aMeW_Oot2ScOQ,7,3.5,"['pickup', 'delivery']"
+3243,GXT6RK76TnZUvrms65KhSw,42,3.5,"['delivery', 'pickup']"
+3244,Rtwvn-nA3FJewm6V5Aksag,250,3.5,['pickup']
+3245,X5Ajzhq6rW3BO5UgiBLQ6g,28,1.5,['delivery']
+3246,GJhrbUZzhHPYgj6rdieyCw,27,2.5,['delivery']
+3247,9hfkRf5QnchRLMiM19ISTA,11,2.0,['delivery']
+3248,qKkjEy9a245si2GHzZU_0w,21,2.5,['delivery']
+3249,80CV528LecTcEH_xqoue3w,165,4.0,['pickup']
+3250,lE0JCHzeLGu1FxeUcN9ouQ,7,5.0,[]
+3251,zJW3JeYAcC5bEzF70HdmAw,177,4.0,"['delivery', 'pickup']"
+3252,GWHogMdwJZPOk1M3dlkCSQ,16,3.5,['delivery']
+3253,OkZD9ErW5RA2csiKvSRlUA,31,4.0,['delivery']
+3254,yBdO1Z5la3cPgJIFq6v5CQ,41,2.5,['delivery']
+3255,eG8mLFHm6BQ9GHsemO-ShQ,179,4.0,['delivery']
+3256,9fLySerNU9o0myZAsS8vcg,7,3.0,[]
+3257,DTR6CCqJr6y2R-kmvHmwLw,23,3.5,[]
+3258,mAQkrqMiESuCwKfockTX6Q,3,4.5,[]
+3259,gj0IZUpDoj_8T49DepwMEQ,63,3.5,"['pickup', 'delivery']"
+3260,1KWOmardZCn7DmisR1-BEg,55,2.0,"['delivery', 'pickup']"
+3261,RpXw1Ak1JtbwGmlAZF0FVg,5,4.0,['delivery']
+3262,cas0GXLnlp_EGZl-hBpUVQ,29,3.5,['delivery']
+3263,1iX5cYXsq7ucYbVUf33UIQ,18,3.0,[]
+3264,9dvDgcQicyE03oinXUs4qg,230,3.0,['delivery']
+3265,GgWc0dc6NA8m85UhqENolw,7,3.5,['delivery']
+3266,bsUKk2vw1al5YuL2pdK95Q,14,2.0,['delivery']
+3267,57aSIZyWaBgt2wnLcV2gEQ,17,3.0,['delivery']
+3268,iv5VKo-ESlZPoHAR4P7OEA,120,3.5,"['delivery', 'pickup']"
+3269,tAbCC_nDpXI896NdrVSrFg,48,3.5,[]
+3270,zWMelISUz8TNGMo5uqAk2g,128,3.5,"['delivery', 'pickup']"
+3271,WjZR1m243ab39A0w6M8wVQ,61,3.5,['delivery']
+3272,Fj7W2jo9FW8QZx5rsm76hg,42,2.5,['delivery']
+3273,4eT9FTSE3xqbg_4rm8NmAw,2,1.0,['delivery']
+3274,BZCBljbq3nswVa0VqG3TVg,2,2.0,['delivery']
+3275,1TrvjaxETYeAHy1sigcjdw,143,3.5,['delivery']
+3276,eayuR4E7xI9ETM0G_wX3IA,114,3.5,"['delivery', 'pickup']"
+3277,h2OpdsWHHZIZ8o-_HUUJgA,3,1.5,[]
+3278,c6MLrlY8K6hRC5KI7HXLlg,260,4.0,[]
+3279,HwY6Q2e5uaCh8ATivLPwoA,57,4.0,"['delivery', 'pickup']"
+3280,0l9xxvtUzIQY4fp9O3SsaA,2,5.0,[]
+3281,aP18O6gxQifNlN-x_0fGhA,8,2.0,[]
+3282,S29Z2VMQulRqZbz88YdoUg,115,4.5,['delivery']
+3283,GqDLfgbVGE-OLM7YR16kQQ,78,3.5,"['pickup', 'delivery']"
+3284,xWoXEGe2eB5r9QviESNelQ,40,1.5,['delivery']
+3285,Q3VA2MPkAGq7wJUXpFeqBA,6,4.5,[]
+3286,BspmSqE_HWJqNNXlQVzCgA,24,3.5,['delivery']
+3287,_JY9UZ0tj9yhoB8qalOhqg,13,1.0,[]
+3288,PrledvOPzA9hgHcHUNFygQ,285,4.0,"['pickup', 'delivery']"
+3289,hI6Ftj13vXOSxby57DAMAw,668,4.5,"['delivery', 'pickup']"
+3290,GvCBXaEy2EU79t4saCC3Xg,25,2.0,"['delivery', 'pickup']"
+3291,eicXReLr42E6DRg0Pnwcmw,19,3.0,"['delivery', 'pickup']"
+3292,btFzrSHk8GiuaHMqeqJUDQ,61,4.5,"['pickup', 'delivery']"
+3293,VMohmP7DvBOBUXijqZI12A,71,3.0,[]
+3294,Iy0D0jTOVlRCYoaoylREMA,2,2.5,[]
+3295,reLyWvb-mZ09OXRVoymIDw,9,1.5,"['delivery', 'pickup']"
+3296,J6g1GlWi-_h3HZUsihGaIA,26,3.5,[]
+3297,wTVWZjLF3CuQ35l0wxCUBw,165,4.0,"['pickup', 'delivery']"
+3298,7Pz8qq0WELqu_z1D0ZJVzA,128,4.5,"['pickup', 'delivery']"
+3299,xVmebDzu3wQrckyEZtTU4w,70,4.0,"['delivery', 'pickup']"
+3300,sXO4qjcODVl7g89gLbuvzQ,52,2.0,['delivery']
+3301,AUWChBIm_Qp71jUjhXsQ7Q,4,3.5,[]
+3302,ufuBJ-3Rr63eZwO5Agfw8w,53,3.5,"['delivery', 'pickup']"
+3303,Paz7Ws5E1am2pJGkjPIcWw,155,3.5,"['pickup', 'delivery']"
+3304,5eX2RyBhrPNlRF45gqhvUg,81,3.0,"['pickup', 'delivery']"
+3305,AlTMvRyOd1n5yBvX7PqiuA,34,1.5,['delivery']
+3306,LMktzX_BJAF9P4GYNJcDMg,37,5.0,[]
+3307,_bYrR_sGfy32O1B7FWRqtA,19,2.0,['delivery']
+3308,rT-qZEI3aQptlb3sGqdCFQ,85,3.5,"['delivery', 'pickup']"
+3309,mjnSujrd9eXdBLWzoF46AQ,35,4.0,"['pickup', 'delivery']"
+3310,5zT-MK5LQQSngRz5oxBQgA,244,3.5,"['pickup', 'delivery']"
+3311,zCw7EtpaezyqU58_cNBM_g,178,4.0,"['pickup', 'delivery']"
+3312,UT0JtuvoULyb0uirweRhfg,114,4.5,"['pickup', 'delivery']"
+3313,b-kx_A4CpJRFyQezD7K8KQ,6,4.0,"['pickup', 'delivery']"
+3314,S67ZcdDRs9uiTHG3EEwnZw,27,3.0,[]
+3315,sNjAj_bsxKpDGSSvnQD1FQ,2,3.0,['delivery']
+3316,BO5s86li2TUDN14-3dnvTQ,1,5.0,[]
+3317,XqrsQs-HuZBE0YrXGFI0Hg,181,4.0,[]
+3318,5oKsZZgC-YjKhWAktEty3Q,28,1.5,"['delivery', 'pickup']"
+3319,OSyMG-dFBIjAL-h9SNuj2g,153,2.5,['delivery']
+3320,-Qi2yO0KAxyfMFSxkaKaKw,118,3.5,"['delivery', 'pickup']"
+3321,M2tsnxFL_3qVWaslfe9SaA,63,3.5,"['delivery', 'pickup']"
+3322,zEK1RzEj2iWJ1uc33Un9iQ,267,4.0,"['delivery', 'pickup']"
+3323,UBUQAavRPBAuRCERF-RXHA,8,3.0,['delivery']
+3324,Lb-tv-6sd0qBNLH-NfbuLw,20,3.5,"['delivery', 'pickup']"
+3325,vjYX-ueflnCKPfShEUmXWg,69,3.0,[]
+3326,1U-s6JwpKJKQRwrevj64zA,15,1.5,['delivery']
+3327,BAlcRNAcSHB6Bpr5wC4HIw,35,1.5,['delivery']
+3328,ui3VIO3tiIbGf8cNplALIA,233,4.0,['delivery']
+3329,hNnGL7kIQ6BEstc3NHvnLw,14,3.0,"['pickup', 'delivery']"
+3330,_HIGMaFcNN5Wn1d0vVslRQ,8,4.5,[]
+3331,cMpyL-S61XdQRIsEElaYxQ,7,3.5,[]
+3332,SQIuTeKggn8A863zEml6Vg,35,4.0,[]
+3333,MxQExh4UY9uuY6yxcHZiYg,29,2.5,['delivery']
+3334,o43oQtnTh1T5EnEJ9pZ67A,59,3.5,"['pickup', 'delivery']"
+3335,ttoqH0Z1ulHyaCvHIar03A,78,3.5,['delivery']
+3336,H825KzFijj2LVM1R7DTxiA,2,4.0,"['pickup', 'delivery']"
+3337,iOnb41g2ZW7nON7vcVSAaw,156,3.5,"['pickup', 'delivery']"
+3338,rkGJVzi0lKSzAQNS7DnwkQ,118,4.5,"['pickup', 'delivery']"
+3339,Qr2500TjlZEer-6COOe-gQ,31,1.5,['delivery']
+3340,xYLXkw5bYBAfmD4PmTd8Aw,65,4.5,"['delivery', 'pickup']"
+3341,EmJ7LlRhM5DF1YTLgYMSVg,1,5.0,['delivery']
+3342,aLW70uDz_U8zCGox36ZhHA,109,4.0,"['pickup', 'delivery']"
+3343,H1GWzf69Acfp_Og65Y6iNg,50,4.5,"['pickup', 'delivery']"
+3344,WLBiYZvlauzWk5-ll8BmHg,5,2.0,[]
+3345,9ltp38ArAkwwTDk-hqLIDA,210,4.5,"['restaurant_reservation', 'delivery', 'pickup']"
+3346,LAk73UAnoCOSyKqTDGXx1A,31,2.5,"['pickup', 'delivery']"
+3347,OjkClZjXwQwk3N2Se_vI8A,6,4.5,['delivery']
+3348,2iq8qMbbnJJF3o1TWArjIQ,1,1.0,"['delivery', 'pickup']"
+3349,O0SgSyqGkyheuBc_0MqOqQ,41,2.0,['delivery']
+3350,D91aWNBylyCuAxSz4q797w,163,4.5,['delivery']
+3351,ki18kzRvOCpw8tLiQClArg,197,3.0,"['delivery', 'pickup']"
+3352,eVTJ8fGxWYPmctJRxKmPvA,29,4.5,['delivery']
+3353,ns3T6ZxFu2ehbyiADOBotQ,1,1.0,"['pickup', 'delivery']"
+3354,w2fBQarL08QWQtc4xNHGZA,56,1.5,"['delivery', 'pickup']"
+3355,VceSibq4RcxAO53pyq84sQ,73,2.0,"['delivery', 'pickup']"
+3356,GVKMRxE8IFKEi3MzTzRdwg,34,4.0,[]
+3357,CJgvS1tfxXbZR2qnGYnJmQ,287,4.5,['delivery']
+3358,y-Sd7B1RxyOMDov-8_9OUQ,8,4.0,[]
+3359,00ApuA-p1wF12-Upql3v5Q,22,3.0,[]
+3360,wo9-qDJSSGRqt-fEDF7EOA,114,3.5,"['delivery', 'pickup']"
+3361,1TKqAVsUqVe6b5r9RK6SxQ,74,2.5,"['delivery', 'pickup']"
+3362,tK5CnIQWqr2Mb4GcgSn4UA,3,2.5,[]
+3363,et_nCkqad4F-KjNO6L9eug,67,3.5,['delivery']
+3364,voOILw4KvdEyyE2R4Fjmeg,54,3.0,[]
+3365,RS135IVkYbKFGWrDhOYTRQ,48,4.5,"['delivery', 'pickup']"
+3366,x8RuZqFMoXG36gtUwECuMQ,61,3.5,['delivery']
+3367,cZTbebmFXbTNYlCfzOSK4g,12,3.5,"['delivery', 'pickup']"
+3368,gAVZ1krEC_382dIQX9jJqg,70,3.0,"['delivery', 'pickup']"
+3369,y586bW7jMNXzKyWwQmbsOQ,19,4.0,"['pickup', 'delivery']"
+3370,iXR45_Z7NQ-BjDLiBtypxQ,22,2.0,"['pickup', 'delivery']"
+3371,tUAC5OGmN6brmc1UikKCJQ,77,3.0,[]
+3372,dJ_sGfnJ7mV9yxXEi9vxzw,75,4.0,"['delivery', 'pickup']"
+3373,57v8o9wNTZXqhpkaIOrkEg,100,2.0,"['delivery', 'pickup']"
+3374,gwldkidI7FNjXLInxBPSdQ,97,3.5,['delivery']
+3375,Gh1WQAo3CbFkj6TuJ_LuhA,26,3.0,"['pickup', 'delivery']"
+3376,quBJfpwoz5Jzn4ztAvZ0lQ,104,3.5,['pickup']
+3377,5fDhL9MDxl61O4uVQzJ0rw,28,3.0,"['delivery', 'pickup']"
+3378,05O6cMbF2qy0abLR1UTrhQ,2,5.0,"['pickup', 'delivery']"
+3379,7LkM2PoGcXHmK7BNMRUWSQ,23,3.0,['pickup']
+3380,JVMWnuHmeXAaGIUQjl_xIA,137,4.0,['delivery']
+3381,MxqJxMoYS_yukT7AFHArLg,6,3.5,[]
+3382,Lj44GrWbs_JeP6PXbwwDmA,96,4.5,"['pickup', 'delivery']"
+3383,5iXsQHkTDUSMa5auq0Cwbw,8,3.0,"['pickup', 'delivery']"
+3384,YuvTHfKszg0eWApIA1rkFA,138,3.0,"['delivery', 'pickup']"
+3385,XJ3lAgvLNc2YFfDw8_jrOg,62,2.5,"['pickup', 'delivery']"
+3386,7loTO6ZmHwP3OLorHy_qtA,129,4.5,['delivery']
+3387,mHx6LB0GOTmWJSOiTPcSdg,7,4.5,['delivery']
+3388,Y2x-2BoBNs2BfGgymoNuxQ,32,3.5,['delivery']
+3389,Yw_n7h3mwjwyUGKjoQEAvQ,370,2.5,['delivery']
+3390,yHS7wMJhW3bZsaFQOhSmeA,60,3.0,['pickup']
+3391,EcMPvMK-SaxG6IrMBhR78A,84,3.5,"['delivery', 'pickup']"
+3392,bE8cYyr53hzveB5Y0Ivcvg,95,4.5,['delivery']
+3393,WagEyaXTkP7Jzcv9uSNDLQ,10,4.0,['delivery']
+3394,zAbf7J1QApZkJmCTmtkpnw,84,4.5,"['pickup', 'delivery']"
+3395,z-cLzkV6GTl77I3B0C4Ftw,10,3.5,[]
+3396,4dKbi1NzMuQ4fJKxdPiyeQ,8,3.0,"['pickup', 'delivery']"
+3397,eTbqmOM6Ic_QWvCbSkcEkg,467,3.5,"['pickup', 'delivery']"
+3398,RgBOqxzJ75PWzXsUSjw2Gw,30,3.5,[]
+3399,Offddm0Kl9K4494n3g723A,3,4.0,['delivery']
+3400,OjkClZjXwQwk3N2Se_vI8A,6,4.5,['delivery']
+3401,2iq8qMbbnJJF3o1TWArjIQ,1,1.0,"['pickup', 'delivery']"
+3402,PIUQ-gx9_0KBeAQWprr1Vw,237,4.5,['delivery']
+3403,kqeLAEFDi79pIwz8lP7Y0A,130,4.0,['delivery']
+3404,fCAWwtFsVNWFcn_d6p3x7Q,159,3.0,[]
+3405,w9M5H543VoiwUEv1-e3wEw,11,4.5,[]
+3406,Y8a1bT2AKiCNwHdb1UdF2A,1,1.0,[]
+3407,ueXyfKuLOZKEfweccKfEWg,72,4.0,"['delivery', 'pickup']"
+3408,k4N3d_FzfoiF9-N2pAx0Sg,46,4.5,[]
+3409,CNCnbx0ulBtYrBiG70BLDg,137,4.5,"['pickup', 'delivery']"
+3410,K2xNTvu63uBfJOiF65HpUQ,13,3.5,[]
+3411,rsKNvensl8X-Zh0oFV1-aw,21,3.5,"['pickup', 'delivery']"
+3412,FEqKQCztg132LamN-GbPqw,48,4.5,['delivery']
+3413,c4nlF7glPEd_4ZP_htKVrA,16,4.0,"['pickup', 'delivery']"
+3414,kvnYRb99HMRNi6i_siQF4g,3,3.5,[]
+3415,ioXvs43mTsZYVmwMhf5GYQ,11,1.5,['delivery']
+3416,wO1g9Z3oSNf3FcwlxjFcCQ,62,1.5,[]
+3417,Vm9XFTnRn0v8m6Mo7pGePA,121,4.5,[]
+3418,Opb5tUn6OkmC-3rF_ecW2Q,6,5.0,['delivery']
+3419,nyH45z28bR9nmhqlM2Y7fw,9,2.5,['delivery']
+3420,MbfysjLWTg7sOxkI82orAw,51,4.5,['delivery']
+3421,lT4oaPjZHiN4rtfqGIPsgw,83,3.5,"['pickup', 'delivery']"
+3422,dCMXtBYsLLAKn49hWzexxQ,70,4.5,"['delivery', 'pickup']"
+3423,Y9Z_vWgi0A8vb3QRYzzplw,34,3.0,"['pickup', 'delivery']"
+3424,lE-31ifnr2IDBrPlws4CsA,13,4.0,[]
+3425,5CxQYFD48qriUo297-1zsg,20,3.0,[]
+3426,H7f-Qheqjn1ksTR-NqZIFw,64,4.0,"['delivery', 'pickup']"
+3427,uXkugnlLoKZXLnMHOFUYUg,12,2.5,"['delivery', 'pickup']"
+3428,YP-wRLfd1zI37Mk_NWgygA,37,5.0,"['pickup', 'delivery']"
+3429,_DC3eLj0Rt3j8nu2wDiNCg,11,4.5,"['pickup', 'delivery']"
+3430,rVCl7pPdyWDqWIH_7NVvmQ,38,4.0,['delivery']
+3431,RKovK-giAoSp2_Bbd0dFgg,95,3.5,"['pickup', 'delivery']"
+3432,aJu8BCakAUDXgOV6BI5JCg,99,3.5,"['delivery', 'pickup']"
+3433,Tx5bLJ-GqvMwjPnjfJmSPg,51,2.5,[]
+3434,mapnjDFfz-av_J7wXzkVOQ,63,4.5,"['delivery', 'pickup']"
+3435,t65K1dCp5vfYs6rYCbxWow,78,3.5,['delivery']
+3436,au0WQJx2TnOjy7LYOxusZA,155,4.5,"['delivery', 'pickup']"
+3437,PPfU_eI0NZoRtTPDF6kmZg,34,3.5,['delivery']
+3438,qgiGymsyaJMobFGs4trkIg,94,4.0,"['pickup', 'delivery']"
+3439,mIXWy71sL_FjG7kGJ3N_7Q,251,3.5,"['pickup', 'delivery']"
+3440,NqjCYVtUwfKyDanVZGfF8w,9,3.5,['delivery']
+3441,shGU13nKCNdFcAvQ-qg-Iw,125,4.0,['delivery']
+3442,Hg9u6MHhhnYz9Z-2JdLXjw,478,4.0,"['pickup', 'delivery']"
+3443,T1z2TRAuQFVcXdWPC5mxUg,118,3.5,"['pickup', 'delivery']"
+3444,d3qRhjUUvRStW4XXYyqJVw,16,3.5,['delivery']
+3445,xOVAnOqw7xlTOWmQsUn8Vg,65,4.0,[]
+3446,TNuj3KZ0z9HHscYj74yXUg,49,2.5,"['delivery', 'pickup']"
+3447,s2SZfhzMYcC3D-2tXqjDdw,75,4.0,['delivery']
+3448,_v5i_IfmfeEHBZGfmIwmHA,78,2.0,['delivery']
+3449,7j_2PQqgX-7Dcf7rrHRzJA,21,2.0,['delivery']
+3450,eZnhus3RZ2sVBaHF5K3qrg,60,3.5,[]
+3451,U9n_G8N-O3nNbw_4bqoV8w,14,2.0,['delivery']
+3452,OlfflOfRuxLo1ElZFZLeGw,38,4.5,['delivery']
+3453,ZdaKRITQMIK1i5DgjWTRCQ,37,4.5,"['delivery', 'pickup']"
+3454,aQ0Ak6-1AglZs4agmPriGg,33,1.5,['delivery']
+3455,MvL5kBepWuX9hPZSeiOnZQ,93,3.0,"['delivery', 'pickup']"
+3456,8CJ7lA3qTTd5irXNegXNvQ,86,4.0,['delivery']
+3457,KU3YkbPmC4A3t9MrQtRIIA,64,4.0,[]
+3458,kwJcxWNaOLnTXMZrsYDasA,6,3.5,[]
+3459,g0JnPRse1M5SannNtCtt2Q,14,3.0,[]
+3460,MftEIbcNblPXpiUh0era4w,31,4.5,"['delivery', 'pickup']"
+3461,2rZj5c4bW5u2WOGCbi8WoA,95,4.0,"['delivery', 'pickup']"
+3462,3apgHd_dVlMlqgUHwDMyUw,19,3.5,['delivery']
+3463,gdoz7nURUmsyoxjl-Q2uHg,107,3.5,"['delivery', 'pickup']"
+3464,Yaw6vk3anUbAPjtvM-GmgA,66,3.0,['delivery']
+3465,9MBZSFi-a_PxORDeSlL_QQ,29,2.5,"['pickup', 'delivery']"
+3466,lGyIJeBaexroUMPqmQadoA,15,2.0,['delivery']
+3467,sley_8wrhaM4BKUYZGx03g,34,3.0,['delivery']
+3468,r87wLK1A-sS4eI9ONZEYfA,159,4.5,['delivery']
+3469,rFqrIm_NDPfG0EEFvRfgxQ,70,4.0,['delivery']
+3470,pnJ85KV43NpUFv94b_wmWg,105,3.0,"['pickup', 'delivery']"
+3471,3OBwmfg_JZH7EHD-SKN3tA,51,3.5,[]
+3472,X7GnNcsRfV3YEHi3rh1YNQ,130,3.5,['delivery']
+3473,ngPFcKJFTK-4EdaS-_naNg,122,3.0,"['delivery', 'pickup']"
+3474,7xU12b_x0wSCRgIBVtJtng,25,3.5,[]
+3475,EGF_KsraITkCfJnz9xv9ag,31,4.0,[]
+3476,mg-QYz4QYAxaCfpD5CoXow,575,4.0,['delivery']
+3477,Sj4vE0X0kI1xutqurztpUA,24,4.0,"['pickup', 'delivery']"
+3478,ePK1c6cY3YHMUru0mh5pMQ,24,2.0,"['pickup', 'delivery']"
+3479,BTneLNd3fVYXgZEOPSRjMw,176,4.5,"['delivery', 'pickup']"
+3480,izpRdSdterbxQzkdaJepjA,16,4.0,[]
+3481,CxjmgNo4yA6B2RmFvbQnDw,172,3.5,"['pickup', 'delivery']"
+3482,-QbGoeZbKfKZPtcD70y2Mg,32,4.0,"['pickup', 'delivery']"
+3483,ScnUb9liq-z8RlQpCmL6kg,75,3.0,['delivery']
+3484,DXBjpjc_6gGOZuYKoIByTQ,47,4.5,['delivery']
+3485,1yyG7Hz7f0Pxaf477oa0dw,17,2.5,"['pickup', 'delivery']"
+3486,bfMh2MiFMW2y8uxCA2NRuA,20,4.5,[]
+3487,hTp9bklQDyp9mExikMYkcA,69,3.0,[]
+3488,xvIGd27Niu-CdHhtGjv1AA,26,4.5,['delivery']
+3489,qeabde9RHjUJD0ZUFBV2YA,411,4.0,"['pickup', 'delivery']"
+3490,I_AvgcpQTr_pYsuLz8Qz0g,93,4.5,"['pickup', 'delivery']"
+3491,XeZgh22bw39RPtz_zy3Qhg,17,2.5,[]
+3492,ngPFcKJFTK-4EdaS-_naNg,122,3.0,"['pickup', 'delivery']"
+3493,-OvA8nCk7FP7pZiMdzALnQ,213,4.5,['delivery']
+3494,Izn6yBmtiaauOG6aiZqocQ,16,3.5,"['pickup', 'delivery']"
+3495,Ftkm1_WemgRGWvSq5UPvtw,12,2.5,['pickup']
+3496,9n0Ayxw0ygCdl-hggMZcRw,13,2.5,[]
+3497,DRlKfJHc2oI-mbN4X-NMww,66,3.5,"['delivery', 'pickup']"
+3498,RV6rCScQUhtDhTYUDY1lkg,8,4.5,[]
+3499,_BxWi7-9ZUk80Gl5GEMH-A,44,3.0,['delivery']
+3500,qzEm_98OxRUL_sMy6BIsfw,23,4.5,"['pickup', 'delivery']"
+3501,ED630XewwHREEP4PMyex-Q,39,4.5,['delivery']
+3502,PARORr2yT9vuYSUazNFQaw,48,3.5,[]
+3503,iJTYAJc79DLBKKysehtJCQ,44,4.0,[]
+3504,jI4iNe5zYCQJQxVbjruOug,83,4.0,[]
+3505,Py7yO3Hd44GVpavVJHrK5w,35,3.0,['delivery']
+3506,4OlIEFnarj8TFV4L1Zas2Q,2,5.0,[]
+3507,wCALKHMaj_2pkRka7bxwyA,57,4.0,['delivery']
+3508,C93ygiQMMxBrMBiYifppSg,14,3.5,[]
+3509,t-Lkgbkd0bCxeqQCUn_INw,1,1.0,[]
+3510,jx_MpwblvNTasBv6yxUKVA,35,4.5,['delivery']
+3511,M_C4KGCXL29nUAMRVZylEQ,66,4.0,['delivery']
+3512,ZOX2_0-wQE3PRLfdBPAIYQ,3,3.0,"['pickup', 'delivery']"
+3513,rFqrIm_NDPfG0EEFvRfgxQ,70,4.0,['delivery']
+3514,PduBY243FesPdgpl8HI65A,40,4.0,['delivery']
+3515,D-6p3XiL8Pfb9-b-aZPjNg,213,4.0,['delivery']
+3516,IKDoV23wzZ2jFnmc32BiJw,65,3.0,"['delivery', 'pickup']"
+3517,3N_wXKMaf9wC0uJTueHP3w,145,3.5,"['pickup', 'delivery']"
+3518,9MBZSFi-a_PxORDeSlL_QQ,29,2.5,"['pickup', 'delivery']"
+3519,ql22LcOSxKeSdW4DR0GXMA,32,2.0,['delivery']
+3520,OllSOLYsh37K-0hAMVnHFg,15,3.5,[]
+3521,JX5Kyd5iJ0Icxq_doK4ivA,99,4.0,['delivery']
+3522,hrb1kHdA-3V4rn5TBgT3GQ,23,3.0,['delivery']
+3523,aAiS8pc8KRkWnNfPiBbEUQ,45,1.5,['delivery']
+3524,j6ylJ9rkuV38cym75GBbTA,426,4.0,"['pickup', 'delivery']"
+3525,tvITB62sjEqc1OfVbiLQLw,233,4.5,['delivery']
+3526,5ZcNSQTqzPHkj5jwT3CSpA,30,3.5,['delivery']
+3527,TPWSozwh3o31POtk1QncXw,41,4.0,"['pickup', 'delivery']"
+3528,4ZNM_Zty4GFl3v_p5PDWqw,230,4.0,"['pickup', 'delivery']"
+3529,kFZFNAmuKWuWK7Lq3S5uog,22,2.0,['delivery']
+3530,tM2vZGyzmNkTCeQlkHoqeQ,119,3.5,"['pickup', 'delivery']"
+3531,ZrNsLjolsDNq0QIgmeA8gg,81,3.5,['pickup']
+3532,wg0Y9pl1CQHuxpkxYykDUg,17,4.0,[]
+3533,pM0rAl3PECAnU14Q819cqw,32,1.5,['delivery']
+3534,XeQgaLMmO5pcUdaplvberA,20,2.0,['delivery']
+3535,vWXOKB35tsoSFI3fxVswCg,32,2.0,['delivery']
+3536,KAwr56rYxGb9CHSmhpiL-g,24,1.5,['delivery']
+3537,4OyTdqdZMbljdWQoAukvvA,245,3.5,"['pickup', 'delivery']"
+3538,mEFQ_4RALnCCta3i9SfCdg,25,3.0,"['pickup', 'delivery']"
+3539,RyrMARpNgV9gbAkAAsAqxQ,64,4.5,[]
+3540,EG-ipGqiJYPGATShHgMgiA,324,4.5,"['delivery', 'pickup']"
+3541,puUlH7-TD19piOMDfDP_cQ,29,2.0,['delivery']
+3542,oqTqu05fa4wbr1FsX35sHA,10,3.5,[]
+3543,Q3uHauQ4LRYjn7M8798OEA,6,1.5,[]
+3544,qyg_iiz7Brq9vioVpmRjcQ,125,4.5,"['delivery', 'pickup']"
+3545,cgdnXOLxF9Za9oD1-Tydkg,63,3.0,['pickup']
+3546,2EoRgfmM9XH54l0Zxi0A-g,30,1.5,['delivery']
+3547,lMTyJb8Uv5DHqnobkz_3Vg,46,4.0,['delivery']
+3548,L1cua1oj-g4-cYycq243nw,84,4.0,"['delivery', 'pickup']"
+3549,C9Swy4r-SjlRwWFIuv0vxA,12,2.5,[]
+3550,Qp4KzhuNN3F0FiyTVB7Msg,47,3.5,"['pickup', 'delivery']"
+3551,7lnp2ywnT9Bo2Q620L2viA,7,3.0,['delivery']
+3552,AWb8ivzljBHVd-DAIdYe8w,13,2.5,['delivery']
+3553,LOgerCrg8NRFU7Uc3P9GoQ,72,3.0,"['pickup', 'delivery']"
+3554,ljqxEueK7fhAUgHYCbHVOQ,109,3.5,"['delivery', 'pickup']"
+3555,GlRXJKok1gjMtALA3MZ8VA,336,4.0,['delivery']
+3556,Y4ZDvVqXeY9ns7-heCZ9Iw,131,3.5,"['delivery', 'pickup']"
+3557,e263pXpYkw_TCSj75NvIdw,105,4.0,[]
+3558,GDz478TrnxbjH45ydB6wVg,28,4.0,['delivery']
+3559,8xgCKpkBJGr4v6YGvERTnA,77,4.0,"['pickup', 'delivery']"
+3560,6wkDFpnvOse3u01nAxyW9g,58,3.0,"['pickup', 'delivery']"
+3561,9WMJWEwUeD_DukmVMqQVeQ,110,3.5,"['pickup', 'delivery']"
+3562,rltY6RaVYfNLHX9qAOY94Q,22,2.5,['delivery']
+3563,AyqBZy4hgjzQ3td6HPsxlQ,22,4.0,['delivery']
+3564,DLnBI9U6nmysmCrRwmt2HA,173,4.0,"['pickup', 'delivery']"
+3565,tkHXwJx7ea7VaCmNTjEiAw,13,2.5,['delivery']
+3566,V2GUkKbKE_f_zqCHTha1sg,7,3.0,"['pickup', 'delivery']"
+3567,OpD-wgudQfV5FHfIhLohvQ,17,1.5,[]
+3568,OQeY7ia1uyQV762e_FW_IQ,194,4.0,"['pickup', 'delivery']"
+3569,TDg96YXAynQr_vlrVeDKmA,32,3.0,"['pickup', 'delivery']"
+3570,DdOAZXczEEgqgFOLDTvHVA,20,4.5,"['pickup', 'delivery']"
+3571,py9BVpAQ1KIjwgQvgsKhgA,183,4.5,"['pickup', 'delivery']"
+3572,c4GJBBg6FwARLy_jhnb2sQ,52,3.5,"['pickup', 'delivery']"
+3573,kvsyoCuZsG0tPOg6-GYVMQ,219,4.5,[]
+3574,32VIjM8w_zOjy9spBW8_4g,117,4.5,['delivery']
+3575,OBk-UwYsYgzZGppOSnRkBQ,82,4.5,['delivery']
+3576,88cHaylBdqaTup8MJ8cGUw,2,4.0,[]
+3577,EVQNU3u_OovWjxkT30Ol8g,117,3.5,['delivery']
+3578,pvQN_0Pt3brRk9p8NlbrsQ,13,4.0,[]
+3579,WtE8V9Tg8crGqErRtMePWQ,271,4.5,['delivery']
+3580,k8OIklkBcvwMDHUDkKedFA,27,3.0,"['delivery', 'pickup']"
+3581,SsfYYH2zj7Qw_X1vKohOBg,29,2.0,"['pickup', 'delivery']"
+3582,wKth1sDKbz5dveYID6l0IA,52,3.5,[]
+3583,6JbZzMPO7a1WYMJ8O3HGsQ,6,3.5,[]
+3584,IvKtWUpH3Gcu0YzvNQin3w,261,4.5,['delivery']
+3585,EH86kZ35HtqPair-ZMFDbw,51,4.0,['pickup']
+3586,sW2fQVgjQXjB1-w3GD17mg,6,3.5,['delivery']
+3587,_XIGNqCBkfgFqMHUU1IBFA,15,2.5,[]
+3588,SuTVrShuRIb-4JeXFvP-IQ,19,4.5,[]
+3589,Xcuf79pQz9y7VJiLCVl7JQ,18,3.5,[]
+3590,XP80TPf_WEPqeEY7vSTzTQ,75,4.5,[]
+3591,mmzB2G03bHiXfcEDsDDgSw,27,2.5,[]
+3592,SD9mmWQ-_EwXIiJk681mgA,10,3.5,"['pickup', 'delivery']"
+3593,50zBIw5Ex6gtK1zn9bk9IQ,45,3.0,"['delivery', 'pickup']"
+3594,BAlcRNAcSHB6Bpr5wC4HIw,35,1.5,['delivery']
+3595,8JPLQDiTrRQxzirtomuxTw,63,3.0,"['pickup', 'delivery']"
+3596,BSFlGIJZGrzyt8N2FPFwuA,88,3.5,"['delivery', 'pickup']"
+3597,f-zAvk_VWxIbs8Re6J427A,66,4.5,"['pickup', 'delivery']"
+3598,5eanf5RsFacxSaZ_6PpUkQ,32,1.5,['delivery']
+3599,zu9uFl1tOOER1z1D_VxplQ,27,1.5,['delivery']
+3600,hejdmYIvdUneG3GP3YQ3ng,131,3.5,['delivery']
+3601,GXT6RK76TnZUvrms65KhSw,42,3.5,"['delivery', 'pickup']"
+3602,VofOzn4iEv-VobqabQuZng,86,3.0,['delivery']
+3603,iR7fE_lecumtUCtXbKYzLQ,2,4.5,[]
+3604,JNYEzQ8pFQPoRAqRFpeKQQ,236,4.0,"['pickup', 'delivery']"
+3605,EC5jY8gr17DVOcOyIRCQPQ,36,2.5,"['pickup', 'delivery']"
+3606,jol5M7W9JB9qDr-IaGLEHA,72,3.0,"['delivery', 'pickup']"
+3607,Paz7Ws5E1am2pJGkjPIcWw,155,3.5,"['delivery', 'pickup']"
+3608,PqPa5KcwNPqLl6kofX3AyA,49,3.0,['delivery']
+3609,g7yJVGhXehKeMagsRHb57w,21,3.5,"['pickup', 'delivery']"
+3610,6tQQ9NarzBFjsoT1WhSItQ,2,3.0,[]
+3611,laXyVIO1zAMZi7zhskn9gQ,10,3.0,"['pickup', 'delivery']"
+3612,CdFcfjOyhYKzQIBfBKqvnA,70,3.5,"['pickup', 'delivery']"
+3613,VUdQv3iGNGtJBEY49pI1_Q,46,2.0,['delivery']
+3614,mIXWy71sL_FjG7kGJ3N_7Q,251,3.5,"['delivery', 'pickup']"
+3615,k4N0XzSMb94GvKFyw_Kl-w,120,4.0,"['pickup', 'delivery']"
+3616,T7pxUClNkCrxBm6y12OpJQ,56,4.0,"['pickup', 'delivery']"
+3617,04UQKWJBK4x3QNkJr9hquQ,188,3.5,['delivery']
+3618,nM-_YBkAIoS7gLTDtftctQ,16,3.0,"['delivery', 'pickup']"
+3619,wT4uo_LGVdplmGO5sw7bAA,43,2.5,"['pickup', 'delivery']"
+3620,-1YdUeJ4VZg2W3PdNWPzqQ,281,4.5,['delivery']
+3621,p1u9klPbjRKsYLl2kC_aUA,76,4.0,"['pickup', 'delivery']"
+3622,UDuTdriFUWJx7ci0eKUdAw,89,4.0,['delivery']
+3623,4MrVGcoWYdPxvs2_byOhKg,123,4.0,"['pickup', 'delivery']"
+3624,hqW7kZ9yzSqvAhHuFZUamg,69,3.5,"['pickup', 'delivery']"
+3625,WRtDn19Mx8osVpLSCy0iVg,3,4.5,['delivery']
+3626,KuWGnCpujZ_pSEP2HXBJ7w,41,3.5,[]
+3627,et_nCkqad4F-KjNO6L9eug,67,3.5,['delivery']
+3628,voOILw4KvdEyyE2R4Fjmeg,54,3.0,[]
+3629,xvY9cWDNb3JFk0CpfIiGTA,220,4.0,"['pickup', 'delivery']"
+3630,jxbu0Pswfm0JEyN612-aCQ,181,3.5,['delivery']
+3631,wnRaWRVZU7VTbufR9Ux2sQ,97,4.0,"['pickup', 'delivery']"
+3632,dEPAFnGatqBxoaylVdrgHw,35,4.0,['pickup']
+3633,ZJBy_2Le3bn6XAw9ZwoauA,42,3.5,[]
+3634,DIqlWz46APgubuk99Qq8Gg,51,4.0,"['delivery', 'pickup']"
+3635,IUE45XyfGEmtVp8sqY8D2g,115,4.0,"['delivery', 'pickup']"
+3636,J3KuSJ1yjWTIe0gKdNxM0w,15,4.0,['delivery']
+3637,lbi0E_plFqqvaxXL6MqL4w,8,4.0,[]
+3638,rH5oW0AMmCPLthr0Rl9CGA,113,3.5,"['delivery', 'pickup']"
+3639,GnORbiUTGmJ04NAF_r89Sw,12,3.0,[]
+3640,Ffu2L4yRvagP_q38Yj0kPw,55,4.0,"['pickup', 'delivery']"
+3641,mYpfaj29MNjoygOtpwCEtw,36,3.5,"['delivery', 'pickup']"
+3642,s_WGDvKQzPNVvDv_Yvi03A,10,3.0,[]
+3643,xvIGd27Niu-CdHhtGjv1AA,26,4.5,['delivery']
+3644,VqMpeCrd5jEPbx84cvr1tw,34,1.5,['delivery']
+3645,eVCcmuiVPThN_d7eb6CxOw,21,2.0,['delivery']
+3646,BCuf1cWcX_tv2wvKGZYjXA,55,3.0,"['pickup', 'delivery']"
+3647,l_AbyaJBOxy6GcsD1M-tSQ,45,4.0,"['pickup', 'delivery']"
+3648,AE_OOW_4CgcwI--YccmHdg,235,4.0,['delivery']
+3649,SqUAatPHD3nFwhw2GE7eig,43,3.5,"['pickup', 'delivery']"
+3650,GJSWFUgJ_Vj31R_KSyHwIQ,8,4.5,[]
+3651,tO_wvkLSfqnvriI3cYEbIA,6,4.0,"['pickup', 'delivery']"
+3652,dbjRN-v5SBWSf03BPfTlrg,75,3.5,['delivery']
+3653,RV6rCScQUhtDhTYUDY1lkg,8,4.5,[]
+3654,3_VClqfOszALnXGdzZpxVg,60,3.5,"['pickup', 'delivery']"
+3655,K9ly3_AI27T9FqNLt82SbA,8,4.5,"['pickup', 'delivery']"
+3656,cb7x1prKHsAG5EtDvcS7nw,3,2.5,"['pickup', 'delivery']"

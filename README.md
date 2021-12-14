@@ -81,7 +81,7 @@ Below is a table of the descriptions for each file within this repository. They 
 | **DEC2021_data512_a6_2.png** | This file contains the result of the time series graph measuring monthly change in number of reviews for the data obtained from the Yelp query ran in December |
 | **NOV2021_data512_a6_3.png** | This file contains the result of the pie chart displaying the proportion of each type of restaurant calculated for the data obtained from the Yelp query ran in November |
 | **DEC2021_data512_a6_3.png** | This file contains the result of the pie chart displaying the proportion of each type of restaurant calculated for the data obtained from the Yelp query ran in December |
-| **hcds-a7-project-report.ipynb** | This file contains a Jupiter notebook containing all code and documentation for the analysis of this project |
+| **hcds-a7-project-report.ipynb** | This file contains a Jupyter notebook containing all code and documentation for the analysis of this project |
 | **hcds-a7-project-report.pdf** | This file contains the written final report for this project |
 
 # Final Report

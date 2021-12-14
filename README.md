@@ -68,7 +68,7 @@ The final clean data file is located in the Clean Data folder within the reposit
 # File Descriptions
 Below is a table of the descriptions for each file within this repository. They are listed in a general order to follow when reproducing the analysis:
 
-| Column | Description |
+| File Name | Description |
 | --- | --- |
 | **Restaurants_in_Wake_County_-_Yelp.csv** | This file contains data for all restaurants on Yelp within Wake County obtained from the Wake County government site |
 | **yelp_business_df.csv** | This file contains all the business information data queried from the Yelp Fusion API |

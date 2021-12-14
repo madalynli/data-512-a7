@@ -1,0 +1,674 @@
+,business_id,transactions,avg_rating,count_review,month_year,pickupordelivery,avgabove3.5star
+0,jIeZ7gR0zZVUKUik0cmi3g,"['delivery', 'pickup']",3.3333333333333335,3,2021-03,yes,no
+1,ej5wRN1VcKbiZxg9sG3Kmg,[],4.0,3,2021-08,no,yes
+2,WjJxfju2UuQNJte0Vdzpyw,[],1.6666666666666667,3,2021-10,no,no
+3,nyH45z28bR9nmhqlM2Y7fw,['delivery'],2.3333333333333335,3,2021-04,yes,no
+4,Fo9vRaUX2OTrlUmcWvqdSA,[],3.0,2,2021-10,no,no
+5,Yo9NDdsL_X9LquUHtBHBpQ,"['pickup', 'delivery']",1.6666666666666667,3,2013-05,yes,no
+6,21FAnridQkQCJMM_PfyfcA,"['delivery', 'pickup']",4.333333333333333,3,2021-09,yes,yes
+7,bMv3-DWg_8Y0aXOnheekQw,"['pickup', 'delivery']",3.3333333333333335,3,2017-01,yes,no
+8,cDzDmJqIg72_rv1s4rCe8A,[],5.0,3,2020-05,no,yes
+9,taJIv-3okWm4HTsQWt22Ig,[],3.6666666666666665,3,2018-05,no,yes
+10,C9Swy4r-SjlRwWFIuv0vxA,[],1.0,3,2021-06,no,no
+11,6c906sDbaOVpDgxOBZ-9yw,['delivery'],3.0,3,2021-06,yes,no
+12,tKGEJyftZXdhWQMpUjUBrQ,[],3.6666666666666665,3,2021-05,no,yes
+13,wOMYi5o__2kTCRLlGeDWYQ,[],2.3333333333333335,3,2021-06,no,no
+14,z7YgpYhaSLuoc3MH2yeecg,"['pickup', 'delivery']",2.0,2,2021-10,yes,no
+15,umlaKA5Sza0-SBpp1Zn-Cw,[],3.3333333333333335,3,2019-11,no,no
+16,GdWMtucd6h6iN5HM3LfeOQ,['delivery'],3.3333333333333335,3,2018-06,yes,no
+17,23gdZE-xrOaCsBwm-klFtw,['delivery'],3.3333333333333335,3,2014-11,yes,no
+18,wYY4Y-smqdTgNtJlIKH32g,[],4.0,3,2020-12,no,yes
+19,8gYIukYNei5Dz2m_s5bNUQ,[],1.0,3,2020-12,no,no
+20,rEtN1jn6KD29ou2bwMprcQ,['delivery'],4.666666666666667,3,2021-11,yes,yes
+21,E--vwmk9Oq0CMTvmBAbtiQ,['delivery'],4.0,3,2021-09,yes,yes
+22,1_lNofxuRR84NrIq3FVx1A,['delivery'],1.3333333333333333,3,2018-12,yes,no
+23,6hXY9ONm8V9pECGbuCUZkA,"['delivery', 'pickup']",2.0,3,2021-09,yes,no
+24,Jc5_ps4Tdp-MZbi6XMFUIg,"['pickup', 'delivery']",2.6666666666666665,3,2018-06,yes,no
+25,ilMb9IFmCc5nE78FMGiMug,['delivery'],3.0,3,2021-06,yes,no
+26,QmzGDyB-S1zV7TXsd65CKA,[],2.3333333333333335,3,2015-12,no,no
+27,_bYrR_sGfy32O1B7FWRqtA,['delivery'],1.0,3,2021-09,yes,no
+28,-V6OEtCRXyyW37CQJsHIxA,['delivery'],3.3333333333333335,3,2019-02,yes,no
+29,Mm5fCxzfGCuGMSWrdWo3yA,"['pickup', 'delivery']",2.0,3,2020-03,yes,no
+30,binZAD0jYmEOIRwNre7UHw,['delivery'],2.0,3,2017-07,yes,no
+31,Qp4KzhuNN3F0FiyTVB7Msg,"['pickup', 'delivery']",1.0,1,2018-06,yes,no
+32,H7ypxWYecQbJ8Lnu6kBYHA,"['pickup', 'delivery']",3.3333333333333335,3,2021-05,yes,no
+33,iUOhEwzqg3yQ7-1SRZnXlA,['delivery'],2.0,3,2020-02,yes,no
+34,_k1qpoo6W31nVaxNZ8N_rw,[],3.0,3,2016-01,no,no
+35,QZ-FqlXLf55kDvjmoG2Lkw,['delivery'],3.0,3,2021-11,yes,no
+36,3mKWosTZhN8xD5A3z6Fvgg,['delivery'],2.3333333333333335,3,2017-08,yes,no
+37,SrmzyAQwhhyv-7kOGydbkw,['delivery'],2.6666666666666665,3,2019-05,yes,no
+38,Rz_KtkujG9wcNtXugpH6Ug,['delivery'],3.3333333333333335,3,2020-01,yes,no
+39,Bw3Tkf99EfrzXhvfkiT9yA,[],3.3333333333333335,3,2020-06,no,no
+40,NWf6TWJrVEuN5-SJp_ltJQ,['delivery'],2.0,3,2021-06,yes,no
+41,HNRlGu4WHLumiVsPQtxmSw,[],3.6666666666666665,3,2021-09,no,yes
+42,yE7qviLVdYsZgb5UNFJiGQ,"['delivery', 'pickup']",2.0,3,2016-01,yes,no
+43,XJrWPOX-S_Cojyve6sSHxg,"['pickup', 'delivery']",2.0,3,2021-10,yes,no
+44,_vAeqFMzkFy7OKZv8QPHRg,['delivery'],3.3333333333333335,3,2021-06,yes,no
+45,tx_3hsmUiQK6wzJcxEgw1Q,[],3.3333333333333335,3,2021-01,no,no
+46,dSmQk-JLXIOrteJ5U9LrFQ,['delivery'],5.0,3,2021-02,yes,yes
+47,8WO1GG2mO9yAZN1QyMR-3g,['delivery'],4.333333333333333,3,2020-09,yes,yes
+48,O_4oEV_CwWwuAbUt3OJu2w,[],5.0,3,2021-06,no,yes
+49,1iQKNWvjwx9Z_WbuGZFdJg,['delivery'],2.0,3,2017-10,yes,no
+50,Zktwf4BNVj0gR6towUQZEQ,"['delivery', 'pickup']",3.0,3,2020-03,yes,no
+51,ZPdf_MjVuSX0ot-thQkWSg,['delivery'],3.6666666666666665,3,2021-04,yes,yes
+52,O9HQTSfFk5mB846kniCUmw,[],3.0,3,2020-05,no,no
+53,qV9CRE9kxDzxHqV2iY1tjw,['delivery'],4.333333333333333,3,2021-03,yes,yes
+54,Onw-a5wPn-q0zUX6xUrgAw,[],5.0,3,2018-05,no,yes
+55,2TSNwz0Rdr2S7grTy1JA8w,['delivery'],2.0,3,2019-09,yes,no
+56,7Yo048xDSk4p3VNhg8KbvA,['delivery'],3.3333333333333335,3,2021-05,yes,no
+57,nCkleyiyw0v3Vhmef_RyOQ,[],3.3333333333333335,3,2019-10,no,no
+58,CiilZMnnzx4vmxvhN3PRMQ,"['pickup', 'delivery']",4.0,3,2020-08,yes,yes
+59,FKw9j6xU1NlUJpz4kA2h5A,"['pickup', 'delivery']",4.666666666666667,3,2020-02,yes,yes
+60,TS4CyAv92k6lJD4R4FjWhQ,['delivery'],3.6666666666666665,3,2021-09,yes,yes
+61,HMHQaqcfgFbfzTb_3eAw4g,[],3.3333333333333335,3,2021-06,no,no
+62,bDk5idgw90P-V33nvnnagQ,['delivery'],3.3333333333333335,3,2019-09,yes,no
+63,UQLtIRFhz0gLlBg_HQ_-Ng,"['delivery', 'pickup']",3.0,3,2021-11,yes,no
+64,7ydC028jxHIA9ANXWQDa_g,"['pickup', 'delivery']",2.3333333333333335,3,2018-11,yes,no
+65,3R9obMEXRBCSuGWpkHJC0Q,"['delivery', 'pickup']",3.6666666666666665,3,2021-11,yes,yes
+66,9VW1E3633Vn6U5140ZVL9A,[],3.3333333333333335,3,2021-08,no,no
+67,iBDAW9Wf705gMuX8zTw0GQ,"['delivery', 'pickup']",2.3333333333333335,3,2017-02,yes,no
+68,ZOX2_0-wQE3PRLfdBPAIYQ,"['delivery', 'pickup']",3.0,3,2019-12,yes,no
+69,jrGPhJrzrnzjIsr7uVLECw,['delivery'],4.333333333333333,3,2021-09,yes,yes
+70,pAVqVeJvAEJ8_noz18Whsg,['delivery'],5.0,3,2021-03,yes,yes
+71,FTOEdyHtr7qrWlRvwQc6JA,[],3.3333333333333335,3,2021-08,no,no
+72,wyPU3aFPNn7AO83de3tPMQ,[],4.333333333333333,3,2020-11,no,yes
+73,M06P3WdiaHNAcIFu97Opfw,[],2.0,3,2019-07,no,no
+74,qGg1meDCesk6ZRMYJdJafw,[],3.3333333333333335,3,2019-11,no,no
+75,CPeMxS5wwQRJMbnz7Vk-UQ,[],1.6666666666666667,3,2020-04,no,no
+76,yOAvETykFckla5iz6R6yKw,[],2.0,3,2019-11,no,no
+77,xW89sbUF5ePpCcPIzuqZtg,[],4.333333333333333,3,2021-06,no,yes
+78,E_5KYJZT4rsnZnfv_J0i1w,[],3.6666666666666665,3,2019-03,no,yes
+79,ZeMuyp7-aNasvbFZoWbGuA,['delivery'],2.0,3,2019-12,yes,no
+80,8WUTv19XeJa4j6q80Dm5ig,['delivery'],1.3333333333333333,3,2019-08,yes,no
+81,t_zhwvu5TE8KrjS4XbsyIQ,['pickup'],1.6666666666666667,3,2016-06,yes,no
+82,muPnVMI9kbeJ1tlsL8Xomw,['delivery'],1.6666666666666667,3,2018-06,yes,no
+83,2ospc7M5IAvrCRcfyFvYUA,"['pickup', 'delivery']",2.6666666666666665,3,2020-08,yes,no
+84,qBK2u72zBW0IaNvAQaPr0g,['delivery'],2.0,3,2020-03,yes,no
+85,siLreS0MgdBCepGaQOVF6A,"['pickup', 'delivery']",4.666666666666667,3,2021-09,yes,yes
+86,7tpFUsuy2KAHPsj3bRlnFw,"['pickup', 'delivery']",2.0,3,2020-02,yes,no
+87,YNtrWIDYx2-FRw743VOyPA,"['pickup', 'delivery']",5.0,3,2020-01,yes,yes
+88,U-z3A-MpN_4GT4LUElYZPA,['delivery'],3.0,3,2021-08,yes,no
+89,f-Y4qOkzhncJBOE5NsuR0w,[],4.0,3,2013-04,no,yes
+90,c4GJBBg6FwARLy_jhnb2sQ,"['delivery', 'pickup']",2.0,3,2019-05,yes,no
+91,2EoRgfmM9XH54l0Zxi0A-g,['delivery'],1.3333333333333333,3,2018-12,yes,no
+92,YP-wRLfd1zI37Mk_NWgygA,"['pickup', 'delivery']",5.0,3,2020-10,yes,yes
+93,X5Ajzhq6rW3BO5UgiBLQ6g,['delivery'],2.3333333333333335,3,2021-08,yes,no
+94,c-Z7ZNEYCgZLPsE5JcKCbQ,"['delivery', 'pickup']",3.6666666666666665,3,2021-07,yes,yes
+95,0H2MhFpqhTXNBRQNVO6H7g,['delivery'],1.0,3,2021-07,yes,no
+96,HV_EcIXoZ1gkljF4XWEw_g,['delivery'],1.3333333333333333,3,2018-07,yes,no
+97,6W-M5guj2fUTNXlDCUwmow,"['delivery', 'pickup']",1.3333333333333333,3,2021-10,yes,no
+98,iu6H9w3G252PtYb42y6K7A,"['pickup', 'delivery']",4.333333333333333,3,2021-09,yes,yes
+99,DPEC8r3-5q7-Ld4rgl2ikw,['delivery'],1.6666666666666667,3,2015-08,yes,no
+100,57aSIZyWaBgt2wnLcV2gEQ,['delivery'],1.6666666666666667,3,2021-08,yes,no
+101,bsUKk2vw1al5YuL2pdK95Q,['delivery'],3.3333333333333335,3,2021-12,yes,no
+102,6lFkk-Q0vZJrigwPzyMWbw,['delivery'],1.3333333333333333,3,2019-11,yes,no
+103,85IEwUfGOgDmcNRdyJyGcw,['delivery'],3.0,3,2019-02,yes,no
+104,w5ftNa94JJe4WqLBWqiWEw,['delivery'],2.0,3,2021-03,yes,no
+105,rYvS0EvxW-g4gqK6auFyyg,[],4.0,3,2021-01,no,yes
+106,RpXw1Ak1JtbwGmlAZF0FVg,['delivery'],4.333333333333333,3,2021-10,yes,yes
+107,NEVzffuJNnPsQhFcR2zQgQ,"['delivery', 'pickup']",1.6666666666666667,3,2021-07,yes,no
+108,CMOhbYWXPg2Z8a6JYf2N6A,"['delivery', 'pickup']",2.3333333333333335,3,2017-07,yes,no
+109,6ONmqWHbZmWhYtcBPnoBdw,['delivery'],3.3333333333333335,3,2021-10,yes,no
+110,6Le-MPaNzCwaKAsHNXVS0Q,[],1.0,2,2021-12,no,no
+111,zu9uFl1tOOER1z1D_VxplQ,['delivery'],1.3333333333333333,3,2019-12,yes,no
+112,-8X3PpqXkNjpebBbRNEhCw,"['pickup', 'delivery']",4.333333333333333,3,2019-11,yes,yes
+113,KZ_xAb-eOX1FySK_mxRl3w,['delivery'],3.0,3,2017-04,yes,no
+114,J0VEhntaymuakd7D-zFcTQ,"['delivery', 'pickup']",2.3333333333333335,3,2017-05,yes,no
+115,Ptqrhjbi5xEtrb0ERZ5a6w,"['delivery', 'pickup']",5.0,3,2021-07,yes,yes
+116,nUzD76z3KbvRCfiW33Mkbg,"['pickup', 'delivery']",3.6666666666666665,3,2018-06,yes,yes
+117,dzDNZEOWGIjklDnVPatgLg,[],4.333333333333333,3,2021-10,no,yes
+118,NEo6FXt6pKisfYJ4oSGliQ,[],2.3333333333333335,3,2019-11,no,no
+119,XeQgaLMmO5pcUdaplvberA,['delivery'],1.6666666666666667,3,2016-11,yes,no
+120,DNzM5RjyGRDx4RfJiUJnMA,"['pickup', 'delivery']",2.6666666666666665,3,2021-05,yes,no
+121,6Ompv6pJtbqSPpXKqkNshA,"['pickup', 'delivery']",1.6666666666666667,3,2021-09,yes,no
+122,K7jiPLbPdbDeQFNbnFoS3Q,['delivery'],2.0,3,2016-01,yes,no
+123,Q8AgeAPx1b_pqzuEUQ2GDg,['delivery'],2.0,3,2013-09,yes,no
+124,4U9fWxjVntRC-IihW5MoIQ,"['delivery', 'pickup']",4.666666666666667,3,2021-10,yes,yes
+125,9hfkRf5QnchRLMiM19ISTA,['delivery'],1.3333333333333333,3,2020-09,yes,no
+126,nrSAJUg55CWJsRDXzTpIAA,['delivery'],3.6666666666666665,3,2020-03,yes,yes
+127,L_kccaHSRAayKgvzoFe68w,['delivery'],1.6666666666666667,3,2019-05,yes,no
+128,Pimdklq7b9h5dlIUIr-YJw,['delivery'],1.6666666666666667,3,2019-03,yes,no
+129,esqOkEThdmX8FYuyx2hk0w,['delivery'],2.3333333333333335,3,2019-08,yes,no
+130,3xqPnRt-Qw8rBRH9TK4s3g,['delivery'],3.3333333333333335,3,2018-03,yes,no
+131,R14DJoFRsEq4haIsLPvFYw,"['delivery', 'pickup']",5.0,3,2021-07,yes,yes
+132,tkHXwJx7ea7VaCmNTjEiAw,['delivery'],2.6666666666666665,3,2017-08,yes,no
+133,7j_2PQqgX-7Dcf7rrHRzJA,['delivery'],2.6666666666666665,3,2021-11,yes,no
+134,aAiS8pc8KRkWnNfPiBbEUQ,['delivery'],1.3333333333333333,3,2017-10,yes,no
+135,qb-UwCDgBq8o20Pahf4Iww,[],2.0,3,2017-09,no,no
+136,Lf_sdyQfrlVjqU2onxUZUA,['delivery'],2.6666666666666665,3,2018-05,yes,no
+137,VkiNp4JolVjYzzn5218x2Q,"['delivery', 'pickup']",3.3333333333333335,3,2019-12,yes,no
+138,P7KKrgAF-Ij0rItekTtmpQ,[],2.3333333333333335,3,2021-07,no,no
+139,AAb7pnce8dumu1uJyF9phQ,['delivery'],1.3333333333333333,3,2021-08,yes,no
+140,85avHCVQEY8FuGE1y2E7-g,['delivery'],3.6666666666666665,3,2021-07,yes,yes
+141,GDz478TrnxbjH45ydB6wVg,['delivery'],3.3333333333333335,3,2020-06,yes,no
+142,O7RxeO8h7iNNJ88ekos8eg,['delivery'],2.3333333333333335,3,2018-06,yes,no
+143,7xBxZ2aa10-Od3rrRb7J-g,[],2.3333333333333335,3,2020-02,no,no
+144,OJFlbUyhAyxK6XOCZgfIrg,['delivery'],2.6666666666666665,3,2015-09,yes,no
+145,54Oh1tjBKLATthwuIMqTmw,[],2.3333333333333335,3,2018-02,no,no
+146,j1WX2nHA3T0R9LyBWOPzTQ,[],2.0,3,2020-01,no,no
+147,-_EzxfqemMuEwG9prTn0jQ,[],2.6666666666666665,3,2019-09,no,no
+148,BAlcRNAcSHB6Bpr5wC4HIw,['delivery'],1.3333333333333333,3,2020-03,yes,no
+149,xvm3usMc06Fo2HfXqdraNw,['delivery'],1.6666666666666667,3,2019-11,yes,no
+150,zlagxmC0CcHe9RBL8Gvn6A,[],2.3333333333333335,3,2020-03,no,no
+151,XHhy6uz4wEGEeG_gLklCIg,"['delivery', 'pickup']",2.6666666666666665,3,2020-02,yes,no
+152,839PjcTpQPr-ZsOnhYShcA,"['pickup', 'delivery']",3.0,3,2019-11,yes,no
+153,kNauAom52zaXZ2eyFuG1UA,[],4.666666666666667,3,2021-06,no,yes
+154,0ER88SYlliG5evJgXaU-wg,"['delivery', 'pickup']",2.0,3,2021-06,yes,no
+155,_fSvPLA7iutGZy7nFhVsUw,[],2.6666666666666665,3,2020-08,no,no
+156,5UVNfG1G3k59FHVtRGsW7w,['delivery'],4.0,3,2021-02,yes,yes
+157,44m0xoFDjj3hqTEjKI6LIw,[],2.0,3,2019-11,no,no
+158,N4pnBpZfDd3Q0og5ZwzlXg,['delivery'],4.0,3,2021-10,yes,yes
+159,QKqc6d6t0V5hb6A7xH_IJQ,['delivery'],3.3333333333333335,3,2020-02,yes,no
+160,KU3UDEcj6SRE65cXR-dFcg,['delivery'],1.6666666666666667,3,2013-10,yes,no
+161,3eLXrrneJIm-U4sCBsy8tw,[],4.5,2,2018-11,no,yes
+162,wFvChsKkYbJ4089FitLvNg,[],4.0,3,2021-01,no,yes
+163,LRjrBIlPAkg3MUfXLtCOGA,[],3.6666666666666665,3,2021-04,no,yes
+164,7u48zAaiOHAxB1aZLHNokA,[],3.6666666666666665,3,2020-10,no,yes
+165,3q-5r3Hb43kPfniUWrUrqQ,[],2.0,3,2021-11,no,no
+166,wTpyfk3dv2yjzguAl9wOOA,[],3.3333333333333335,3,2020-03,no,no
+167,-enLRgCfD_ACzEj1cFQfTA,"['delivery', 'pickup']",3.0,3,2021-07,yes,no
+168,8_Wh6C2pP8uLs8TBMb7iHQ,[],2.6666666666666665,3,2021-10,no,no
+169,9bOL2d6kcsMPJsw9x95gwg,"['pickup', 'delivery']",1.0,2,2021-08,yes,no
+170,JNgSyz5Yp9GJb23mXaub_g,[],4.0,3,2019-04,no,yes
+171,-1cEY55B25uKhSrOF8mp_w,"['delivery', 'pickup']",2.6666666666666665,3,2018-02,yes,no
+172,9MBZSFi-a_PxORDeSlL_QQ,"['pickup', 'delivery']",2.3333333333333335,3,2020-05,yes,no
+173,JIcUG3Pg07G2CUA5kVv30Q,"['delivery', 'pickup']",4.333333333333333,3,2021-08,yes,yes
+174,VUdQv3iGNGtJBEY49pI1_Q,['delivery'],2.6666666666666665,3,2021-06,yes,no
+175,neH64nX9-Sq_OWW1IBEppQ,['delivery'],4.333333333333333,3,2021-07,yes,yes
+176,byRgWBSOPO3mMHcLXH7wMQ,[],2.0,3,2021-09,no,no
+177,rzImMW7Fw49Efdnh77mE1Q,['delivery'],1.3333333333333333,3,2016-12,yes,no
+178,dlERCAsDVsoUI66ywR4swg,[],2.6666666666666665,3,2020-04,no,no
+179,53M7R3KytaQoYS8W5Pfluw,[],4.666666666666667,3,2021-08,no,yes
+180,GWHogMdwJZPOk1M3dlkCSQ,['delivery'],3.6666666666666665,3,2021-11,yes,yes
+181,-Dfzl9WdA2ccJ1YaNa7eVw,['delivery'],4.666666666666667,3,2021-11,yes,yes
+182,fmMW7944SdJSftZK-r50mA,[],4.333333333333333,3,2020-12,no,yes
+183,qWLpt3G8NqPlV3LR_A6EOw,"['delivery', 'pickup']",2.0,3,2018-07,yes,no
+184,VUYPfkm04vhJQ6WJxA2WpA,"['pickup', 'delivery']",2.3333333333333335,3,2018-03,yes,no
+185,Z1hatAZcC01vOVYgjy6-Nw,[],3.0,3,2018-05,no,no
+186,o4_zEfpuHt0VADVNErpNHQ,['delivery'],4.666666666666667,3,2017-11,yes,yes
+187,ShmEeBJ7y6pA3nOQPyEF7g,[],3.3333333333333335,3,2021-09,no,no
+188,tDXLZMWBddI0coP_JcSbuQ,[],3.0,3,2015-06,no,no
+189,ZaCcSgSGQ3bNd5er76rS4Q,['delivery'],1.0,3,2021-04,yes,no
+190,mHmNiCc9knBQwv4AhPqWzA,['delivery'],4.333333333333333,3,2016-07,yes,yes
+191,3wLr3c6KxRTb1P11_Bvj3A,"['pickup', 'delivery']",4.666666666666667,3,2020-01,yes,yes
+192,SCoTeQqWr8Sq8BiOgig3Fw,['delivery'],4.666666666666667,3,2021-11,yes,yes
+193,GissR_YpmBlvClpP-5D5oA,['delivery'],3.0,3,2020-03,yes,no
+194,QLwisuN7VcCujNv_KXHUsA,[],4.666666666666667,3,2020-06,no,yes
+195,qmafds6zX0oaDDB7sV2g_A,['delivery'],2.6666666666666665,3,2015-12,yes,no
+196,5Joe9jB1rnv_m2Y9D1OvmQ,['delivery'],4.0,3,2016-03,yes,yes
+197,7nRA5GIDeuAMiFjoD3HAtw,[],4.666666666666667,3,2014-03,no,yes
+198,Ic7p5nqe3W_JOWcG836gdw,[],3.6666666666666665,3,2016-06,no,yes
+199,Cxys2qo-Q8wAleoAIcHYBw,[],2.5,2,2019-03,no,no
+200,9rmZgOxXjTSXL9fvOuYnyw,"['pickup', 'delivery']",1.6666666666666667,3,2020-02,yes,no
+201,4y7VJw395shaVvITHDCPhw,[],1.6666666666666667,3,2019-05,no,no
+202,NmX248l48SKYtNOey94o3A,['delivery'],3.6666666666666665,3,2020-09,yes,yes
+203,qZZ8WpuE9OvyXfmUzhu2jA,"['delivery', 'pickup']",2.3333333333333335,3,2018-12,yes,no
+204,i6yhw8DhKj1EmWFAeCU9WA,"['pickup', 'delivery']",3.3333333333333335,3,2021-11,yes,no
+205,GstXKuT7468KxrtwvsjaNQ,[],3.6666666666666665,3,2021-09,no,yes
+206,5K8rbWcEfCxbTY6DU_-7YA,[],5.0,3,2020-04,no,yes
+207,G8boOuj-VenMkkFjgUX4Dg,[],3.3333333333333335,3,2020-01,no,no
+208,qMgGaHEzpPPdDkPD4ZKZsA,[],4.666666666666667,3,2021-08,no,yes
+209,TdmKVw_ViOK6xdBOkJTntg,['delivery'],1.3333333333333333,3,2018-02,yes,no
+210,5iJt-c0p98PVWGaVYEfinQ,[],4.0,3,2021-06,no,yes
+211,V7sFiSqCA4WOFs40U2GybA,['delivery'],3.6666666666666665,3,2021-09,yes,yes
+212,EezFWHYcvGr6zRMoSEaATQ,[],4.666666666666667,3,2021-07,no,yes
+213,zHBwZZ95WlAxSmsO2tNefg,['delivery'],4.333333333333333,3,2021-10,yes,yes
+214,cKIvAKsGVOr9W-L-4bc3NA,"['delivery', 'pickup']",3.0,3,2018-10,yes,no
+215,3uwe3xkRVY2chAmPn6klFQ,[],3.6666666666666665,3,2021-07,no,yes
+216,gLG2_8QTXflr1yHLgCOStg,['delivery'],2.3333333333333335,3,2018-03,yes,no
+217,5j71CBED4_hDRVGmdo3paQ,"['pickup', 'delivery']",2.0,3,2020-11,yes,no
+218,8JkyD3dPce80DFc0_W5XAw,"['pickup', 'delivery']",4.333333333333333,3,2021-09,yes,yes
+219,Srh1dnz7tAfLOqyl5Qkx9A,[],3.0,3,2021-05,no,no
+220,Vci-QH8mun724IogkfTcbA,['delivery'],2.6666666666666665,3,2021-05,yes,no
+221,HLsR8uB5UpkLUNWHzynHzw,['delivery'],2.3333333333333335,3,2015-06,yes,no
+222,HZ_xOzn5yqmwPXbYmkF2XA,['delivery'],3.0,3,2021-08,yes,no
+223,icThT3wDChrotRM3-lW9lA,['delivery'],3.6666666666666665,3,2021-06,yes,yes
+224,QaBtGkhVueef7tcw1apfWw,['delivery'],3.6666666666666665,3,2021-02,yes,yes
+225,0DBsLWhwkvtXDLfP5hrcmA,[],4.333333333333333,3,2021-07,no,yes
+226,BNFVSiAejxq6mBspIINJtg,['delivery'],4.666666666666667,3,2017-12,yes,yes
+227,NTKDMcOFPQMaJQ7CQZ1LEA,['delivery'],3.6666666666666665,3,2020-01,yes,yes
+228,9pkc6lUfxeFjh5wu0iIQMg,[],3.6666666666666665,3,2018-08,no,yes
+229,W4nVdonOMJPCZswyEIRLHw,[],4.0,3,2021-12,no,yes
+230,Wnl6oiz7ZrrMvqaomCtYqQ,"['delivery', 'pickup']",3.0,3,2021-07,yes,no
+231,FVhqpdqqCWYckOhJ-7ouyA,"['delivery', 'pickup']",3.0,3,2021-06,yes,no
+232,wz6lugKpx0VjisfGZOqF9Q,['delivery'],2.3333333333333335,3,2018-07,yes,no
+233,elKTR-zvpTBvb29MkKWT5g,"['pickup', 'delivery']",3.6666666666666665,3,2021-10,yes,yes
+234,3qT48T6cz8FEeNX18_dJ0w,[],3.6666666666666665,3,2021-06,no,yes
+235,5wxq3NFRlpbJi3-NMo4fzg,"['delivery', 'pickup']",3.3333333333333335,3,2021-06,yes,no
+236,CGbbu2AbMOGQoiOfwKjSYQ,['delivery'],2.6666666666666665,3,2020-03,yes,no
+237,s2OEu1n9uGGKCzSLS_D51Q,['delivery'],1.0,3,2020-09,yes,no
+238,o3zdRzgzq99UJ_ox1hMiEA,[],2.3333333333333335,3,2020-02,no,no
+239,O0SgSyqGkyheuBc_0MqOqQ,['delivery'],2.3333333333333335,3,2020-03,yes,no
+240,-ch1xM5MtC_InV0EBWMKcw,['delivery'],4.333333333333333,3,2019-12,yes,yes
+241,LNLqZGRD5xdbVvfl7QNWKQ,['delivery'],3.3333333333333335,3,2018-11,yes,no
+242,43PMg5XD8jDwio5nwh10Sg,[],4.0,3,2021-02,no,yes
+243,-BoxrdXr4ICwPRk-H72mzg,['delivery'],4.666666666666667,3,2021-10,yes,yes
+244,uBkVLSHRNIN2tUFJeFdSZg,['delivery'],2.6666666666666665,3,2015-08,yes,no
+245,LuA7RtcQvRQ6xXdYr4WGHw,['delivery'],2.3333333333333335,3,2020-05,yes,no
+246,eDNle86fcCbm2npYHgRFeg,"['pickup', 'delivery']",4.333333333333333,3,2019-05,yes,yes
+247,oX1QhLNHdrXt9Ugy2s-Q2A,['delivery'],2.3333333333333335,3,2019-11,yes,no
+248,MLEidqC-Ad6ARJFoqB0GfQ,[],4.666666666666667,3,2021-08,no,yes
+249,mJabGxrC7OQ1psjQ_QbxiQ,[],2.6666666666666665,3,2021-07,no,no
+250,hdyidCUK34kZPjZ9EZ5KLQ,['delivery'],2.6666666666666665,3,2016-10,yes,no
+251,_QsN-hLozwTB-PLL7JjYCw,['delivery'],4.333333333333333,3,2018-05,yes,yes
+252,uZIjydTzuixEs6gbt09YCA,[],4.666666666666667,3,2013-02,no,yes
+253,cXCUuxgCdICWDjx-3Mdspg,[],3.3333333333333335,3,2019-04,no,no
+254,FEqKQCztg132LamN-GbPqw,['delivery'],4.333333333333333,3,2015-11,yes,yes
+255,K-LNraosKR1VDTaUk3p-QQ,['delivery'],4.0,3,2017-10,yes,yes
+256,zg2T4IJxbZcTCnqsxgqBcw,['delivery'],2.3333333333333335,3,2020-06,yes,no
+257,yF0q0W9V8hWhowCsky-yjg,[],3.6666666666666665,3,2020-12,no,yes
+258,9xudD_wbeWOiazf9wCFrJg,['delivery'],3.0,3,2020-08,yes,no
+259,OsZPyfCT4X3EHJrPgFRqzA,['delivery'],4.0,3,2018-07,yes,yes
+260,CNpVd0dF9gs7X76suQ5mdA,"['pickup', 'delivery']",2.6666666666666665,3,2021-12,yes,no
+261,o5D-NUlrpdElrjNPK5-7lA,"['delivery', 'pickup']",4.666666666666667,3,2019-04,yes,yes
+262,T3u2jgO38fu2lL4CIZdOfA,['delivery'],2.0,3,2021-05,yes,no
+263,UTf09KKfeD80NlVT9jKmNA,['delivery'],3.6666666666666665,3,2021-06,yes,yes
+264,m-0x7SdXQx1fycDM-yHd9g,['delivery'],2.0,3,2013-10,yes,no
+265,pM0rAl3PECAnU14Q819cqw,['delivery'],1.3333333333333333,3,2011-05,yes,no
+266,uHlf782sPfJD_j71SXKObg,[],1.6666666666666667,3,2020-05,no,no
+267,52ceA6Ix7tgzxNdnqU3ClA,['delivery'],2.3333333333333335,3,2019-02,yes,no
+268,3a2i0ULUwkz_UTPq8_2Ugw,['delivery'],3.6666666666666665,3,2021-06,yes,yes
+269,hZi91eKrUIm43cl_DqG_kg,[],4.0,3,2021-12,no,yes
+270,PbxXR4bTAoXzelmtRIigAQ,['delivery'],2.0,3,2019-10,yes,no
+271,xCKRyfxgWD6NuFuvaeNcRA,['delivery'],2.6666666666666665,3,2013-04,yes,no
+272,omGWiMMI_zbwWszxac1Jqg,['delivery'],1.3333333333333333,3,2021-10,yes,no
+273,uEV9pPSR8CUKwnMsFRhxeA,[],3.3333333333333335,3,2019-09,no,no
+274,Om5vWlZuQyIKY7gEDqRzMw,"['pickup', 'delivery']",2.0,3,2021-04,yes,no
+275,yrlKT69TJ_F9Dki-1bP3TQ,"['delivery', 'pickup']",4.333333333333333,3,2020-06,yes,yes
+276,sc2_564gsfs5nyDXOKmI8g,[],2.0,3,2017-05,no,no
+277,PQE3GTIYQc8jgV7R5q6xCw,['delivery'],4.666666666666667,3,2018-02,yes,yes
+278,05O6cMbF2qy0abLR1UTrhQ,"['pickup', 'delivery']",5.0,2,2021-09,yes,yes
+279,UXGBhV_q9q-SAUt7CZEKjw,[],4.0,3,2020-03,no,yes
+280,5Y2QbypSD9ces-aX0-mrPg,['delivery'],4.666666666666667,3,2018-08,yes,yes
+281,Ky8yhJVLvhhUF_KvaLPOoA,['delivery'],2.3333333333333335,3,2019-08,yes,no
+282,nofPE70z-OsBWRcq08Ks1Q,['delivery'],5.0,3,2021-08,yes,yes
+283,uKOEAJrv3QP59dJ0Mj6cBg,['delivery'],3.0,3,2021-07,yes,no
+284,8u79_zkH7S6YylqDae6ygQ,['delivery'],4.333333333333333,3,2021-06,yes,yes
+285,fFYvhpn01HYuGp6zqHpPmQ,[],2.3333333333333335,3,2019-10,no,no
+286,XQH2soIPKGbjZxgG-zZ0wQ,['delivery'],1.6666666666666667,3,2016-04,yes,no
+287,z0HEYd_IttPDoVP1XZ7ByA,[],5.0,3,2021-07,no,yes
+288,Ci7DMWTv4RGgP90ZlfQ3OA,[],2.3333333333333335,3,2019-11,no,no
+289,gsnAq4HObZCRGz2C9Tpx_A,[],5.0,2,2021-10,no,yes
+290,AW_IFBG-6crgbCQGkQg61Q,[],3.3333333333333335,3,2021-11,no,no
+291,hZEXoNuBm9kdpPOpi_QObg,[],2.6666666666666665,3,2020-02,no,no
+292,JpVpAwGSAXBIuyZ0GxlBXw,['delivery'],5.0,3,2021-09,yes,yes
+293,jUuWDJWcAv6bnTH54os4Zg,['delivery'],4.333333333333333,3,2021-09,yes,yes
+294,OpD-wgudQfV5FHfIhLohvQ,[],1.0,3,2017-12,no,no
+295,6EMpzz1uugL-VTQ2f_7SHg,['delivery'],1.3333333333333333,3,2021-03,yes,no
+296,4XX9oMdGqtXkoC8A29YvgA,"['pickup', 'delivery']",4.666666666666667,3,2021-08,yes,yes
+297,_Q7UUNtj307VBkq-QmrcJg,[],1.0,3,2021-05,no,no
+298,0wiXdYxQ1EeqRET-9MF64Q,['delivery'],1.3333333333333333,3,2011-11,yes,no
+299,p14yDn6g9xoLUDOxl8e5tA,[],2.0,3,2018-10,no,no
+300,RTP_ijR2KsRcZ-agCZeAnA,[],2.6666666666666665,3,2018-04,no,no
+301,ZTEXlPpOcWTnZsMgOUPI9A,[],4.333333333333333,3,2021-06,no,yes
+302,0K-v754XA2PKWxWzyVyybg,"['pickup', 'delivery']",3.0,3,2020-02,yes,no
+303,vVsv8Ow6w_1EQAGRxbYh1g,['delivery'],4.333333333333333,3,2020-03,yes,yes
+304,MoXYs9Gy5GDRyYfifg9BNw,['pickup'],3.6666666666666665,3,2016-11,yes,yes
+305,vYzxlETIQ22Rm3WBFl0ReQ,"['pickup', 'delivery']",3.6666666666666665,3,2021-11,yes,yes
+306,yHS7wMJhW3bZsaFQOhSmeA,['pickup'],2.3333333333333335,3,2021-07,yes,no
+307,lk-MX1oOeVLfTS--oqFsow,['delivery'],1.6666666666666667,3,2020-01,yes,no
+308,9NEm-9lMEuDG6SIocxe-yA,['delivery'],3.6666666666666665,3,2019-01,yes,yes
+309,5Smhh5LOUd4xs1hAa_EiSA,[],4.0,3,2020-12,no,yes
+310,jqwXf_tET6ucSHqFs9-QRQ,['delivery'],3.3333333333333335,3,2021-09,yes,no
+311,2TcoPHvJeftYNYLzRsmb7w,"['delivery', 'pickup']",4.0,3,2017-09,yes,yes
+312,c1NOGPImv8yAY3D-7xbGXQ,['delivery'],4.333333333333333,3,2019-12,yes,yes
+313,-JH_HT-pvFW6nv1L8TNYMw,"['delivery', 'pickup']",3.3333333333333335,3,2019-12,yes,no
+314,m6UHs2ALgLSJiAEoVqN98w,"['pickup', 'delivery']",1.6666666666666667,3,2019-05,yes,no
+315,Qa5nO5xH7YH0cZ5JuV27zQ,['delivery'],2.0,3,2018-10,yes,no
+316,MBiBsxSG_xzuhUAksU4SwQ,['delivery'],2.3333333333333335,3,2020-08,yes,no
+317,LDhMVyXmI6ipBD_cMrhOSg,"['pickup', 'delivery']",3.3333333333333335,3,2021-10,yes,no
+318,ZHJnsFwuqESp1oj4MVYLkg,['delivery'],3.6666666666666665,3,2017-09,yes,yes
+319,G4LWU4i9P_n2pc2o-ilxvA,['delivery'],2.6666666666666665,3,2019-06,yes,no
+320,P7zloOZFilYJTQybZarx-A,[],3.0,3,2021-07,no,no
+321,NqjCYVtUwfKyDanVZGfF8w,['delivery'],2.6666666666666665,3,2021-05,yes,no
+322,0HJQ2cXMk7HRw7mDiIzQ7Q,['delivery'],3.6666666666666665,3,2015-08,yes,yes
+323,WYbcnxQ36nzY1aXmhKjmYw,[],1.3333333333333333,3,2021-10,no,no
+324,Bkw-UZGGZR6UoGYYDp5U1Q,[],3.0,3,2021-03,no,no
+325,zlWaxO7pgCXQtHpWbdvong,[],2.6666666666666665,3,2019-02,no,no
+326,AFbpwEa01kai0Gdj_2MIYg,[],4.666666666666667,3,2020-10,no,yes
+327,J3KuSJ1yjWTIe0gKdNxM0w,['delivery'],4.333333333333333,3,2020-02,yes,yes
+328,lbi0E_plFqqvaxXL6MqL4w,[],3.6666666666666665,3,2021-01,no,yes
+329,QYFr5zYMWb-rKtb5zA0bbg,['delivery'],3.0,3,2018-01,yes,no
+330,rX2YZTC_GOIPyuhGIQhtbQ,['delivery'],2.6666666666666665,3,2020-11,yes,no
+331,bI9mxbdCVNoKktomRcVfXw,['delivery'],2.6666666666666665,3,2020-11,yes,no
+332,KnK4EmvyqTWyhmjvyFDQ8A,"['pickup', 'delivery']",4.333333333333333,3,2020-10,yes,yes
+333,lDZ9vqR9qs3_yJSCXS673A,"['pickup', 'delivery']",3.3333333333333335,3,2019-06,yes,no
+334,LAk73UAnoCOSyKqTDGXx1A,"['pickup', 'delivery']",4.333333333333333,3,2021-09,yes,yes
+335,EkaG41299Gc2K1LrfmjemA,['delivery'],2.6666666666666665,3,2018-12,yes,no
+336,28FntIhPd2JQuF6WgagOiw,['delivery'],4.666666666666667,3,2021-06,yes,yes
+337,bGM8rvwj_X-LbBZIaCCYEQ,[],2.0,3,2021-12,no,no
+338,cVo51FBr5yLg_C-x3Rtrng,[],3.6666666666666665,3,2018-03,no,yes
+339,MdJPgxU68PZ3Q7IMG-zwSQ,"['pickup', 'delivery']",2.6666666666666665,3,2017-07,yes,no
+340,P1dZhNMtN4RsfekUocDGfQ,['delivery'],4.0,3,2017-08,yes,yes
+341,TRnx5u8g3pw4F4K6ifHchQ,"['pickup', 'delivery']",3.3333333333333335,3,2018-11,yes,no
+342,NJS5bQFwUZ69I1xNvKzksA,['delivery'],3.3333333333333335,3,2021-07,yes,no
+343,CFFcVdaVECeg7jDN5LndaQ,"['pickup', 'delivery']",3.3333333333333335,3,2019-07,yes,no
+344,jvFIDrLys_Tx8Opv23zxmg,['delivery'],3.0,3,2021-10,yes,no
+345,DpNHXP0Yroy8k_ZcorzUeQ,['delivery'],5.0,3,2020-12,yes,yes
+346,SeTiZwd1upsxY_XX2-yu2g,['delivery'],1.3333333333333333,3,2020-10,yes,no
+347,ojD8XReCjt4aTqq2EAi6Aw,['delivery'],3.3333333333333335,3,2019-11,yes,no
+348,NVtyJdKev6l00YTnco2Meg,['delivery'],2.6666666666666665,3,2021-07,yes,no
+349,ATr5rLX458GecFbq9lb1EA,[],3.0,3,2016-09,no,no
+350,9_IyNGq3yiLGYlGCht7G2w,[],2.3333333333333335,3,2018-06,no,no
+351,i4fWrN_LeR-_upcvR-zVVQ,['delivery'],3.3333333333333335,3,2021-07,yes,no
+352,0igTbZGXP_BrwBLFsvNPGw,[],2.0,3,2018-10,no,no
+353,tiP1OAdt5yBSAnhvpuCVRw,"['pickup', 'delivery']",1.6666666666666667,3,2018-10,yes,no
+354,WvpJDWaJ6O9C0_e681vQ9Q,['delivery'],4.666666666666667,3,2017-07,yes,yes
+355,T1Uc7i25OWNQG09SwvJ3iQ,[],4.666666666666667,3,2021-12,no,yes
+356,9UlktlmAdbjWf-Hc7P3Z6Q,[],3.0,3,2018-04,no,no
+357,HFRQ72qu3cM-oGtvbiSktA,['delivery'],1.3333333333333333,3,2021-07,yes,no
+358,kzDaoHxXvwp6QLSfEwMuZg,[],1.6666666666666667,3,2020-11,no,no
+359,G3zMWrloKv26HBGqC6PWNw,[],2.0,3,2020-10,no,no
+360,_7WUGkLhARsSb_hUAhZfpg,"['pickup', 'delivery']",3.3333333333333335,3,2019-05,yes,no
+361,RV6rCScQUhtDhTYUDY1lkg,[],4.333333333333333,3,2020-12,no,yes
+362,C8Z8yqnW5GWZVcXOa_cKlg,"['pickup', 'delivery']",4.333333333333333,3,2020-06,yes,yes
+363,TbI1Hll58KeDl45XgoJGYA,['delivery'],2.6666666666666665,3,2019-06,yes,no
+364,l5ondrwyEQtnKr9tAggIJw,[],2.6666666666666665,3,2020-03,no,no
+365,ewyqWAFcY53YSkP2ftWUAg,['delivery'],3.6666666666666665,3,2020-02,yes,yes
+366,4dKbi1NzMuQ4fJKxdPiyeQ,"['delivery', 'pickup']",2.3333333333333335,3,2021-08,yes,no
+367,ta6hhzYZ22KQelqN8oKfjA,['delivery'],4.333333333333333,3,2020-06,yes,yes
+368,Gyi1BTqEcWUErjmA9oedKA,"['pickup', 'delivery']",3.0,3,2018-09,yes,no
+369,erTYzaZXJbHdEsJsB1-1Tw,['delivery'],1.3333333333333333,3,2015-02,yes,no
+370,95LzYswYEG_40vWMUBNclw,['delivery'],3.3333333333333335,3,2019-11,yes,no
+371,4eT9FTSE3xqbg_4rm8NmAw,['delivery'],1.0,2,2021-04,yes,no
+372,mgGS4dPb19tD69I52xv2rg,['delivery'],3.0,3,2018-01,yes,no
+373,0LLBbJ2JGCN344DEx06UEA,['delivery'],4.333333333333333,3,2020-11,yes,yes
+374,mIbu3fShgdPE_6dL-iSq-Q,[],4.333333333333333,3,2021-04,no,yes
+375,tiPvJHuB-6uN4a9uHgEK1g,[],4.333333333333333,3,2020-10,no,yes
+376,Aq4Ckq863s_R5HZipgBmRA,[],4.333333333333333,3,2020-01,no,yes
+377,mfL1ywhPPMYU5bOodQgVuw,['delivery'],1.0,3,2020-05,yes,no
+378,Vml3vBqbQ8hH6E2IWWJ-6A,[],3.3333333333333335,3,2021-10,no,no
+379,7SQm_ouJ9_Zkib4q9MHgYQ,['delivery'],3.6666666666666665,3,2018-09,yes,yes
+380,gXTIq2sEQajMPefoj5uvwg,[],2.6666666666666665,3,2021-04,no,no
+381,8lH89_Mf9keNDfC_1GaySw,['delivery'],1.6666666666666667,3,2015-08,yes,no
+382,5ngTtZd6sktqYzmpPPUOjQ,['delivery'],3.0,3,2017-02,yes,no
+383,XycP9kWYBRezke9HSGJ_JA,['delivery'],3.3333333333333335,3,2020-06,yes,no
+384,YSvCtvCzlx1XjzLVjC5NgQ,[],3.0,3,2021-10,no,no
+385,NWFctWGfocFeYstOvSFPeg,[],3.3333333333333335,3,2018-11,no,no
+386,GmlFo1yUQrjw3TXjol0f1A,['delivery'],4.666666666666667,3,2017-05,yes,yes
+387,KB_uFyoONt1I2u7h5SXjAA,"['pickup', 'delivery']",1.0,3,2020-09,yes,no
+388,cwjJMnz5dMxUtD0nI4luxg,['delivery'],2.0,3,2018-02,yes,no
+389,uDV08XwB-JiRRD4swTXSIA,[],3.0,3,2019-12,no,no
+390,eRj9lFIjKxDuDUtZ58ipwg,['delivery'],3.3333333333333335,3,2017-03,yes,no
+391,XuBnKUrwktuQJs3CXg3z8Q,"['pickup', 'delivery']",4.333333333333333,3,2016-11,yes,yes
+392,-niBDgS3FID5eyDSWnQyFA,['delivery'],2.3333333333333335,3,2017-05,yes,no
+393,sxJcOjJkUGpjwDekZIFbhw,[],2.6666666666666665,3,2020-02,no,no
+394,OiP6DGrFU289nHy5KqQA9w,['delivery'],2.0,3,2019-12,yes,no
+395,EbsLCsXa_QtXWN90elpXAQ,"['pickup', 'delivery']",1.3333333333333333,3,2020-09,yes,no
+396,9n0Ayxw0ygCdl-hggMZcRw,[],1.3333333333333333,3,2020-01,no,no
+397,d0h9KU3j1aVU4-KIYfK4zA,['delivery'],3.0,3,2018-05,yes,no
+398,F9mIsMD9VXu33VV0J82Xlg,"['delivery', 'pickup']",2.6666666666666665,3,2019-01,yes,no
+399,tdpi5qLNR2wJHp9blfz8nA,"['pickup', 'delivery']",3.0,3,2021-07,yes,no
+400,cxdAV0JelOTwppAog9DvSA,['delivery'],3.0,3,2018-10,yes,no
+401,Snvc2uxmZx-2DTVqkX7Z8w,['delivery'],5.0,3,2017-04,yes,yes
+402,LeyGXopT2ueWbTWSIKAC3A,"['delivery', 'pickup']",2.3333333333333335,3,2019-09,yes,no
+403,rQjX2a9d8BMUqZXzU3s51Q,['delivery'],2.6666666666666665,3,2021-04,yes,no
+404,RgBOqxzJ75PWzXsUSjw2Gw,[],4.0,3,2021-06,no,yes
+405,ufva_xBUQtNuCDQX7mL0VA,"['delivery', 'pickup']",3.0,3,2020-01,yes,no
+406,Ll46SINGMQPij61k274FZQ,['delivery'],4.333333333333333,3,2020-07,yes,yes
+407,mL2qyaO1tdn_8OpG1gQVGA,[],4.666666666666667,3,2020-03,no,yes
+408,bX4cv8hX39irLXfxXmGLjw,['delivery'],2.3333333333333335,3,2021-06,yes,no
+409,TNuj3KZ0z9HHscYj74yXUg,"['pickup', 'delivery']",2.3333333333333335,3,2018-06,yes,no
+410,Ll-YN3_tpe3N22-UybYxKg,[],2.3333333333333335,3,2021-10,no,no
+411,E94bJNHEz0WD4G-zay3DsQ,['delivery'],4.666666666666667,3,2021-02,yes,yes
+412,KAwr56rYxGb9CHSmhpiL-g,['delivery'],2.3333333333333335,3,2015-08,yes,no
+413,UlstX5vQWT_n9QSAzoFA7A,"['pickup', 'delivery']",4.666666666666667,3,2021-12,yes,yes
+414,BC1ACScfHTKKbMVqct2HZg,['delivery'],4.333333333333333,3,2020-10,yes,yes
+415,kTqhpcUfDiA2amiZU8V8bg,"['delivery', 'pickup']",2.0,3,2014-08,yes,no
+416,cb7x1prKHsAG5EtDvcS7nw,"['pickup', 'delivery']",2.3333333333333335,3,2020-05,yes,no
+417,JM_naG-wCTrntAQoK-O5kw,['delivery'],3.3333333333333335,3,2021-09,yes,no
+418,YSCW2GRt6PvQp0PNTNqf7A,['delivery'],4.0,3,2019-04,yes,yes
+419,ScnUb9liq-z8RlQpCmL6kg,['delivery'],2.6666666666666665,3,2018-07,yes,no
+420,KqY2sUzWXohlTPabiRxfOg,[],3.0,3,2019-09,no,no
+421,AdiV5a839j_RdCBptmZOZA,"['pickup', 'delivery']",3.6666666666666665,3,2017-02,yes,yes
+422,y-Sd7B1RxyOMDov-8_9OUQ,[],4.333333333333333,3,2019-05,no,yes
+423,f7czfI7do10eHFFSvbMduQ,[],1.3333333333333333,3,2020-01,no,no
+424,kmRM_sVqFS7CVSqD0ZjnOw,['delivery'],2.3333333333333335,3,2018-11,yes,no
+425,bH6oFkNMb8RjVidOauXE5w,"['delivery', 'pickup']",3.0,3,2021-11,yes,no
+426,e9tUky5iQB9SyIYev3DL6w,[],2.3333333333333335,3,2020-01,no,no
+427,VttKVZB6FLGsTBcvBzCOMA,"['pickup', 'delivery']",3.6666666666666665,3,2021-11,yes,yes
+428,NoRJUBPGFK4rksNIkVXu6Q,[],2.3333333333333335,3,2018-11,no,no
+429,Y9Z_vWgi0A8vb3QRYzzplw,"['delivery', 'pickup']",3.0,3,2015-08,yes,no
+430,eVCcmuiVPThN_d7eb6CxOw,['delivery'],3.0,3,2019-05,yes,no
+431,p6X38vGco5osw72tmR1t-g,['delivery'],3.3333333333333335,3,2017-04,yes,no
+432,txIUTlA8SyuF0kWaZhNnaw,[],3.0,3,2011-11,no,no
+433,F989F4i871pPCb49Om0lpA,"['delivery', 'pickup']",3.0,3,2020-02,yes,no
+434,bpRQSLfc6P1XrhpgS9D-Mw,['delivery'],3.6666666666666665,3,2014-11,yes,yes
+435,oXTILJBmoKP8Ksjziii_Sw,[],3.0,3,2020-09,no,no
+436,gyiwgkWW897GL_Zjm7QADg,['delivery'],1.6666666666666667,3,2021-05,yes,no
+437,JfYOJWrXhJz0IRXqjRCItw,['delivery'],4.666666666666667,3,2021-11,yes,yes
+438,D6Ygx8oaffqubGQuhYkalA,"['delivery', 'pickup']",2.0,3,2019-11,yes,no
+439,tfcJyh3D0SYWVYwJCzjHnA,"['pickup', 'delivery']",2.3333333333333335,3,2015-08,yes,no
+440,PqPa5KcwNPqLl6kofX3AyA,['delivery'],2.6666666666666665,3,2019-05,yes,no
+441,Sd1KvEA89o-JD_BVo73N_w,[],3.3333333333333335,3,2019-09,no,no
+442,YcD3YRhr98C5TNLXoeihFw,"['pickup', 'delivery']",3.3333333333333335,3,2015-07,yes,no
+443,VxyNhlQWuCtVzaPyTMY_dg,"['delivery', 'pickup']",3.3333333333333335,3,2019-05,yes,no
+444,02u__VPNrdWsNeTNA_xyCw,"['delivery', 'pickup']",3.3333333333333335,3,2021-06,yes,no
+445,222ZG8p4dvGDgCJhfb5hMw,['delivery'],1.6666666666666667,3,2015-11,yes,no
+446,ImXkfyAPKmEkWNzbQnMA2Q,[],3.0,3,2021-11,no,no
+447,AxFlf3YJFeXiX3TfAWFHgQ,[],3.5,2,2021-06,no,yes
+448,rB3jGlEpd548OivmCMeL4w,[],2.3333333333333335,3,2018-01,no,no
+449,DHnYIn8DC5hZnab6_9gElQ,"['pickup', 'delivery']",4.0,3,2018-10,yes,yes
+450,icUf5bpRmZ8uVi0fZS9gAQ,['delivery'],2.0,3,2019-08,yes,no
+451,mMUTod7Tpnb0_glDueF9wQ,['delivery'],4.666666666666667,3,2020-12,yes,yes
+452,BxR-aUzV3F6PIRKCTh6Ubg,['delivery'],2.3333333333333335,3,2020-06,yes,no
+453,uAmPeqYbtHOgr45t1zXQPg,['delivery'],3.0,3,2018-09,yes,no
+454,_BxWi7-9ZUk80Gl5GEMH-A,['delivery'],3.6666666666666665,3,2019-10,yes,yes
+455,EZ7mDlnv4GHNoxWt09-9bA,['delivery'],4.0,3,2021-09,yes,yes
+456,A07w6cQC554pHMG-mbSz1Q,"['pickup', 'delivery']",2.0,3,2018-11,yes,no
+457,R3p7Igi6brEUWMFizRgZ1A,[],2.3333333333333335,3,2018-02,no,no
+458,aT2t4GgMQ32qQuFX-AgmAA,"['delivery', 'pickup']",3.0,3,2019-05,yes,no
+459,Na6UAi1zqPwXAM8jC4utCA,"['pickup', 'delivery']",2.6666666666666665,3,2021-11,yes,no
+460,5eanf5RsFacxSaZ_6PpUkQ,['delivery'],2.3333333333333335,3,2018-09,yes,no
+461,1u3F6blCoRyJRXAgALDCmQ,"['delivery', 'pickup']",3.6666666666666665,3,2021-10,yes,yes
+462,l3CDE_Yaqufitm7laM-ujg,[],3.6666666666666665,3,2021-07,no,yes
+463,olpJrC99sruox3S69Lq1yw,"['pickup', 'delivery']",2.6666666666666665,3,2018-10,yes,no
+464,wkgbCrcZFf10MBNbCnKoWw,"['pickup', 'delivery']",2.3333333333333335,3,2018-02,yes,no
+465,bpq3D2avIng8qZ3IrQ1gUg,"['pickup', 'delivery']",3.6666666666666665,3,2021-07,yes,yes
+466,ioXvs43mTsZYVmwMhf5GYQ,['delivery'],2.0,3,2021-10,yes,no
+467,wO1g9Z3oSNf3FcwlxjFcCQ,[],2.6666666666666665,3,2016-06,no,no
+468,t7ZBbn2m87g2bwGb_VVCdQ,['delivery'],2.3333333333333335,3,2018-09,yes,no
+469,lLXeVmE3elWAJvR1zf6xQw,[],5.0,3,2021-10,no,yes
+470,Ftkm1_WemgRGWvSq5UPvtw,['pickup'],2.6666666666666665,3,2021-06,yes,no
+471,TuOam8qp0lrcIw8p1R9MVA,['delivery'],3.6666666666666665,3,2020-10,yes,yes
+472,FIjPaYB9AFs-jeutXKvGvA,"['delivery', 'pickup']",3.3333333333333335,3,2018-03,yes,no
+473,dgzj0TiXWymhq7udZMH3yA,['delivery'],4.333333333333333,3,2021-11,yes,yes
+474,VU5H07M-xmJy6KHvGynhDw,['delivery'],3.6666666666666665,3,2021-07,yes,yes
+475,WvzeORRIcQEk8sG0b9RFKA,"['delivery', 'pickup']",2.0,3,2019-09,yes,no
+476,HH-pDFQ2zbUX1-a_TuQyOg,['delivery'],2.0,3,2019-06,yes,no
+477,3JzZgiSth43NtirtuolK3Q,[],3.3333333333333335,3,2020-08,no,no
+478,X47jSLfo157mMkttGdaokA,['delivery'],2.3333333333333335,3,2010-03,yes,no
+479,quBJfpwoz5Jzn4ztAvZ0lQ,['pickup'],3.0,3,2016-10,yes,no
+480,XyBkQF1t4Q5qj3VTZRromw,"['delivery', 'pickup']",2.3333333333333335,3,2021-07,yes,no
+481,DLVt2btBG-op8ZpH7HcqYg,"['delivery', 'pickup']",1.0,3,2021-10,yes,no
+482,K6WKVo6XtC5jbW7_5bzjPQ,"['pickup', 'delivery']",3.0,3,2016-04,yes,no
+483,FS7xyxV6LSEmI65a1VzBPA,[],2.0,3,2020-01,no,no
+484,SvOQSK1400bd-a2KuPchlw,[],2.6666666666666665,3,2018-07,no,no
+485,50zBIw5Ex6gtK1zn9bk9IQ,"['pickup', 'delivery']",3.6666666666666665,3,2017-07,yes,yes
+486,U63RXdwqcL8rLudylKa6Og,"['pickup', 'delivery']",2.6666666666666665,3,2021-05,yes,no
+487,ZVlPpF4qPDjG7Y-NsGIX9A,['delivery'],2.0,3,2017-04,yes,no
+488,Lv0a40PdegAYSuCJhnhwXQ,['delivery'],4.0,3,2020-08,yes,yes
+489,iNWFUQWfPQZK6Qi8omcvcg,[],3.6666666666666665,3,2021-04,no,yes
+490,I-uhBR4Sn9pIqH7zZCKGXw,['delivery'],2.3333333333333335,3,2021-05,yes,no
+491,_SNf8okcJ8XtzEOtyVkc-g,['delivery'],3.6666666666666665,3,2020-05,yes,yes
+492,5pZhQiXoqJYYjdbTbRHPnw,['delivery'],2.0,3,2018-04,yes,no
+493,AltmBHvMWfkUmm2kI_JIrw,[],4.666666666666667,3,2020-02,no,yes
+494,dzFXrboc6sVhUWpMgT1ugw,['delivery'],2.0,3,2020-03,yes,no
+495,KDU_i24Jz0pMQhUQQQgvEg,"['pickup', 'delivery']",3.0,3,2018-04,yes,no
+496,mdFA0ndnAKhgXoGMiouzOA,"['delivery', 'pickup']",2.3333333333333335,3,2018-12,yes,no
+497,hTp9bklQDyp9mExikMYkcA,[],3.0,3,2019-05,no,no
+498,m_I7RdZdmH5d_1L9wkqcwg,[],1.3333333333333333,3,2016-05,no,no
+499,_mW71naVfPOe4V6jaXs-vw,"['delivery', 'pickup']",3.6666666666666665,3,2019-12,yes,yes
+500,qlUsY1FWsqN-iXSGPYOpqQ,"['delivery', 'pickup']",3.3333333333333335,3,2021-08,yes,no
+501,-pm7uIlNe_KdgJiqJ9J2ag,['delivery'],1.6666666666666667,3,2017-11,yes,no
+502,qW3EsMvjh4LDAnj4ZA1L7Q,"['pickup', 'delivery']",4.0,3,2021-12,yes,yes
+503,mIR_nFxxJ9p0lA7Onvlvrw,[],2.3333333333333335,3,2021-08,no,no
+504,UqxFAtycsfXFMlX7OhRzOw,[],4.0,3,2021-06,no,yes
+505,cYBifgE1ohpmsZkvTmP-VA,['delivery'],3.6666666666666665,3,2021-10,yes,yes
+506,acdP0_uUuuZsJcuKVs0ElA,['delivery'],4.0,3,2019-08,yes,yes
+507,J2rQMoRpczlDNSvh4wJE9Q,[],5.0,3,2020-03,no,yes
+508,1E0EYFt1TNqF_Se9trZ0OA,[],2.3333333333333335,3,2019-08,no,no
+509,jVPH2vJWgXVwQJL2x33M0g,['delivery'],3.3333333333333335,3,2021-04,yes,no
+510,IzGE_LdENr3wjr_EI1UiAg,"['pickup', 'delivery']",2.0,3,2021-07,yes,no
+511,v8WF7oUBkOIPAXbJhW4m-g,['delivery'],4.333333333333333,3,2021-10,yes,yes
+512,ZJBy_2Le3bn6XAw9ZwoauA,[],2.3333333333333335,3,2018-05,no,no
+513,F0INJdRHzZO99-N64R2sHg,['delivery'],2.3333333333333335,3,2019-08,yes,no
+514,Yq-PV6CPk2oUOLgRpFJJdw,['delivery'],1.6666666666666667,3,2016-10,yes,no
+515,Y0FQULD9kJ_G4vj3-Qy47Q,"['pickup', 'delivery']",2.0,3,2020-02,yes,no
+516,HuFt-7CvFgY7hR21SEJFng,[],4.666666666666667,3,2021-10,no,yes
+517,RopMJo4hg9Vr1sudf_igjw,"['delivery', 'pickup']",1.3333333333333333,3,2021-08,yes,no
+518,0rxc_SbsEsHyAHf_ildb6Q,['delivery'],1.6666666666666667,3,2021-10,yes,no
+519,6YWQto8gcXWCkK3ADEuexg,['delivery'],3.3333333333333335,3,2020-05,yes,no
+520,gdEFU-jh_mWcIwLr9bUEKQ,"['pickup', 'delivery']",4.0,3,2017-02,yes,yes
+521,exmnFLNgSYaj6PwyeheOYQ,[],3.6666666666666665,3,2018-09,no,yes
+522,YjwXj_073Qsd2jash3Chmg,"['pickup', 'delivery']",4.666666666666667,3,2020-01,yes,yes
+523,N_MQDMpmTMQLMkP6B6XgfQ,['delivery'],3.3333333333333335,3,2021-10,yes,no
+524,wWGm2QMH5I9xegh0zYqMkg,[],2.6666666666666665,3,2019-12,no,no
+525,JHsWjUmWzkzIjsBTe2vlsA,[],3.6666666666666665,3,2021-07,no,yes
+526,ibY3WSaJDiLoUWi4PSK2hg,[],5.0,3,2018-10,no,yes
+527,rltY6RaVYfNLHX9qAOY94Q,['delivery'],2.3333333333333335,3,2021-07,yes,no
+528,GYSGeh7OA7vWn96mJZsjog,[],1.6666666666666667,3,2019-02,no,no
+529,kdyyoKitbRMKzeURqgaO_A,['delivery'],1.3333333333333333,3,2020-01,yes,no
+530,UjgIF9RWcPgMUkN-Esbl4g,[],4.333333333333333,3,2021-06,no,yes
+531,mmzB2G03bHiXfcEDsDDgSw,[],2.6666666666666665,3,2021-09,no,no
+532,aeti03g9A18kKGUnaMhY0A,"['delivery', 'pickup']",3.3333333333333335,3,2020-06,yes,no
+533,zSajBUaSPL5RGtXPwZIaDQ,"['pickup', 'delivery']",3.3333333333333335,3,2021-05,yes,no
+534,OaAASeZwuvCench8_efgnA,[],4.333333333333333,3,2021-06,no,yes
+535,pDGsPb9QaNVs5KU0b8v0KA,"['delivery', 'pickup']",3.6666666666666665,3,2021-07,yes,yes
+536,ZiB6_HLEYwLE0PrlHu_dlg,"['pickup', 'delivery']",1.0,3,2021-06,yes,no
+537,u4uU80NDtT9XsS95c8dOkA,[],3.6666666666666665,3,2020-04,no,yes
+538,sQiIOoh2zUr6ekBBaKqalA,['delivery'],3.6666666666666665,3,2020-09,yes,yes
+539,gWJ00cMBY5NK2sqIWlPPwg,['delivery'],3.3333333333333335,3,2021-12,yes,no
+540,i6qLhnukoWuZhk9rgFOfoA,"['delivery', 'pickup']",5.0,3,2020-11,yes,yes
+541,o-AGV2O0yEk8PbFka-zoRw,"['delivery', 'pickup']",1.6666666666666667,3,2020-11,yes,no
+542,V2GUkKbKE_f_zqCHTha1sg,"['pickup', 'delivery']",3.3333333333333335,3,2021-07,yes,no
+543,3apgHd_dVlMlqgUHwDMyUw,['delivery'],4.666666666666667,3,2020-09,yes,yes
+544,6jNaGkJAh_f7px61PIPlBA,['delivery'],2.6666666666666665,3,2019-03,yes,no
+545,81EOECUWGbHDbcaYWoBFew,"['pickup', 'delivery']",2.0,3,2020-11,yes,no
+546,51WraWKsBsjq3juIUtqJDQ,['delivery'],2.0,3,2016-07,yes,no
+547,GVTfgQ5OrDdFWbonIVARhw,['delivery'],2.3333333333333335,3,2016-05,yes,no
+548,zP56ObjcCOlDlLY-XG3HqA,['delivery'],3.0,3,2019-12,yes,no
+549,-2CqSSHNVufKmV63vLsg7Q,['delivery'],1.3333333333333333,3,2020-01,yes,no
+550,duQ69Mueu9wt4pd-b8FbUQ,['delivery'],4.666666666666667,3,2021-11,yes,yes
+551,K2xNTvu63uBfJOiF65HpUQ,[],4.666666666666667,3,2021-09,no,yes
+552,gTfVwdcp7rRGUPKD5n4Y9w,[],4.0,3,2021-11,no,yes
+553,emVRjpUjJQRZA9P-UJicgA,['delivery'],5.0,3,2020-12,yes,yes
+554,w-iVltnCyaCvlGh5khKmRw,"['pickup', 'delivery']",3.0,2,2020-08,yes,no
+555,BImVHRBshf0j-xXlEeynUA,['delivery'],2.0,3,2014-12,yes,no
+556,v9cw6EDL0qK_kxnmqhaiKA,['delivery'],3.6666666666666665,3,2021-06,yes,yes
+557,d5Nt443ZP5lm3P8eK-dsrw,[],4.333333333333333,3,2021-10,no,yes
+558,jeZpdWveNi5RiBg7k0gOaw,['delivery'],3.0,3,2019-08,yes,no
+559,9QrZvEVV_eXBZ-2AuhZNuA,[],3.0,3,2020-02,no,no
+560,jXPkxZav7REEownUNBj37Q,['delivery'],3.6666666666666665,3,2020-01,yes,yes
+561,adT_DAxgvMime-LayPohYQ,[],3.0,3,2020-12,no,no
+562,PLIxqpFtYj970B8uSNwnqQ,[],5.0,3,2020-12,no,yes
+563,75Nxl8jwhUmaYinioKKvVA,['delivery'],2.6666666666666665,3,2018-12,yes,no
+564,dbFD-VAgydZcT1ssnW_fjg,[],4.333333333333333,3,2021-05,no,yes
+565,6Pbx51TsiMvvW0WB8r6gig,[],3.6666666666666665,3,2021-07,no,yes
+566,QjucofD_QkeXKaed_Lx5dg,[],3.3333333333333335,3,2017-04,no,no
+567,z_3Nkn2kfUVqaOpTxd6Z7w,['delivery'],2.6666666666666665,3,2021-11,yes,no
+568,I9oC7Xu_BSq-cUAVhvTflQ,[],2.3333333333333335,3,2017-07,no,no
+569,t-NWvwhCxZdEh6qsf_PvUA,"['delivery', 'pickup']",3.0,3,2020-11,yes,no
+570,f6ZSeMacTLZAQH9VgZr21Q,[],3.6666666666666665,3,2015-12,no,yes
+571,mkHp2U1UnFSffda6RXh4FA,[],3.6666666666666665,3,2019-09,no,yes
+572,eQv8xlSnztX1b1hrMrn2nw,['delivery'],4.666666666666667,3,2020-01,yes,yes
+573,hJhoUkkKiJ7aksWycXR48A,[],3.3333333333333335,3,2020-11,no,no
+574,MA-Omg0tJ4jhDPvaRJMbow,"['pickup', 'delivery']",3.0,3,2021-09,yes,no
+575,JaIlfFCGtMcLNh8IHjoXQg,"['pickup', 'delivery']",4.666666666666667,3,2021-08,yes,yes
+576,5LUSYETTXJviCSYB2vAklg,['delivery'],2.0,3,2016-12,yes,no
+577,-gFneJXADEWkRz-04u-IDA,['delivery'],2.0,3,2017-11,yes,no
+578,d9pSFTJRwW7Dj7usS_fNSA,['delivery'],3.6666666666666665,3,2021-08,yes,yes
+579,LNqhirEi4r6hFP-zZ4Ektw,[],2.3333333333333335,3,2019-04,no,no
+580,tmbuyGI4njZ_yMIJ54tn5Q,['delivery'],1.3333333333333333,3,2020-09,yes,no
+581,uynwg7d8Zy5kW43tWYN51Q,[],2.6666666666666665,3,2021-10,no,no
+582,-kv059jYBrs3yW9KWSxixw,"['delivery', 'pickup']",2.6666666666666665,3,2016-02,yes,no
+583,V3_S3G6nVfkTm_WvxkWqfg,[],3.6666666666666665,3,2021-10,no,yes
+584,KYe0A5PyPrZEhGa_jSpLUw,"['pickup', 'delivery']",2.6666666666666665,3,2021-02,yes,no
+585,32VIjM8w_zOjy9spBW8_4g,['delivery'],4.666666666666667,3,2019-11,yes,yes
+586,D3Bb1p80CE8dkQx_rsXkhQ,"['delivery', 'pickup']",2.6666666666666665,3,2020-06,yes,no
+587,AvfpvPhe_ieFNgGpz7W15w,[],3.0,3,2021-12,no,no
+588,vHhLVRf0puOgQxgjj8llow,[],3.3333333333333335,3,2018-11,no,no
+589,HzOcMsLfVhrkyhuUg25wcA,"['delivery', 'pickup']",3.6666666666666665,3,2010-09,yes,yes
+590,-JBMqEmvh9Md3xvg0LqpGg,[],2.0,3,2018-09,no,no
+591,Iep06NTz7SA9wlNxVu0e0g,['delivery'],3.0,3,2021-02,yes,no
+592,uMqxjv4zDATL-p_QmsvUUQ,[],4.666666666666667,3,2021-09,no,yes
+593,LAn_MWoLmglu5x0EDLunOw,"['pickup', 'delivery']",4.0,3,2021-11,yes,yes
+594,FpjKp4UwonHPh9ZGsZ2ZeA,"['pickup', 'delivery']",2.0,3,2015-04,yes,no
+595,11nsxzkhg5i6KakKvX_WOg,['delivery'],4.333333333333333,3,2020-04,yes,yes
+596,fqM5f7iwsGDU_PQFufNhcQ,[],1.6666666666666667,3,2014-12,no,no
+597,0SY6iDFH6UWpdiYvu8AoPQ,['delivery'],4.666666666666667,3,2021-07,yes,yes
+598,kLj-gezZKi1OgSFlL4fdWg,[],2.3333333333333335,3,2018-11,no,no
+599,piziWIM_8i7tMannz-Ta-Q,['delivery'],5.0,3,2018-12,yes,yes
+600,_y8RmQjO2cGUhLa1PTa9kw,['delivery'],1.3333333333333333,3,2017-03,yes,no
+601,NIis8ziftYXWiOmFVxZJWQ,"['pickup', 'delivery']",4.333333333333333,3,2021-10,yes,yes
+602,0A3eFbhZ6xGCi8mG7s4gdQ,[],3.6666666666666665,3,2018-10,no,yes
+603,fPb2-l5DsGTTrwUWBVOG5g,"['pickup', 'delivery']",4.0,3,2021-08,yes,yes
+604,Lx57-7akwKyBsBSlK1C7Rw,"['pickup', 'delivery']",2.0,3,2018-06,yes,no
+605,tAgWUplNfS3CtXzJVOmhGg,['delivery'],4.333333333333333,3,2020-12,yes,yes
+606,ftO48tOMLzXozhtfRg-cGQ,[],4.666666666666667,3,2015-05,no,yes
+607,Pi0q57QsREhSGUQPYIAd4w,[],3.3333333333333335,3,2018-01,no,no
+608,E7a5xBKIgw-1s7NUZgnO8g,['delivery'],4.333333333333333,3,2020-07,yes,yes
+609,npz1yEsgl2lBqcuW9slBww,['delivery'],2.3333333333333335,3,2017-08,yes,no
+610,yeEsZCQjsl_fb18uUnKryQ,[],4.666666666666667,3,2021-08,no,yes
+611,qcrKwI5tiYK0baVTqwpmyg,['delivery'],3.3333333333333335,3,2019-01,yes,no
+612,EH-OP9usDpvaiteav3F-Cg,[],4.333333333333333,3,2020-06,no,yes
+613,QQyxsRVLW9SaJ86ry-JMgg,['delivery'],2.0,3,2019-11,yes,no
+614,8aLINm9h4oab3wIPdKqEfw,['delivery'],4.0,3,2020-07,yes,yes
+615,34pHN3bBTMRDOL4QdvUwBw,['delivery'],4.0,3,2019-09,yes,yes
+616,voOILw4KvdEyyE2R4Fjmeg,[],4.0,3,2021-12,no,yes
+617,AyQwwzj7rHlrRHhFcvExuQ,[],4.333333333333333,3,2017-10,no,yes
+618,Yi7o4fN4YxdU6tipIMj8_w,[],4.333333333333333,3,2021-10,no,yes
+619,5UcmGp5CflaVTUKZdp6HCA,['delivery'],1.6666666666666667,3,2019-08,yes,no
+620,gA66lEzWImESi0iI0U5gjQ,[],4.333333333333333,3,2021-10,no,yes
+621,I3y357PfB2MCEfn3WGicLw,['delivery'],4.0,3,2019-12,yes,yes
+622,JjW1_g1PR3L9ru8XFwsxLg,['delivery'],2.0,3,2017-05,yes,no
+623,QsGjaKRduireWDrjJRADOA,[],2.0,3,2021-07,no,no
+624,-VUCSdsS5O9h2CaW-9_n9A,[],3.6666666666666665,3,2021-05,no,yes
+625,GS3z95SsRQmwv-OhGOTdvQ,"['delivery', 'pickup']",3.3333333333333335,3,2021-09,yes,no
+626,8JPLQDiTrRQxzirtomuxTw,"['pickup', 'delivery']",2.6666666666666665,3,2020-02,yes,no
+627,mNdeP_EXyM0yj_NvqF3EuA,[],3.3333333333333335,3,2021-07,no,no
+628,2725Aunqqz_l59Kkx3pI2w,['delivery'],3.6666666666666665,3,2021-05,yes,yes
+629,Uq8rO7NRcJYUMAA5qz4jmw,['delivery'],4.0,3,2018-08,yes,yes
+630,GXT6RK76TnZUvrms65KhSw,"['delivery', 'pickup']",3.6666666666666665,3,2021-11,yes,yes
+631,9fLySerNU9o0myZAsS8vcg,[],5.0,3,2020-01,no,yes
+632,zWMelISUz8TNGMo5uqAk2g,"['delivery', 'pickup']",3.6666666666666665,3,2020-03,yes,yes
+633,eicXReLr42E6DRg0Pnwcmw,"['delivery', 'pickup']",3.6666666666666665,3,2021-06,yes,yes
+634,Iy0D0jTOVlRCYoaoylREMA,[],2.5,2,2020-01,no,no
+635,b-kx_A4CpJRFyQezD7K8KQ,"['pickup', 'delivery']",4.666666666666667,3,2020-12,yes,yes
+636,S67ZcdDRs9uiTHG3EEwnZw,[],2.6666666666666665,3,2020-03,no,no
+637,sNjAj_bsxKpDGSSvnQD1FQ,['delivery'],3.0,2,2020-05,yes,no
+638,H825KzFijj2LVM1R7DTxiA,"['pickup', 'delivery']",4.0,2,2021-09,yes,yes
+639,OjkClZjXwQwk3N2Se_vI8A,['delivery'],4.666666666666667,3,2021-01,yes,yes
+640,x8RuZqFMoXG36gtUwECuMQ,['delivery'],4.0,3,2020-10,yes,yes
+641,Offddm0Kl9K4494n3g723A,['delivery'],4.0,3,2021-11,yes,yes
+642,Opb5tUn6OkmC-3rF_ecW2Q,['delivery'],4.666666666666667,3,2020-09,yes,yes
+643,lE-31ifnr2IDBrPlws4CsA,[],4.0,3,2021-08,no,yes
+644,eZnhus3RZ2sVBaHF5K3qrg,[],3.0,3,2021-10,no,no
+645,2rZj5c4bW5u2WOGCbi8WoA,"['delivery', 'pickup']",4.0,3,2017-09,yes,yes
+646,lGyIJeBaexroUMPqmQadoA,['delivery'],2.3333333333333335,3,2021-06,yes,no
+647,sley_8wrhaM4BKUYZGx03g,['delivery'],2.3333333333333335,3,2019-01,yes,no
+648,7xU12b_x0wSCRgIBVtJtng,[],2.0,3,2019-09,no,no
+649,izpRdSdterbxQzkdaJepjA,[],3.3333333333333335,3,2021-09,no,no
+650,M_C4KGCXL29nUAMRVZylEQ,['delivery'],5.0,3,2016-09,yes,yes
+651,OllSOLYsh37K-0hAMVnHFg,[],3.6666666666666665,3,2021-07,no,yes
+652,TPWSozwh3o31POtk1QncXw,"['pickup', 'delivery']",4.0,3,2018-01,yes,yes
+653,mEFQ_4RALnCCta3i9SfCdg,"['pickup', 'delivery']",3.0,3,2020-01,yes,no
+654,Q3uHauQ4LRYjn7M8798OEA,[],1.3333333333333333,3,2020-08,no,no
+655,lMTyJb8Uv5DHqnobkz_3Vg,['delivery'],3.3333333333333335,3,2020-02,yes,no
+656,AWb8ivzljBHVd-DAIdYe8w,['delivery'],4.333333333333333,3,2020-11,yes,yes
+657,DdOAZXczEEgqgFOLDTvHVA,"['pickup', 'delivery']",4.666666666666667,3,2019-08,yes,yes
+658,88cHaylBdqaTup8MJ8cGUw,[],4.0,2,2020-02,no,yes
+659,SsfYYH2zj7Qw_X1vKohOBg,"['pickup', 'delivery']",1.6666666666666667,3,2018-07,yes,no
+660,wKth1sDKbz5dveYID6l0IA,[],3.3333333333333335,3,2021-10,no,no
+661,6JbZzMPO7a1WYMJ8O3HGsQ,[],3.6666666666666665,3,2021-09,no,yes
+662,sW2fQVgjQXjB1-w3GD17mg,['delivery'],4.0,3,2020-12,yes,yes
+663,SuTVrShuRIb-4JeXFvP-IQ,[],5.0,3,2018-12,no,yes
+664,XP80TPf_WEPqeEY7vSTzTQ,[],5.0,3,2021-05,no,yes
+665,SD9mmWQ-_EwXIiJk681mgA,"['pickup', 'delivery']",4.333333333333333,3,2020-04,yes,yes
+666,EC5jY8gr17DVOcOyIRCQPQ,"['pickup', 'delivery']",3.6666666666666665,3,2021-06,yes,yes
+667,g7yJVGhXehKeMagsRHb57w,"['pickup', 'delivery']",3.0,3,2019-06,yes,no
+668,laXyVIO1zAMZi7zhskn9gQ,"['pickup', 'delivery']",3.6666666666666665,3,2021-09,yes,yes
+669,UDuTdriFUWJx7ci0eKUdAw,['delivery'],4.0,3,2021-02,yes,yes
+670,WRtDn19Mx8osVpLSCy0iVg,['delivery'],4.0,2,2020-02,yes,yes
+671,BCuf1cWcX_tv2wvKGZYjXA,"['pickup', 'delivery']",2.0,3,2019-09,yes,no
+672,GJSWFUgJ_Vj31R_KSyHwIQ,[],4.0,3,2020-11,no,yes

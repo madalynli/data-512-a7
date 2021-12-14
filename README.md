@@ -3,7 +3,7 @@ Madalyn Li<br>
 Fall 2021
 
 # Goal
-The purpose of this project is to expand on the datafication of Covid-19. Specifically, the analysis for this project will focus on acquiring insights about how Yelp consumer reviews for restaurants within Wake County, NC were impacted during the course of the pandemic. The impact of this work will bring valuable insights that can potentially help drive revenue back into the restaurant industry and help re-establish trust between consumers and restaurants by promoting a public environment in which customers feel safer and at ease. The code and steps available to reproduce the analysis is located within the Jupiter notebook in this repository named hcds-a7-project-report.
+The purpose of this project is to expand on the datafication of Covid-19. Specifically, the analysis for this project will focus on acquiring insights about how Yelp consumer reviews for restaurants within Wake County, NC were impacted during the course of the pandemic. The impact of this work will bring valuable insights that can potentially help drive revenue back into the restaurant industry and help re-establish trust between consumers and restaurants by promoting a public environment in which customers feel safer and at ease. The code and steps available to reproduce the analysis is located within the Jupyter notebook in this repository named *hcds-a7-project-report.ipynb*.
 
 # Data Sources
 This project uses data from three different sources:
